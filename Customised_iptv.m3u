@@ -150,8 +150,8 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedb
 #EXTINF: -1 group-title="Bhakti/devotional", Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/StarMoviesSelectHDLogo.jpg" group-title="English", Star Movies select HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#English
+
 #EXTINF: -1 tvg-name="Zee Cafe Hd" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English", Zee Cafe Hd
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 group-title="English", & PRIVE HD
@@ -160,16 +160,13 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KsZx1mY.jpg" group-title="English", HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/EE9z3QX.jpg" group-title="English", FOX Movies HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/7hYtgQJ.png" group-title="English", Fox HD
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b1200000.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English", MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English", MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/wl3tjXZ.png?1" group-title="English", Sony Movies Action
-http://51.52.156.22:8888/http/009
+
+#Punjabi
+
 #EXTINF: -1 group-title="Punjabi", 5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:hlscat.com
 #EXTINF: -1 group-title="Punjabi", Jhanjar HD
