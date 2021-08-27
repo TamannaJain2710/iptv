@@ -62,10 +62,7 @@ https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,5
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="Ptc News" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTCNews.png" group-title="News",Ptc News
 https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b1396000_sleng.m3u8
-#EXTINF:-1 group-title="News", DD News (News)
-http://ottss.online:8000/44122162500170/30316873476781/182617
-#EXTINF:-1 group-title="News", DD National HD
-http://ottss.online:8000/44122162500170/30316873476781/182616
+
 #EXTINF:-1 tvg-name="AL JAZEERA" group-title="News", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="CNN NEW18" group-title="News", CNN NEW18
@@ -92,6 +89,8 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 #EXTINF:-1 group-title="News", Wion TV(News)
 http://ottss.online:8000/44122162500170/30316873476781/182669
+#EXTINF:-1 group-title="News", REPUBLIC NEWS
+http://ottss.online:8000/44122162500170/30316873476781/178880
 
 #Movies
 
