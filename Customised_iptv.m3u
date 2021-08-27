@@ -68,6 +68,10 @@ https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8?
 #EXTINF:-1 tvg-name="AL JAZEERA" group-title="News", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-name="FRANCE24" group-title="News", FRANCE24
+https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
+#EXTINF:-1 tvg-name="EURONEWS" group-title="News", EURO NEWS
+https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
 #EXTINF:-1 tvg-name="CNN NEW18" group-title="News", CNN NEW18
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 #EXTINF:-1 tvg-name="CNN International" group-title="News", CNN International
