@@ -113,6 +113,8 @@ https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="Zee Anmol Cinema" group-title="Hindi Movies", Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:-1,IN: tvg-name="STAR GOLD" group-title="Hindi Movies", STAR GOLD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/24300
 #EXTINF: -1 tvg-name="Rishtey Cineplex" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies", Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="Hindi Movies", B4U Kadak
@@ -125,6 +127,8 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF: -1 group-title="Hindi Movies", &PICTURES
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+#EXTINF:-1, tvg-name="& EXPLOR" group-title="Hindi Movies", & EXPLOR
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/13820
 #EXTINF:-1,IN: tvg-name="UTV ACTION" group-title="Hindi Movies", UTV ACTION
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51424
 #EXTINF: -1 group-title="Hindi Movies", mbc Bollywood Hd
