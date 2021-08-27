@@ -14,19 +14,19 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
 https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
 #EXTINF: -1 group-title="News", INDIA NEWS
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8?checkedby:hlscat.com
-#EXTINF: -1 group-title="News", news 18 india
+#EXTINF: -1 group-title="News", NEWS 18 INDIA
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF: -1 group-title="News", REPUBLIC BHARAT
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
 #EXTINF:-1 group-title="News", REPUBLIC BHARAT
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
-#EXTINF: -1 group-title="News", republic
+#EXTINF: -1 group-title="News", REPUBLIC
 https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
 #EXTINF: -1 group-title="News", sudarshan news
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w1867454157.m3u8
 #EXTINF: -1 group-title="News", TV 9 BHARATVARSH
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
-#EXTINF: -1 group-title="News", news 24
+#EXTINF: -1 group-title="News", NEWS 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 tvg-name="Tez" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/tez_news.jpg" group-title="News", Tez
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_4/chunklist.m3u8
@@ -44,7 +44,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",DD NEWS
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8?checkedby:iptvcat.com
-#EXTINF: -1 group-title="News", sudarshan news
+#EXTINF: -1 group-title="News", SUDARSHAN NEWS
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w1867454157.m3u8
 #EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnibYv_8eCCk7bXO-BxT6sH6dK-2ZsmZQUVObcLd=s900-c-k-c0x00ffffff-no-rj" group-title="News", CNBC Awaaz
 https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
@@ -177,20 +177,12 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 
 #EXTINF: -1 group-title="Punjabi", 5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:hlscat.com
-#EXTINF: -1 group-title="Punjabi", Jhanjar HD
-http://159.203.9.134/hls/jhanjar_hd/jhanjar_hd.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/d56XPXW.png" group-title="Punjabi", Life Punjabi
+#EXTINF: -1 tvg-logo="https://i.imgur.com/d56XPXW.png" group-title="Punjabi", DESI CHANNEL
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/hzFatTk.png" group-title="Punjabi", Punjabi Zindabad
-http://stream.pztv.online/pztv/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://britasia.tv/wp-content/uploads/2016/08/BATV_FINAL-LOGO.jpg" group-title="Punjabi", BritAsia TV
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 #EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/q5ukeS_O4U8d8rlUYqYgzJ2X4o-j98M30T-Zwxo5zHvxA_iCejbzd7Af1OrIW7ybME8.png" group-title="Punjabi", Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF: -1 tvg-logo="https://image.winudf.com/v2/image/ZmFzdHdheS5saXZlX3R2X2NoYW5uZWxfaWNvbl8wXzEwOTk5Y2Ux/icon.png?w=170&fakeurl=1" group-title="Punjabi", FastWay
-http://fastway.ddns.net:6421/fastway/live10/index.m3u8?
-#EXTINF: -1 tvg-id="BAL.IN" tvg-logo="https://balleballe.tv/wp-content/uploads/2019/07/logo-e1568618159543.png" group-title="Punjabi", Balle Balle
-https://live.wmncdn.net/balleballe/dfe65ad07232e060b007d2483602c06a.sdp/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Ytv_1994.png/revision/latest/top-crop/width/300/height/300?cb=20130901071257" group-title="Punjabi", Channel Y
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://primeasia.tv/assets/front/images/logo-new1.png" group-title="Punjabi", Prime Asia
