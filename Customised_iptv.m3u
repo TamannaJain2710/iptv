@@ -125,6 +125,8 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF: -1 group-title="Hindi Movies", &PICTURES
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+#EXTINF:-1,IN: tvg-name="UTV ACTION" group-title="Hindi Movies", UTV ACTION
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51424
 #EXTINF: -1 group-title="Hindi Movies", mbc Bollywood Hd
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 
