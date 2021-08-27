@@ -18,9 +18,13 @@ https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8?checkedby:hlscat.co
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF: -1 group-title="News", REPUBLIC BHARAT
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
+#EXTINF:-1 group-title="News", REPUBLIC BHARAT
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+#EXTINF: -1 group-title="News", republic
+https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
 #EXTINF: -1 group-title="News", sudarshan news
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w1867454157.m3u8
-#EXTINF: -1 group-title="News", tv 9 bharat
+#EXTINF: -1 group-title="News", TV 9 BHARATVARSH
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 #EXTINF: -1 group-title="News", news 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8?checkedby:iptvcat.com
@@ -38,10 +42,8 @@ https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF: -1 tvg-logo="data:image/png;base64,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" group-title="News", NEWS X
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
-#EXTINF: -1 group-title="News", republic
-https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
-#EXTINF:-1, REPUBLIC BHARAT
-https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",DD NEWS
+https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8?checkedby:iptvcat.com
 #EXTINF: -1 group-title="News", sudarshan news
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w1867454157.m3u8
 #EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnibYv_8eCCk7bXO-BxT6sH6dK-2ZsmZQUVObcLd=s900-c-k-c0x00ffffff-no-rj" group-title="News", CNBC Awaaz
@@ -50,9 +52,9 @@ https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF: -1 tvg-logo="https://images.assettype.com/afaqs%2F2019-11%2F3d64fc8b-ce7c-4df5-80a5-ffffd46f8bfb%2FCNBC_TV18_Logo.jpg?format=webp&w=400&dpr=2.6" group-title="News", CNBC TV18
 https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
-#EXTINF:-1, TIMES NOW
+#EXTINF:-1 group-title="News" , TIMES NOW
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1, MIRROR NOW
+#EXTINF:-1 group-title="News", MIRROR NOW
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 #EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
@@ -62,7 +64,8 @@ https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,5
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="Ptc News" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTCNews.png" group-title="News",Ptc News
 https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b1396000_sleng.m3u8
-
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",DW
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8?
 #EXTINF:-1 tvg-name="AL JAZEERA" group-title="News", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="CNN NEW18" group-title="News", CNN NEW18
