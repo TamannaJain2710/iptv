@@ -119,7 +119,7 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF: -1 group-title="Movies", &PICTURES
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
-#EXTINF:-1 tvg-id="Zee Action" tvg-logo="https://assets.botallen.live/images/t/TIckHTwWsy.png" group-title="Movies", ZEE ACTION
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-logo="https://assets.botallen.live/images/t/TIckHTwWsy.png" group-title="Movies", ZEE ACTION
 https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
 #EXTINF: -1 group-title="Movies", zee cinema
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
