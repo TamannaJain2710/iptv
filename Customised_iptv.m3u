@@ -44,11 +44,11 @@ https://weblive.republicworld.com/liveorigin/republictv/master_hdlive_360p.m3u8
 https://republic.pc.cdn.bitgravity.com/live/bharat_hls/master.m3u8
 #EXTINF: -1 group-title="News", sudarshan news
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w1867454157.m3u8
-#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnibYv_8eCCk7bXO-BxT6sH6dK-2ZsmZQUVObcLd=s900-c-k-c0x00ffffff-no-rj" group-title="Business news", CNBC Awaaz
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnibYv_8eCCk7bXO-BxT6sH6dK-2ZsmZQUVObcLd=s900-c-k-c0x00ffffff-no-rj" group-title="News", CNBC Awaaz
 https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
-#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnibYv_8eCCk7bXO-BxT6sH6dK-2ZsmZQUVObcLd=s900-c-k-c0x00ffffff-no-rj" group-title="Business news", CNBC Awaaz
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnibYv_8eCCk7bXO-BxT6sH6dK-2ZsmZQUVObcLd=s900-c-k-c0x00ffffff-no-rj" group-title="News", CNBC Awaaz
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
-#EXTINF: -1 tvg-logo="https://images.assettype.com/afaqs%2F2019-11%2F3d64fc8b-ce7c-4df5-80a5-ffffd46f8bfb%2FCNBC_TV18_Logo.jpg?format=webp&w=400&dpr=2.6" group-title="Business news", CNBC TV18
+#EXTINF: -1 tvg-logo="https://images.assettype.com/afaqs%2F2019-11%2F3d64fc8b-ce7c-4df5-80a5-ffffd46f8bfb%2FCNBC_TV18_Logo.jpg?format=webp&w=400&dpr=2.6" group-title="News", CNBC TV18
 https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
 #EXTINF:-1, TIMES NOW
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
@@ -62,6 +62,10 @@ https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,5
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="Ptc News" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTCNews.png" group-title="News",Ptc News
 https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b1396000_sleng.m3u8
+#EXTINF:-1 group-title="News", DD News (News)
+http://ottss.online:8000/44122162500170/30316873476781/182617
+#EXTINF:-1 group-title="News", DD National HD
+http://ottss.online:8000/44122162500170/30316873476781/182616
 #EXTINF:-1 tvg-name="AL JAZEERA" group-title="News", AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-name="CNN NEW18" group-title="News", CNN NEW18
@@ -86,6 +90,8 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF: -1 group-title="News", SADHNA PLUS
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
+#EXTINF:-1 group-title="News", Wion TV(News)
+http://ottss.online:8000/44122162500170/30316873476781/182669
 
 #Movies
 
