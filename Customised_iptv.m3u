@@ -45,7 +45,7 @@ https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",DD NEWS
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",DD NATIONAL
-https://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF: -1 group-title="News", SUDARSHAN NEWS
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w1867454157.m3u8
 #EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnibYv_8eCCk7bXO-BxT6sH6dK-2ZsmZQUVObcLd=s900-c-k-c0x00ffffff-no-rj" group-title="News", CNBC Awaaz
