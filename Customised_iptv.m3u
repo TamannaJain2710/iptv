@@ -115,13 +115,13 @@ http://tv.zaintv.net:80/Davidemmanuel/D477376480/56313
 http://watchindia.net:8880/live/33253/72963/780.m3u8
 #EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Entertainment",Star Bharat HD
 http://89.187.182.181:9090/SM_FHD-HINDI-STARBHARAT/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="And tv HD hd"group-title="Entertainments",And Tv HD
+#EXTINF:-1 tvg-name="And tv HD hd"group-title="Entertainment",And Tv HD
 http://watchindia.net:8880/live/33253/72963/782.m3u8
-#EXTINF:-1 tvg-name="And tv HD hd"group-title="Entertainments",And Tv HD
+#EXTINF:-1 tvg-name="And tv HD hd"group-title="Entertainment",And Tv HD
 http://89.187.182.181:9090/SM_FHD-HINDI-ANDTV/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0tvg-name="Colors HD" group-title="Entertainments" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9", Colors HD
+#EXTINF:0tvg-name="Colors HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9", Colors HD
 http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee TV HD" group-title="Entertainment",Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
