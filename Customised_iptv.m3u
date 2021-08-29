@@ -1,5 +1,4 @@
 #EXTM3U 
-
 #NEWS
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="News", AAJ TAK HD
@@ -189,6 +188,8 @@ http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/13820
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51424
 #EXTINF: -1 group-title="Hindi Movies", mbc Bollywood Hd
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1,OS: tvg-name="OSN STAR Movies" group-title="English Movies", OSN STAR Movies
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43368
 
 #Infotainment
 
@@ -232,8 +233,6 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 
 #English Movies
 
-#EXTINF:-1,OS: tvg-name="OSN STAR Movies" group-title="English Movies", OSN STAR Movies
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43368
 #EXTINF:-1,OS: tvg-name="OSN Fox Movies Action" group-title="English Movies", OSN Fox Movies Action
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43347
 #EXTINF: -1 tvg-name="Zee Cafe Hd" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English Movies", Zee Cafe Hd
