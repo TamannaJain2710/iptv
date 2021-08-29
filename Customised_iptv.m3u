@@ -178,6 +178,10 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-MAX/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="Sony Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi Movies", Sony Wah
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+#EXTINF:-1 group-title="Hindi Movies", Sony Max 2 
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18802
+#EXTINF:-1 group-title="Hindi Movies", Sony Pal
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18801
 #EXTINF: -1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg" group-title="Hindi Movies", MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF: -1 tvg-name="AND PICTURES"group-title="Hindi Movies",AND PICTURES
@@ -196,6 +200,10 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43368
 #EXTINF:-1 group-title="Hindi Movies", MTV 
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6219
+#EXTINF:-1 group-title="Hindi Movies",Miniplex
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18803
+#EXTINF:-1 group-title="Hindi Movies",Star Gold Select
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6228
 
 #Infotainment
 
@@ -209,6 +217,8 @@ http://89.187.182.181:9090/SM_FHD-HINDI-DISCOVERY/tracks-v1a1/index.m3u8
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10147
 #EXTINF:-1 group-title="Infotainment",Sony BBC Earth(Eng)
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6226
+#EXTINF:-1 group-title="Infotainment", History TV
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18794
 
 #Kids
 
