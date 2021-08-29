@@ -142,7 +142,7 @@ http://89.187.182.181:9090/SM_FHD-HINDI-ZEETV/tracks-v1a1/index.m3u8
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0  tvg-name="Zee Cinema HD" group-title="Hindi Movies" aspect-ratio="16:9", Zee Cinema HD
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
-#EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Hindi Movies" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="JioTV",Zee Cinema HD
+#EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Hindi Movies" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://89.187.182.181:9090/SM_FHD-HINDI-ZEECINEMA/tracks-v1a1/index.m3u8
 #EXTINF: -1 group-title="Hindi Movies", zee cinema
 https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
@@ -177,11 +177,11 @@ http://89.187.182.181:9090/SM_FHD-HINDI-MAX/tracks-v1a1/index.m3u8
 https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 #EXTINF: -1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg" group-title="Hindi Movies", MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF: -1 group-title="Hindi Movies", &PICTURES
+#EXTINF: -1 tvg-name="AND PICTURES"group-title="Hindi Movies",AND PICTURES
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
-#EXTINF:-1 tvg-name="And Pictures HD hd"group-title="Hindi Movies",And Pictures HD
+#EXTINF:-1 tvg-name="AND PICTURES HD hd"group-title="Hindi Movies",AND PICTURES HD
 http://watchindia.net:8880/live/33253/72963/783.m3u8
-#EXTINF:-1 tvg-name="And Pictures HD hd"group-title="Hindi Movies",And Pictures HD
+#EXTINF:-1 tvg-name="AND PICTURES HD hd"group-title="Hindi Movies",AND PICTURES HD
 http://89.187.182.181:9090/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8
 #EXTINF:-1, tvg-name="& EXPLOR" group-title="Hindi Movies", & EXPLOR
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/13820
