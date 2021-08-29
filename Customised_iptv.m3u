@@ -10,8 +10,6 @@ https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.s
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
 #EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhhVdd9KCZkn39j5bd_cfAPPOFxAxSq2939Sb8HTw=s900-c-k-c0x00ffffff-no-rj" group-title="News", India TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="News", NDTV India
-https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
 #EXTINF: -1 group-title="News", INDIA NEWS
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8?checkedby:hlscat.com
 #EXTINF: -1 group-title="News", NEWS 18 INDIA
@@ -60,6 +58,8 @@ https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:-1 tvg-name="NDTV Profit" tvg-logo="https://www.ndtv.com/business/content/images/profit_logo2017.png" group-title="News",NDTV Profit
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="News", NDTV India
+https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-name="Et Now" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/ET_Now.png" group-title="News",Et Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&rebase=on
 #EXTINF:-1 tvg-name="Ptc News" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTCNews.png" group-title="News",Ptc News
@@ -164,6 +164,8 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="Hindi Movies", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 group-title="Hindi Movies" , B4U Movies 
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6217
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies",BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",Sony Max Hd
@@ -188,6 +190,8 @@ http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51424
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1, tvg-name="OSN STAR Movies" group-title="Hindi Movies", OSN STAR Movies
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43368
+#EXTINF:-1 group-title="Hindi Movies", MTV 
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6219
 
 #Infotainment
 
@@ -197,6 +201,8 @@ https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png"  group-title="Infotainment",Discovery HD World
 http://89.187.182.181:9090/SM_FHD-HINDI-DISCOVERY/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Infotainment",Discovery 
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10147
 
 #Kids
 
@@ -223,6 +229,8 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF: -1 group-title="Music", MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 group-title="Music", B4U Music
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6233
 
 #Bhakti/devotional
 
@@ -258,6 +266,8 @@ http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:hlsc
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF: -1 tvg-logo="https://britasia.tv/wp-content/uploads/2016/08/BATV_FINAL-LOGO.jpg" group-title="Punjabi", BritAsia TV
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+#EXTINF:-1 group-title="Punjabi, Brit Asia 
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10192
 #EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/q5ukeS_O4U8d8rlUYqYgzJ2X4o-j98M30T-Zwxo5zHvxA_iCejbzd7Af1OrIW7ybME8.png" group-title="Punjabi", Hulchul TV
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/dd/Ytv_1994.png/revision/latest/top-crop/width/300/height/300?cb=20130901071257" group-title="Punjabi", Channel Y
@@ -267,6 +277,12 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
 #sports
 
+#EXTINF:-1 group-title="sports",Star Sports 1 ᴴᴰ
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18807
+#EXTINF:-1 group-title="sports",Star Sports 2 
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10165
 #EXTINF:-1 tvg-id="Star Sports 3 FHD IN" tvg-name="Star Sports 3 FHD IN" tvg-logo="" group-title="sports",Star Sports 3 FHD IN
 http://lbproxy.com/watch/2f50dd66-3ace-432a-8e63-df4700a9f2f6/03547113-76b4-49f2-8fa4-f217dc81fd4a/mpegts
+#EXTINF:-1 group-title="sports" ,Sony Six ᴴᴰ
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18805
 
