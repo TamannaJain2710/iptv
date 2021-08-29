@@ -160,8 +160,10 @@ https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10254
 #EXTINF:-1,IN: tvg-name="STAR GOLD" group-title="Hindi Movies", STAR GOLD
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/24300
-#EXTINF:-1 tvg-name="Star Gold HD"group-title="Hindi Movies",Star Gold HD
+#EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",Star Gold HD
 http://84.17.41.7/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Hindi Movies",Star Gold Select
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6228
 #EXTINF: -1 tvg-name="Rishtey Cineplex" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies", Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi Movies",Colors Cineplex HD
@@ -192,6 +194,8 @@ http://watchindia.net:8880/live/33253/72963/783.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="& xplor HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Xplor_HD.png" group-title="Hindi Movies",& xplor HD
 http://watchindia.net:8880/live/33253/72963/2204.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movie",UTV IN
+http://channels227070.clientportal.link:80/Pxkcqcw673/9k7a3V15/6236
 #EXTINF:-1, tvg-name="UTV ACTION" group-title="Hindi Movies", UTV ACTION
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51424
 #EXTINF: -1 group-title="Hindi Movies", mbc Bollywood Hd
@@ -202,8 +206,7 @@ http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43368
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6219
 #EXTINF:-1 group-title="Hindi Movies",Miniplex
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18803
-#EXTINF:-1 group-title="Hindi Movies",Star Gold Select
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6228
+
 
 #Infotainment
 
@@ -219,6 +222,16 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10147
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6226
 #EXTINF:-1 group-title="Infotainment", History TV
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18794
+#EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Infotainment",NAT GEO WILD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43017
+#EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Infotainment",NAT GEO WILD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51421
+#EXTINF:-1 tvg-name="TRAVEL XP HD" group-title="Infotainment",TRAVEL XP HD 
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43019
+#EXTINF:-1 tvg-name="Osn Discovery Science" group-title="Infotainment", Osn Discovery Science
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43356
+#EXTINF:-1 tvg-name="Osn Discovery HD" group-title="Infotainment",Osn Discovery HD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43357
 
 #Kids
 
@@ -259,6 +272,10 @@ http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 
 #EXTINF:-1,OS: tvg-name="OSN Fox Movies Action" group-title="English Movies", OSN Fox Movies Action
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43347
+#EXTINF:-1, tvg-name="STAR MOVIES FHD" group-title="English Movies", STAR MOVIES FHD
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51422
+#EXTINF:-1, tvg-name="Movies Now" group-title="English Movies", Movies Now
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51792
 #EXTINF:0 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English Movies",STAR MOVIEMI HD
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English Movies",STAR MOVIEMI HD (STIRR)
@@ -298,6 +315,8 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
 #sports
 
+#EXTINF:-1, tvg-name="DD SPORTS" group-title="sports", DD SPORTS
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43016
 #EXTINF:-1 group-title="sports",Star Sports 1 ᴴᴰ
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18807
 #EXTINF:-1 group-title="sports",Star Sports 2 
