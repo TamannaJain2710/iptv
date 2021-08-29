@@ -96,8 +96,6 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 #EXTINF:-1 group-title="News", Wion TV(News)
 http://ottss.online:8000/44122162500170/30316873476781/182669
-#EXTINF:-1 group-title="News", REPUBLIC NEWS
-http://ottss.online:8000/44122162500170/30316873476781/178880
 
 #Entertainment
 #EXTINF:-1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", Sony Hd
@@ -266,3 +264,9 @@ http://cdn12.henico.net:8080/live/jbani/index.m3u8
 http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://primeasia.tv/assets/front/images/logo-new1.png" group-title="Punjabi", Prime Asia
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+
+#sports
+
+#EXTINF:-1 tvg-id="Star Sports 3 FHD IN" tvg-name="Star Sports 3 FHD IN" tvg-logo="" group-title="sports",Star Sports 3 FHD IN
+http://lbproxy.com/watch/2f50dd66-3ace-432a-8e63-df4700a9f2f6/03547113-76b4-49f2-8fa4-f217dc81fd4a/mpegts
+
