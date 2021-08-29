@@ -96,6 +96,8 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 #EXTINF:-1 group-title="News", Wion TV(News)
 http://ottss.online:8000/44122162500170/30316873476781/182669
+#EXTINF:-1 group-title="News", Zee News 
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6246
 
 #Entertainment
 #EXTINF:-1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", Sony Hd
@@ -154,6 +156,8 @@ https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
 https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="Zee Anmol Cinema" group-title="Hindi Movies", Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+#EXTINF:-1 group-title="Hindi Movies",Zee Anmol Cinema
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10254
 #EXTINF:-1,IN: tvg-name="STAR GOLD" group-title="Hindi Movies", STAR GOLD
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/24300
 #EXTINF:-1 tvg-name="Star Gold HD"group-title="Hindi Movies",Star Gold HD
@@ -203,6 +207,8 @@ http://89.187.182.181:9090/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-DISCOVERY/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Infotainment",Discovery 
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10147
+#EXTINF:-1 group-title="Infotainment",Sony BBC Earth(Eng)
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6226
 
 #Kids
 
@@ -231,6 +237,8 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 group-title="Music", B4U Music
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6233
+#EXTINF:-1 group-title="Music",Zoom TV
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6254
 
 #Bhakti/devotional
 
@@ -285,4 +293,10 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10165
 http://lbproxy.com/watch/2f50dd66-3ace-432a-8e63-df4700a9f2f6/03547113-76b4-49f2-8fa4-f217dc81fd4a/mpegts
 #EXTINF:-1 group-title="sports" ,Sony Six ᴴᴰ
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18805
+#EXTINF:-1 group-title="sports",Sony Ten 1 ᴴᴰ
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10168
+#EXTINF:-1 group-title="sports",Sony Ten 2 ᴴᴰ
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10170
+#EXTINF:-1 group-title="sports",Sony Ten 3 
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10169
 
