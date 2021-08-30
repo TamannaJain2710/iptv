@@ -5,7 +5,7 @@
 #EXTINF: -1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="News", AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="News", AAJ TAK
-https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1630343415/ei/l7wsYff1B4qW3LUP37-A8Ao/ip/223.233.67.223/id/W6lv5HJnJBA.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/in/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAIFFII4jCv-_rClJPfhPjT3dr3YvLLfyhM7pgCL8h3lzAiEAjpDewPspBIIjZ4dx9PY73ihKYAfFFXcVt4FbdUSVR2E%3D/file/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="News", ABP News
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
 #EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhhVdd9KCZkn39j5bd_cfAPPOFxAxSq2939Sb8HTw=s900-c-k-c0x00ffffff-no-rj" group-title="News", India TV
