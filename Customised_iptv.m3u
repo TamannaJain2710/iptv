@@ -92,10 +92,12 @@ https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="Sky News (720p)" group-title="News", Sky News (720p)
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-#EXTINF: -1 group-title="News", SADHNA PLUS
+#EXTINF:-1 group-title="News", SADHNA PLUS
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 #EXTINF:-1 group-title="News", Wion TV(News)
 http://ottss.online:8000/44122162500170/30316873476781/182669
+#EXTINF:-1 group-title="News", Wion TV(News)
+https://d3neuepii3rf1i.cloudfront.net/v1/master/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MzAzMDM0MzR9.iznNkab6Bsh6HYB-qqCNPmejQ5Qfjp7iW1ra2K2VGMA
 #EXTINF:-1 group-title="News", Zee News 
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6246
 
