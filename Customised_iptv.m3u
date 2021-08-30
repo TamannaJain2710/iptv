@@ -273,6 +273,10 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6254
 
 #EXTINF: -1 tvg-name="JINVANI CHANNEL" group-title="Bhakti/devotional", JINVANI CHANNEL
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1630323335/ei/J24sYebHB5XMpgeY3ZFw/ip/2405%3A201%3A401e%3A3986%3A64b8%3A98de%3A6545%3A7f02/id/LDp6t4j8VoU.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDI11y6EbU0M9j-dOO7hA9qLXQ6aqJ0Y4rBCKW7LWNP0CIDpz3FL_q_GbI4cRRSlf-UH2Z0cedcMoQpNZvZFe4xA_/file/index.m3u8
+#EXTINF: -1 tvg-name="PARAS TV CHANNEL" group-title="Bhakti/devotional", PARAS TV CHANNEL
+https://paras.clik2see.com/apiupload/parasInternational/hls/5/parastv/playlist.m3u8
+#EXTINF: -1 tvg-name="PARAS TV CHANNEL" group-title="Bhakti/devotional", PARAS TV CHANNEL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1630329257/ei/SYUsYe66FITLpgfa3L6ICg/ip/2405%3A201%3A401e%3A3986%3A64b8%3A98de%3A6545%3A7f02/id/Y4b-tt2GkvI.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAINc2rwTl-1t4FfRJVNqEDv4fCsqbeEmJTwQHO7xJ9QoAiEA_nPcp37wBqlj6lhFIxVANqw1db7MZG5d74CbRusP4gA%3D/file/index.m3u8
 #EXTINF: -1 group-title="Bhakti/devotional", Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 
