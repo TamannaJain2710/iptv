@@ -98,6 +98,8 @@ http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 http://ottss.online:8000/44122162500170/30316873476781/182669
 #EXTINF:-1 group-title="News", Wion TV(News)
 https://d3neuepii3rf1i.cloudfront.net/v1/master/8fe6b38eb3580727128fa5d6759fbc48b3ec1c7e/Zee_News_MT_POC/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2MzAzMDM0MzR9.iznNkab6Bsh6HYB-qqCNPmejQ5Qfjp7iW1ra2K2VGMA
+#EXTINF:-1 group-title="News", Wion TV(News)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1630322711/ei/t2ssYdqbCeTP4-EP9P25kAE/ip/2405%3A201%3A401e%3A3986%3A64b8%3A98de%3A6545%3A7f02/id/pM0SBxOvqos.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANlPGET75jorzAc3S2oQQuK5oC7540yAxLb0Z11rbHzMAiAuyNqUNr1Que5f4wTZMaGWINDr43D7vB2_Cpjv9s46gw%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="News", Zee News 
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6246
 
@@ -269,6 +271,8 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6254
 
 #Bhakti/devotional
 
+#EXTINF: -1 tvg-name="JINVANI CHANNEL" group-title="Bhakti/devotional", JINVANI CHANNEL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1630323335/ei/J24sYebHB5XMpgeY3ZFw/ip/2405%3A201%3A401e%3A3986%3A64b8%3A98de%3A6545%3A7f02/id/LDp6t4j8VoU.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDI11y6EbU0M9j-dOO7hA9qLXQ6aqJ0Y4rBCKW7LWNP0CIDpz3FL_q_GbI4cRRSlf-UH2Z0cedcMoQpNZvZFe4xA_/file/index.m3u8
 #EXTINF: -1 group-title="Bhakti/devotional", Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 
