@@ -50,7 +50,7 @@ https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
 https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
 #EXTINF: -1 tvg-logo="https://images.assettype.com/afaqs%2F2019-11%2F3d64fc8b-ce7c-4df5-80a5-ffffd46f8bfb%2FCNBC_TV18_Logo.jpg?format=webp&w=400&dpr=2.6" group-title="News", CNBC TV18
 https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
-#EXTINF:-1 group-title="News" , TIMES NOW
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News" , TIMES NOW
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", MIRROR NOW
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
