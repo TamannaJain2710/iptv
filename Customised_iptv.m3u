@@ -277,6 +277,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1630329257/ei/S
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1630329534/ei/XoYsYbrCGdPP4-EP29ye4Ao/ip/2405%3A201%3A401e%3A3986%3A64b8%3A98de%3A6545%3A7f02/id/8glv26iDo28.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPuImGz3b9wuJuTJe1T2zhDkotrvmiKrNRgh3_wSOX_5AiArnjm8Bp-kfSOX-S_J3f5UAH23KIQ2FrUNvCJzlb62OQ%3D%3D/file/index.m3u8
 #EXTINF:-1 group-title="Bhakti/devotional", Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
+#EXTINF:-1 tvg-name="SHIRDI LIVE" group-title="Bhakti/devotional", SHIRDI LIVE
+https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
 #English Movies
 
@@ -312,6 +314,8 @@ https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
 #EXTINF: -1 group-title="English Movies", SONY PIX
 http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1062
+#EXTINF: -1 group-title="English Movies", SONY PIX
+http://103.81.104.118/hls/stream1.m3u8
 
 #Punjabi
 
