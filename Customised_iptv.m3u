@@ -136,8 +136,6 @@ http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 #EXTINF:0 tvg-name="Zee TV HD" group-title="Entertainment" aspect-ratio="16:9", Zee TV HD
 http://89.187.182.181:9090/SM_FHD-HINDI-ZEETV/tracks-v1a1/index.m3u8
 
-
-
 #Hindi Movies
 
 #EXTINF:0  tvg-name="Zee Cinema HD" group-title="Hindi Movies"aspect-ratio="16:9", Zee Cinema HD
