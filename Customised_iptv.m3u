@@ -233,8 +233,10 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18794
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43017
 #EXTINF:-1 tvg-name="NAT GEO WILD" group-title="Infotainment",NAT GEO WILD
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51421
-#EXTINF:-1 tvg-name="TRAVEL XP HD" group-title="Infotainment",TRAVEL XP HD 
+#EXTINF:-1 tvg-name="TRAVEL XP HD" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP HD 
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43019
+#EXTINF:-1 tvg-name="TRAVEL XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP (720p)
+https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="Osn Discovery Science" group-title="Infotainment", Osn Discovery Science
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43356
 #EXTINF:-1 tvg-name="Osn Discovery HD" group-title="Infotainment",Osn Discovery HD
@@ -271,6 +273,8 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedb
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6233
 #EXTINF:-1 group-title="Music",Zoom TV
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6254
+#EXTINF:-1 tvg-name="DIL Se" group-title="Music",DIL SE (1080p)
+https://live.hungama.com/linear/dil-se/playlist.m3u8
 
 #Bhakti/devotional
 
