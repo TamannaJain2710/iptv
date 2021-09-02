@@ -40,7 +40,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",DD NEWS
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",DD NATIONAL
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="News",DD NATIONAL
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF: -1 group-title="News", SUDARSHAN NEWS
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w1867454157.m3u8
@@ -212,7 +212,10 @@ http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43368
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6219
 #EXTINF:-1 group-title="Hindi Movies",Miniplex
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18803
-
+#EXTINF:-1 tvg-name="Dhinchaak-1" tvg-logo="https://i.imgur.com/T2c6PjU.jpg" group-title="Hindi Movies",DHINCHAAK 1 (576p)
+http://14.199.164.20:4001/play/a0o5/index.m3u8
+#EXTINF:-1 tvg-name="Dhinchaak-2" tvg-logo="https://i.imgur.com/AC4ze9o.jpg" group-title="Hindi Movies",DHINCHAAK 2 (576p)
+http://14.199.164.20:4001/play/a0tm/index.m3u8
 
 #Infotainment
 
@@ -239,10 +242,12 @@ http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43356
 #EXTINF:-1 tvg-name="Osn Discovery HD" group-title="Infotainment",Osn Discovery HD
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43357
 
-#Kids
+#KIDS CARTOON
 
-#EXTINF: -1 group-title="Kids", Mr Bean Cartoon
-https://i.top4top.io/m_1479evu575.mp4
+#EXTINF:-1 tvg-id="CARTOON_NETWORK_HINDI-US" tvg-name="CARTOON_NETWORK_HINDI-US" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="KIDS CARTOON",CARTOON_NETWORK_HINDI-US (576p)
+http://103.153.39.34:8000/play/a04k/index.m3u8
+#EXTINF:-1 tvg-id="CARTOON_NETWORK_HINDI-US" tvg-name="CARTOON_NETWORK_HINDI-US" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="KIDS CARTOON",CARTOON_NETWORK_HINDI-US (432p)
+http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 
 #Music
 
