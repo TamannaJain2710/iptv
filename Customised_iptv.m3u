@@ -190,8 +190,8 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18802
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18801
 #EXTINF: -1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg" group-title="Hindi Movies", MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF: -1 tvg-name="AND PICTURES"group-title="Hindi Movies",AND PICTURES
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+#EXTINF: -1 tvg-name="AND PICTURES" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi Movies", AND PICTURES
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 #EXTINF:-1 tvg-name="AND PICTURES HD hd"group-title="Hindi Movies",AND PICTURES HD
 http://watchindia.net:8880/live/33253/72963/783.m3u8
 #EXTINF:-1 tvg-name="AND PICTURES HD hd"group-title="Hindi Movies",AND PICTURES HD
