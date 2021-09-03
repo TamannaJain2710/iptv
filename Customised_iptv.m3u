@@ -119,7 +119,7 @@ http://watchindia.net:8880/live/33253/72963/780.m3u8
 #EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Entertainment",Star Bharat HD
 http://89.187.182.181:9090/SM_FHD-HINDI-STARBHARAT/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="And tv HD hd"group-title="Entertainment",And Tv HD
-http://watchindia.net:8880/live/33253/72963/782.m3u8
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6234
 #EXTINF:-1 tvg-name="And tv HD hd"group-title="Entertainment",And Tv HD
 http://89.187.182.181:9090/SM_FHD-HINDI-ANDTV/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
@@ -153,6 +153,8 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 #EXTINF: -1 tvg-name="ZEE ACTION" group-title="Hindi Movies", ZEE ACTION
 https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
+#EXTINF: -1 tvg-name="ZEE ACTION" group-title="Hindi Movies", ZEE ACTION
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6249
 #EXTINF: -1 tvg-name="Zee Bollywood" group-title="Hindi Movies", Zee Bollywood
 https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
 #EXTINF: -1 tvg-name="Zee Anmol Cinema" group-title="Hindi Movies", Zee Anmol Cinema
@@ -166,7 +168,7 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10161
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",Star Gold HD
 http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",Star Gold HD
-http://103.81.104.118/hls/stream19.m3u8
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10161
 #EXTINF:-1 group-title="Hindi Movies",Star Gold Select
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6228
 #EXTINF: -1 tvg-name="Rishtey Cineplex" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies", Rishtey Cineplex
@@ -207,6 +209,8 @@ http://watchindia.net:8880/live/33253/72963/2204.m3u8
 http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/635
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
 http://channels227070.clientportal.link:80/Pxkcqcw673/9k7a3V15/6236
+#EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6236
 #EXTINF:-1, tvg-name="UTV ACTION" group-title="Hindi Movies", UTV ACTION
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51424
 #EXTINF: -1 group-title="Hindi Movies", mbc Bollywood Hd
