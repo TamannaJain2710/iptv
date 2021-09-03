@@ -113,8 +113,7 @@ http://89.187.182.181:9090/SM_FHD-HINDI-SONYSAB/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Star Plus HD hd"group-title="Entertainment",Star Plus HD
 http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Plus HD hd"group-title="Entertainment",Star Plus HD
-http://tv.zaintv.net:80/Davidemmanuel/D477376480/56313
-#EXTINF:-1 tvg-name="Star Plus HD hd"group-title="Entertainment",Star Plus HD
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Entertainment",Star Bharat HD
 http://watchindia.net:8880/live/33253/72963/780.m3u8
 #EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Entertainment",Star Bharat HD
@@ -129,10 +128,10 @@ http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee TV HD" group-title="Entertainment",Zee TV HD
 https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-name="Zee TV HD" group-title="Entertainment" aspect-ratio="16:9", Zee TV HD
-https://y5w8j4a9.ssl.hwcdn.net/ztvme//tracks-v1a1/playlist.m3u8
-#EXTINF:0 tvg-name="Zee TV HD" group-title="Entertainment" aspect-ratio="16:9", Zee TV HD
-http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-name="Zee TV HD CANADA" group-title="Entertainment" aspect-ratio="16:9", Zee TV HD CANADA
+https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
+#EXTINF:0 tvg-name="Zee TV HD ME" group-title="Entertainment" aspect-ratio="16:9", Zee TV HD ME
+https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
 #EXTINF:0 tvg-name="Zee TV HD"  group-title="Entertainment" aspect-ratio="16:9", Zee TV HD
 http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 #EXTINF:0 tvg-name="Zee TV HD" group-title="Entertainment" aspect-ratio="16:9", Zee TV HD
@@ -151,11 +150,11 @@ https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
 #EXTINF: -1 group-title="Hindi Movies", zee cinema usa
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 #EXTINF: -1 group-title="Hindi Movies", zee cinema uk
-https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 #EXTINF: -1 tvg-name="ZEE ACTION" group-title="Hindi Movies", ZEE ACTION
 https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="Zee Bollywood" group-title="Hindi Movies", Zee Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/classic/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
 #EXTINF: -1 tvg-name="Zee Anmol Cinema" group-title="Hindi Movies", Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 group-title="Hindi Movies",Zee Anmol Cinema
@@ -172,7 +171,9 @@ http://103.81.104.118/hls/stream19.m3u8
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6228
 #EXTINF: -1 tvg-name="Rishtey Cineplex" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies", Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi Movies",Colors Cineplex HD
+#EXTINF: -1 tvg-name="Rishtey Cineplex" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies", Rishtey Cineplex
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies",Colors Cineplex HD
 http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="Hindi Movies", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
@@ -268,10 +269,14 @@ http://dikoiptv.zapto.org:25461/eE6S40mJ6P/vbQSjeJwOa/213
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 #EXTINF:-1 tvg-name="Animal planet" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png"  group-title="Infotainment",Animal Planet Hindi
 http://89.187.182.181:9090/SM_FHD-HINDI-ANIMALPLANET/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Animal planet HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png"  group-title="Infotainment",Animal Planet HD
+https://idvd.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-name="Discovery HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png"  group-title="Infotainment",Discovery HD World
 http://89.187.182.181:9090/SM_FHD-HINDI-DISCOVERY/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Infotainment",Discovery 
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10147
+#EXTINF:-1 tvg-name="Discovery WORLD HINDI" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png"  group-title="Infotainment",Discovery HD World HINDI
+https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 group-title="Infotainment",Sony BBC Earth(Eng)
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6226
 #EXTINF:-1 group-title="Infotainment", History TV
@@ -298,6 +303,10 @@ http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 
 #Music
 
+#EXTINF:-1 tvg-name="ZEE5 MUSIC 1" group-title="Music", ZEE5 MUSIC 1
+https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+#EXTINF:-1 tvg-name="ZEE5 MUSIC 2" group-title="Music", ZEE5 MUSIC 2
+https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music", MTV Beats HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD Plus
