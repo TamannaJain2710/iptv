@@ -104,6 +104,8 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6246
 #Entertainment
 #EXTINF:-1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", Sony Hd
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", Sony Hd
+http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/18510
 #EXTINF:-1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",Sony Sab
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",Sony Sab
@@ -242,7 +244,7 @@ https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English Movies", & PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-name="&Flix Sd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="English Movies", &Flix Sd
-https://y5w8j4a9.ssl.hwcdn.net/andflix/index.m3u8
+http://watchindia.net:8880/live/33253/72963/2088.m3u8
 #EXTINF:-1 tvg-name="&Flix Hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="English Movies", &Flix Hd
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KsZx1mY.jpg" group-title="English Movies", HBO HD
