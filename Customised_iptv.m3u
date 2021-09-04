@@ -152,13 +152,13 @@ https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 #EXTINF: -1 group-title="Hindi Movies", zee cinema uk
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 #EXTINF: -1 tvg-name="ZEE ACTION" group-title="Hindi Movies", ZEE ACTION
-https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 #EXTINF: -1 tvg-name="ZEE ACTION" group-title="Hindi Movies", ZEE ACTION
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6249
 #EXTINF: -1 tvg-name="Zee Bollywood" group-title="Hindi Movies", Zee Bollywood
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 #EXTINF: -1 tvg-name="Zee Anmol Cinema" group-title="Hindi Movies", Zee Anmol Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies",Zee Anmol Cinema
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10254
 #EXTINF:-1 group-title="Hindi Movies", BOLLYWOOD CINEMA
