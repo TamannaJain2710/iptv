@@ -145,8 +145,8 @@ http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Hindi Movies" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://89.187.182.181:9090/SM_FHD-HINDI-ZEECINEMA/tracks-v1a1/index.m3u8
-#EXTINF: -1 group-title="Hindi Movies", zee cinema
-https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
+#EXTINF: -1 group-title="Hindi Movies", ZEE CINEMA ME
+https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 #EXTINF: -1 group-title="Hindi Movies", zee cinema usa
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
 #EXTINF: -1 group-title="Hindi Movies", zee cinema uk
@@ -156,11 +156,13 @@ https://y5w8j4a9.ssl.hwcdn.net/action/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-name="ZEE ACTION" group-title="Hindi Movies", ZEE ACTION
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6249
 #EXTINF: -1 tvg-name="Zee Bollywood" group-title="Hindi Movies", Zee Bollywood
-https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 #EXTINF: -1 tvg-name="Zee Anmol Cinema" group-title="Hindi Movies", Zee Anmol Cinema
 https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF:-1 group-title="Hindi Movies",Zee Anmol Cinema
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10254
+#EXTINF:-1 group-title="Hindi Movies", BOLLYWOOD CINEMA
+https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1,IN: tvg-name="STAR GOLD" group-title="Hindi Movies", STAR GOLD
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/24300
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",Star Gold HD
@@ -245,7 +247,7 @@ https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English Movies",STAR MOVIEMI HD (STIRR)
 https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-name="Zee Cafe Hd" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English Movies", Zee Cafe Hd
-https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 #EXTINF: -1 group-title="English Movies", & PRIVE HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English Movies", & PRIVE HD
