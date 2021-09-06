@@ -127,7 +127,7 @@ http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0tvg-name="Colors HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9", Colors HD
 http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee TV HD" group-title="Entertainment",Zee TV HD
-https://y5w8j4a9.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="Zee TV USA" group-title="Entertainment" aspect-ratio="16:9", Zee TV USA
 https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
 #EXTINF:0 tvg-name="Zee TV CANADA" group-title="Entertainment" aspect-ratio="16:9", Zee TV CANADA
@@ -152,7 +152,7 @@ http://89.187.182.181:9090/SM_FHD-HINDI-ZEECINEMA/tracks-v1a1/index.m3u8
 #EXTINF: -1 group-title="Hindi Movies", ZEE CINEMA ME
 https://f8e7y4c6.ssl.hwcdn.net/zeecinemame/playlist.m3u8
 #EXTINF: -1 group-title="Hindi Movies", ZEE CINEMA USA
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/cinemausa/index.m3u8
 #EXTINF: -1 group-title="Hindi Movies", ZEE CINEMA UK
 https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 #EXTINF: -1 tvg-name="ZEE ACTION" group-title="Hindi Movies", ZEE ACTION
@@ -253,7 +253,7 @@ https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-name="Zee Cafe Hd" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English Movies", Zee Cafe Hd
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
 #EXTINF: -1 group-title="English Movies", & PRIVE HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English Movies", & PRIVE HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-name="&Flix Sd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="English Movies", &Flix Sd
