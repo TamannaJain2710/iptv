@@ -270,6 +270,10 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1062
 #EXTINF: -1 group-title="English Movies", SONY PIX
 http://103.81.104.118/hls/stream1.m3u8
+#EXTINF:-1 tvg-name="AMC" group-title="English Movies", AMC
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-name="THRILL" group-title="English Movies", THRILL
+http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 group-title="English Movies", NETFLIX ACTION 1
 http://dikoiptv.zapto.org:25461/eE6S40mJ6P/vbQSjeJwOa/203
 #EXTINF:-1 group-title="English Movies", NETFLIX DRAMA
