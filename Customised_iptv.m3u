@@ -94,9 +94,9 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
 #EXTINF:-1 group-title="News", SADHNA PLUS
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
-#EXTINF:-1 group-title="News", Wion TV(News)
+#EXTINF:-1 group-title="News" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png", Wion TV(News)
 http://ottss.online:8000/44122162500170/30316873476781/182669
-#EXTINF:-1 group-title="News", Wion TV(News)
+#EXTINF:-1 group-title="News" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png", Wion TV(News)
 http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/3286
 #EXTINF:-1 group-title="News", Zee News 
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
@@ -118,9 +118,11 @@ http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 http://watchindia.net:8880/live/33253/72963/780.m3u8
 #EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Entertainment",Star Bharat HD
 http://89.187.182.181:9090/SM_FHD-HINDI-STARBHARAT/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="And tv HD hd"group-title="Entertainment",And Tv HD
+#EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
+https://jio.instream.ml/jio.php?c=And_TV_HD&q=800&e=.m3u8
+#EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6234
-#EXTINF:-1 tvg-name="And tv HD hd"group-title="Entertainment",And Tv HD
+#EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
 http://89.187.182.181:9090/SM_FHD-HINDI-ANDTV/tracks-v1a1/index.m3u8 
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
@@ -165,7 +167,7 @@ https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
 #EXTINF:-1 group-title="Hindi Movies",Zee Anmol Cinema
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10254
-#EXTINF:-1 group-title="Hindi Movies", BOLLYWOOD CINEMA
+#EXTINF:-1 aspect-ratio="16:9" group-title="Hindi Movies", BOLLYWOOD CINEMA
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1,IN: tvg-name="STAR GOLD" group-title="Hindi Movies", STAR GOLD
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/24300
@@ -225,14 +227,18 @@ http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51424
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1, tvg-name="OSN STAR Movies" group-title="Hindi Movies", OSN STAR Movies
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43368
-#EXTINF:-1 group-title="Hindi Movies", MTV 
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6219
 #EXTINF:-1 group-title="Hindi Movies",Miniplex
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18803
 #EXTINF:-1 tvg-name="Dhinchaak-1" tvg-logo="https://i.imgur.com/T2c6PjU.jpg" group-title="Hindi Movies",DHINCHAAK 1 (576p)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:-1 tvg-name="Dhinchaak-2" tvg-logo="https://i.imgur.com/AC4ze9o.jpg" group-title="Hindi Movies",DHINCHAAK 2 (576p)
 http://14.199.164.20:4001/play/a0tm/index.m3u8
+#EXTINF:-1 tvg-name="ABZY Cool" group-title="Hindi Movies" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png",ABZY Cool
+https://jio.instream.ml/jio.php?c=ABZY_Cool&q=800&e=.m3u8
+#EXTINF:-1 tvg-name="ABZY Dhakad" group-title="Hindi Movies" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png",ABZY Dhakad
+https://jio.instream.ml/jio.php?c=ABZY_Dhakad&q=800&e=.m3u8
+#EXTINF:-1 tvg-name="ABZY Movies" group-title="Hindi Movies" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png",ABZY Movies
+https://jio.instream.ml/jio.php?c=ABZY_Movies&q=800&e=.m3u8
 
 #English Movies
 
@@ -325,6 +331,8 @@ http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:-1 tvg-name="ZEE5 MUSIC 2" group-title="Music", ZEE5 MUSIC 2
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+#EXTINF:-1 group-title="Music", MTV 
+http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6219
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music", MTV Beats HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD Plus
