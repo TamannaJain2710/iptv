@@ -187,11 +187,11 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="Hindi Movies", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies" , B4U Movies 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies", B4U Movies 
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6217
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies" , B4U Movies 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies", B4U Movies 
 http://14.199.164.20:4001/play/a0wj/index.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies",BFLIX MOVIES
+#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-bflix-movies-2320.jpg", BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",Sony Max Hd
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
@@ -223,7 +223,7 @@ http://channels227070.clientportal.link:80/Pxkcqcw673/9k7a3V15/6236
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6236
 #EXTINF:-1, tvg-name="UTV ACTION" group-title="Hindi Movies", UTV ACTION
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51424
-#EXTINF: -1 group-title="Hindi Movies", mbc Bollywood Hd
+#EXTINF: -1 tvg-name="MBC BOLLYWOOD HD" group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1, tvg-name="OSN STAR Movies" group-title="Hindi Movies", OSN STAR Movies
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43368
