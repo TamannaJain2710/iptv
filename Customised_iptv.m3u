@@ -145,9 +145,9 @@ http://89.187.182.181:9090/SM_FHD-HINDI-ZEETV/tracks-v1a1/index.m3u8
 
 #Hindi Movies
 
-#EXTINF:0  tvg-name="Zee Cinema HD" group-title="Hindi Movies"aspect-ratio="16:9", Zee Cinema HD
+#EXTINF:0  tvg-name="Zee Cinema HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies"aspect-ratio="16:9", Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-name="Zee Cinema HD" group-title="Hindi Movies" aspect-ratio="16:9", Zee Cinema HD
+#EXTINF:0  tvg-name="Zee Cinema HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies" aspect-ratio="16:9", Zee Cinema HD
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
 #EXTINF:-1 tvg-name="Zee Cinema HD" group-title="Hindi Movies" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://89.187.182.181:9090/SM_FHD-HINDI-ZEECINEMA/tracks-v1a1/index.m3u8
@@ -171,6 +171,8 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10254
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1,IN: tvg-name="STAR GOLD" group-title="Hindi Movies", STAR GOLD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
+#EXTINF:-1 tvg-name="Star Gold-2 HD" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",Star Gold-2 HD
+http://143.244.60.10/HINDI__STAR_GOLD_2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",Star Gold HD
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10161
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",Star Gold HD
@@ -183,8 +185,10 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6228
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF: -1 tvg-name="Rishtey Cineplex" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies", Rishtey Cineplex
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies",Colors Cineplex HD
+#EXTINF:-1 tvg-name="Colors Cineplex HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",Colors Cineplex HD
 http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Colors Cineplex HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",Colors Cineplex HD
+http://143.244.60.10/HINDI__COLORS_CINEPLEX_HD/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="Hindi Movies", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies", B4U Movies 
@@ -225,7 +229,7 @@ http://channels227070.clientportal.link:80/Pxkcqcw673/9k7a3V15/6236
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6236
 #EXTINF:-1, tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies", UTV ACTION
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51424
-#EXTINF:-112 tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
+#EXTINF:-1 tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
 http://103.153.39.34:8000/play/a06o/index.m3u8
 #EXTINF: -1 tvg-name="MBC BOLLYWOOD HD" group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
