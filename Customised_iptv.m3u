@@ -170,7 +170,7 @@ http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10254
 #EXTINF:-1 aspect-ratio="16:9" group-title="Hindi Movies", BOLLYWOOD CINEMA
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1,IN: tvg-name="STAR GOLD" group-title="Hindi Movies", STAR GOLD
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/24300
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",Star Gold HD
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10161
 #EXTINF:-1 tvg-name="Star Gold HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",Star Gold HD
@@ -223,8 +223,10 @@ http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/635
 http://channels227070.clientportal.link:80/Pxkcqcw673/9k7a3V15/6236
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6236
-#EXTINF:-1, tvg-name="UTV ACTION" group-title="Hindi Movies", UTV ACTION
+#EXTINF:-1, tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies", UTV ACTION
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51424
+#EXTINF:-112 tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
+http://103.153.39.34:8000/play/a06o/index.m3u8
 #EXTINF: -1 tvg-name="MBC BOLLYWOOD HD" group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1, tvg-name="OSN STAR Movies" group-title="Hindi Movies", OSN STAR Movies
