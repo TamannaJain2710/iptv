@@ -95,7 +95,7 @@ https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u
 #EXTINF:-1 group-title="News", SADHNA PLUS
 http://cdn.clive.in:1935/sadhnaplus/sadhnaplus.stream_HDp/media.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png", Wion TV(News)
-http://ottss.online:8000/44122162500170/30316873476781/182669
+https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png", Wion TV(News)
 http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/3286
 #EXTINF:-1 group-title="News", Zee News 
