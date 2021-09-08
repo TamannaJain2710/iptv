@@ -268,16 +268,22 @@ https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF: -1 tvg-name="Zee Cafe Hd" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English Movies", Zee Cafe Hd
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
-#EXTINF: -1 group-title="English Movies", & PRIVE HD
+#EXTINF: -1 tvg-name="& PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movies", & PRIVE HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/XlJxZhQ.jpg" group-title="English Movies", & PRIVE HD
+#EXTINF: -1 tvg-name="& PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movies", & PRIVE HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
-#EXTINF:-1 tvg-name="&Flix Sd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="English Movies", &Flix Sd
-http://watchindia.net:8880/live/33253/72963/2088.m3u8
-#EXTINF:-1 tvg-name="&Flix Hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="English Movies", &Flix Hd
+#EXTINF: -1 tvg-name="& PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movies", & PRIVE HD
+http://143.244.60.10/ENGLISH__AND_PRIVE_HD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-name="And Flix Main" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="English Movies",And Flix Main
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5f98abc05d35144b0842889500df1e9fd27885b72a866b2df851f0d5a0607245acc438455a2dc039981889e16cb81ae1dca1989d037e7e7c2e542fc5743c7553fdd64bd4268cd5876aa2c4743d3b&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1 tvg-name="AND Flix Hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="English Movies",AND Flix Hd
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/KsZx1mY.jpg" group-title="English Movies", HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
+
+
+
 #EXTINF: -1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies", MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movies", MBC 2 HD
