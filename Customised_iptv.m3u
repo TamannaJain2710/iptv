@@ -252,12 +252,14 @@ https://jio.instream.ml/jio.php?c=ABZY_Movies&q=800&e=.m3u8
 
 #EXTINF:-1, tvg-name="OSN Fox Movies Action" group-title="English Movies", OSN Fox Movies Action
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43347
-#EXTINF:-1, tvg-name="STAR MOVIES FHD" group-title="English Movies", STAR MOVIES FHD
+#EXTINF:-1, tvg-name="STAR MOVIES FHD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies", STAR MOVIES FHD
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51422
-#EXTINF:-1, tvg-name="STAR MOVIES HD" group-title="English Movies", STAR MOVIES HD
-http://watchindia.net:8880/live/33253/72963/2080.m3u8
-#EXTINF:-1, tvg-name="STAR MOVIES HD" group-title="English Movies", STAR MOVIES HD
+#EXTINF:-1, tvg-name="STAR MOVIES HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies", STAR MOVIES HD
+http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_STARMOVIES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39e301782c428ed290f867e554a01803391e8c4b7a6aaad7d48e3e787343a8016a19f53525901742eec53149fdab8b48638675db1861b214b3bb6fc805c4d74009919a599ed109eed659786102baca816127c71a6dbbaf76e1e70877ded5b130fe58&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
+#EXTINF:-1, tvg-name="STAR MOVIES HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies", STAR MOVIES HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="STAR MOVIES SELECT" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies",STAR MOVIES SELECT
+http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:-1, tvg-name="Movies Now" group-title="English Movies", Movies Now
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51792
 #EXTINF:0 tvg-country="UN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English Movies",STAR MOVIEMI HD
@@ -288,10 +290,12 @@ http://103.81.104.118/hls/stream1.m3u8
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-name="THRILL" group-title="English Movies", THRILL
 http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 group-title="English Movies", NETFLIX ACTION 1
-http://dikoiptv.zapto.org:25461/eE6S40mJ6P/vbQSjeJwOa/203
-#EXTINF:-1 group-title="English Movies", NETFLIX DRAMA
-http://dikoiptv.zapto.org:25461/eE6S40mJ6P/vbQSjeJwOa/213
+#EXTINF:-1 tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="English Movies",FOX
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2120
+#EXTINF:-1 tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="English Movies",FOX MOVIES
+http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="FOXCRIME" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/fox_crime_asia_hd.gif" group-title="English Movies",FOXCRIME
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/21701
 
 #Infotainment
 
