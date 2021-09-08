@@ -191,12 +191,12 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6217
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies", B4U Movies 
 http://14.199.164.20:4001/play/a0wj/index.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Hindi Movies" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-bflix-movies-2320.jpg", BFLIX MOVIES
+#EXTINF:0 group-title="Hindi Movies" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-bflix-movies-2320.jpg", BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF: -1 tvg-logo="https://qqcdnpictest.mxplay.com/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg" group-title="Hindi Movies", MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-pY7gZbSDt7M/YOv71mYSNQI/AAAAAAAAAXc/nSFS4O8T_U0xZ001vsfLtKHzNuUznB-oACLcBGAsYHQ/s200/images%2B%252814%2529%25281%2529.jpeg" group-title="Hindi Movies",MAHA MOVIE
-https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Q3MsZEvKgnc/YP1NmkhSRBI/AAAAAAAAAoQ/_pAjmCYjb0It9qljvEHkivQGDDwQeyVTwCLcBGAsYHQ/s200/images%2B%252819%2529.jpeg" group-title="Hindi Movies",MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",Sony Max Hd
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",Sony Max Hd
