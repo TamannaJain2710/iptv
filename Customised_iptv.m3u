@@ -250,8 +250,6 @@ https://jio.instream.ml/jio.php?c=ABZY_Movies&q=800&e=.m3u8
 
 #English Movies
 
-#EXTINF:-1, tvg-name="OSN Fox Movies Action" group-title="English Movies", OSN Fox Movies Action
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43347
 #EXTINF:-1, tvg-name="STAR MOVIES FHD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies", STAR MOVIES FHD
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51422
 #EXTINF:-1, tvg-name="STAR MOVIES HD" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies", STAR MOVIES HD
@@ -278,6 +276,17 @@ http://143.244.60.10/ENGLISH__AND_PRIVE_HD/tracks-v1a1/mono.m3u8?token=test
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5f98abc05d35144b0842889500df1e9fd27885b72a866b2df851f0d5a0607245acc438455a2dc039981889e16cb81ae1dca1989d037e7e7c2e542fc5743c7553fdd64bd4268cd5876aa2c4743d3b&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-name="AND Flix Hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="English Movies",AND Flix Hd
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF: -1 group-title="English Movies", SONY PIX
+http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1062
+#EXTINF: -1 group-title="English Movies", SONY PIX
+http://103.81.104.118/hls/stream1.m3u8
+#EXTINF:-1 tvg-name="AMC" group-title="English Movies", AMC
+http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-name="THRILL" group-title="English Movies", THRILL
+http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/s34/01.m3u8
+
+#English Movies HBO
+
 #EXTINF: -1 tvg-name="HBO HD" tvg-logo="https://i.imgur.com/KsZx1mY.jpg" group-title="English Movies", HBO HD
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 tvg-name="HBO LINK 1" tvg-logo="https://i.imgur.com/JWzwlya.png" group-title="English Movies",HBO LINK 1
@@ -288,34 +297,65 @@ http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
 #EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="" group-title="English Movies",HBO FAMILY
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+
+#English Movies Mix PRO
+
 #EXTINF:-1 tvg-name="RAKUTEN ACTION MOVIES" tvg-logo="" group-title="English Movies",RAKUTEN ACTION MOVIES
 https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="WARNER WB" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="English Movies",WARNER WB
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="WB TV" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="English Movies",WB TV
 http://203.154.243.89:1205
+
+#English Movies MIX
+
+#EXTINF:-1, tvg-name="Mix Cinema" group-title="English Movies",Mix Cinema
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1293
+#EXTINF:-1, tvg-name="Mix Action" group-title="English Movies",Mix Action
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1294
+#EXTINF:-1, tvg-name="Mix Mystery" group-title="English Movies",Mix Mystery
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1295
+#EXTINF:-1, tvg-name="Mix Horror" group-title="English Movies",Mix Horror
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1296
+#EXTINF:-1, tvg-name="Mix Crime" group-title="English Movies",Mix Crime
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1297
+#EXTINF:-1, tvg-name="Vision Action HD" group-title="English Movies",Vision Action HD
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1298
+#EXTINF:-1, tvg-name="ART Action HD" group-title="English Movies",ART Action HD
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1342
+#EXTINF:-1, tvg-name="OMG" group-title="English Movies",OMG
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1300
+#EXTINF:-1, tvg-name="Xtra Movies Action" group-title="English Movies",Xtra Movies Action
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1217
+#EXTINF:-1, tvg-name="Xtra Movies Adventure" group-title="English Movies",Xtra Movies Adventure
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1326
+#EXTINF:-1, tvg-name="Xtra Movies Crime" group-title="English Movies",Xtra Movies Crime
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1339
+
+#English Movies MBC
+
 #EXTINF:-1 tvg-name="MBC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION
 https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies", MBC MAX HD
+#EXTINF: -1 tvg-name="MBC MAX HD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies", MBC MAX HD
 https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movies", MBC 2 HD
+#EXTINF: -1 tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movies", MBC 2 HD
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF: -1 group-title="English Movies", SONY PIX
-http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/1062
-#EXTINF: -1 group-title="English Movies", SONY PIX
-http://103.81.104.118/hls/stream1.m3u8
-#EXTINF:-1 tvg-name="AMC" group-title="English Movies", AMC
-http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-name="THRILL" group-title="English Movies", THRILL
-http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/s34/01.m3u8
+
+#English Movies Fox
+
 #EXTINF:-1 tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="English Movies",FOX
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2120
 #EXTINF:-1 tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="English Movies",FOX MOVIES
 http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="English Movies",FOX MOVIES
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1154
 #EXTINF:-1 tvg-name="FOXCRIME" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/fox_crime_asia_hd.gif" group-title="English Movies",FOXCRIME
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/21701
 #EXTINF:-1 tvg-name="HALLMARK" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" group-title="English Movies",HALLMARK 
 http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
+
+#English Movies Pluto
+
 #EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="English Movies",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Comedy" tvg-logo="https://i.imgur.com/Pjs4lgs.png" group-title="English Movies",Pluto TV Comedy
@@ -335,7 +375,37 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07c
 #EXTINF:-1 tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/JLgn5jC.png" group-title="English Movies",Pluto TV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#English Movies OSN
 
+#EXTINF:-1, tvg-name="OSN Fox Movies Action" group-title="English Movies",OSN Fox Movies Action
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1155
+#EXTINF:-1, tvg-name="OSN Movies HD" group-title="English Movies",OSN Movies HD
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/136
+#EXTINF:-1,tvg-name="OSN Movies First HD" group-title="English Movies",OSN Movies First HD
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/138
+#EXTINF:-1, tvg-name="OSN POP UP HD" group-title="English Movies",OSN POP UP HD
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1319
+#EXTINF:-1, tvg-name="OSN Movie Drama" group-title="English Movies",OSN Movie Drama
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1323
+#EXTINF:-1, tvg-name="OSN BOX OFFICE 1" group-title="English Movies",OSN BOX OFFICE 1
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1320
+#EXTINF:-1, tvg-name="OSN BOX OFFICE 2" group-title="English Movies",OSN BOX OFFICE 2
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1321
+#EXTINF:-1, tvg-name="OSN BOX OFFICE 3" group-title="English Movies",OSN BOX OFFICE 3
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1322
+#EXTINF:-1, tvg-name="OSN Star World HD" group-title="English Movies",OSN Star World HD
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/141
+
+#English Movies Netflix
+
+#EXTINF:-1, tvg-name="Netflix Action" group-title="English Movies",Netflix Action
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1286
+#EXTINF:-1, tvg-name="Netflix Horror" group-title="English Movies",Netflix Horror
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1287
+#EXTINF:-1, tvg-name="Netflix Comedy" group-title="English Movies",Netflix Comedy
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1288
+#EXTINF:-1, tvg-name="Netflix Drama" group-title="English Movies",Netflix Drama
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1289
 
 #Infotainment
 
@@ -379,6 +449,8 @@ http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43356
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43357
 #EXTINF:0 tvg-name="NASA Public" group-title="Infotainment" tvg-logo="https://images.app.goo.gl/y8WRd8i5PHmhJFqKA", NASA Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1, tvg-name="Netflix documentary" group-title="Infotainment",Netflix documentary
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1291
 
 #KIDS CARTOON
 
@@ -386,6 +458,8 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 http://103.153.39.34:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON_NETWORK_HINDI-US" tvg-name="CARTOON_NETWORK_HINDI-US" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="KIDS CARTOON",CARTOON_NETWORK_HINDI-US (432p)
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF:-1, tvg-name="NetFlix JR" group-title="KIDS CARTOON",NetFlix JR
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1340
 
 #Music
 
