@@ -407,6 +407,17 @@ http://178.18.245.114:8080/XR_XtraTv132465/82190905/1288
 #EXTINF:-1, tvg-name="Netflix Drama" group-title="English Movies",Netflix Drama
 http://178.18.245.114:8080/XR_XtraTv132465/82190905/1289
 
+#English Movies ON
+
+#EXTINF:-1, tvg-name="ON 2K Cinema HD" group-title="English Movies",ON 2K Cinema HD
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1303
+#EXTINF:-1, tvg-name="ON Movies HD" group-title="English Movies",ON Movies HD
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1304
+#EXTINF:-1, tvg-name="ON SciFi HD" group-title="English Movies",ON SciFi HD
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1305
+#EXTINF:-1, tvg-name="ON Horror HD" group-title="English Movies",ON Horror HD
+http://178.18.245.114:8080/XR_XtraTv132465/82190905/1306
+
 #Infotainment
 
 #EXTINF: -1 tvg-name="food food" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Food_Food_%28TV_Channel%29_Logo.jpg" group-title="Infotainment", FOOD FOOD HD
