@@ -398,7 +398,7 @@ http://178.18.245.114:8080/XR_XtraTv132465/82190905/141
 
 #English Movies Netflix
 
-#EXTINF:-1, tvg-name="Netflix Action" group-title="English Movies",Netflix Action
+#EXTINF:-1, tvg-name="Netflix Action" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="English Movies",Netflix Action
 http://178.18.245.114:8080/XR_XtraTv132465/82190905/1286
 #EXTINF:-1, tvg-name="Netflix Horror" group-title="English Movies",Netflix Horror
 http://178.18.245.114:8080/XR_XtraTv132465/82190905/1287
