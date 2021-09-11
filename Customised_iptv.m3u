@@ -136,9 +136,15 @@ http://173.199.120.51/hls/andtv.m3u8
 #EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
 https://ayushiz5tv.herokuapp.com?c=0-9-tvhd_0
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+http://103.213.238.194:8080/Colors/index.m3u8
 #EXTINF:0tvg-name="Colors HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9", Colors HD
 http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
+#EXTINF:0tvg-name="Colors HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9", Colors HD
+http://173.199.120.51/hls/chc.m3u8
+#EXTINF:1 tvg-name="Colors HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9", Colors HD
+http://sonyiptv.net:8080/5500/5500/199223
+#EXTINF:1 tvg-name="Colors HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9", Colors HD
+http://sonyiptv.net:8080/5500/5500/199224
 #EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeetvhd
 #EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD
@@ -213,15 +219,21 @@ https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:0 tvg-logo="https://1.bp.blogspot.com/-Q3MsZEvKgnc/YP1NmkhSRBI/AAAAAAAAAoQ/_pAjmCYjb0It9qljvEHkivQGDDwQeyVTwCLcBGAsYHQ/s200/images%2B%252819%2529.jpeg" group-title="Hindi Movies",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",Sony Max Hd
-http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
 #EXTINF:-1 tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",Sony Max Hd
 http://89.187.182.181:9090/SM_FHD-HINDI-MAX/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-name="Sony Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi Movies", Sony Wah
-https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
+#EXTINF:-1 tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",Sony Max Hd
+http://103.213.238.194:8080/SonyMaxHD/index.m3u8
+#EXTINF:-1 tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",Sony Max Hd
+http://sonyiptv.net:8080/5500/5500/199238
 #EXTINF:-1 group-title="Hindi Movies", Sony Max 2 
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18802
+http://sonyiptv.net:8080/5500/5500/199250
+#EXTINF:-1 group-title="Hindi Movies", Sony Max 2
+http://sonyiptv.net:8080/5500/5500/199251
+#EXTINF: -1 tvg-name="Sony Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi Movies", Sony Wah
+http://sonyiptv.net:8080/5500/5500/199315
 #EXTINF:-1 group-title="Hindi Movies", Sony Pal
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18801
+http://sonyiptv.net:8080/5500/5500/199261
 #EXTINF: -1 tvg-name="AND PICTURES" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi Movies", AND PICTURES
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 #EXTINF:-1 tvg-name="AND PICTURES HD hd"group-title="Hindi Movies",AND PICTURES HD
@@ -237,17 +249,21 @@ http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/635
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
 http://channels227070.clientportal.link:80/Pxkcqcw673/9k7a3V15/6236
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6236
+http://sonyiptv.net:8080/5500/5500/199244
 #EXTINF:-1, tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies", UTV ACTION
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/51424
+http://sonyiptv.net:8080/5500/5500/199243
 #EXTINF:-1 tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
 http://103.153.39.34:8000/play/a06o/index.m3u8
+#EXTINF:-1 tvg-name="UTV HD" group-title="Hindi Movies",UTV HD
+http://sonyiptv.net:8080/5500/5500/81558
+#EXTINF:-1 tvg-name="UTV MOVIES HD" group-title="Hindi Movies",UTV MOVIES HD
+http://sonyiptv.net:8080/5500/5500/199245
 #EXTINF: -1 tvg-name="MBC BOLLYWOOD HD" group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1, tvg-name="OSN STAR Movies" group-title="Hindi Movies", OSN STAR Movies
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43368
 #EXTINF:-1 group-title="Hindi Movies",Miniplex
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18803
+http://sonyiptv.net:8080/5500/5500/199256
 #EXTINF:-1 tvg-name="Dhinchaak-1" tvg-logo="https://i.imgur.com/T2c6PjU.jpg" group-title="Hindi Movies",DHINCHAAK 1 (576p)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:-1 tvg-name="Dhinchaak-2" tvg-logo="https://i.imgur.com/AC4ze9o.jpg" group-title="Hindi Movies",DHINCHAAK 2 (576p)
@@ -290,7 +306,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF: -1 group-title="English Movies", SONY PIX
 https://is.gd/ObFrpt
 #EXTINF: -1 group-title="English Movies", SONY PIX
-http://103.81.104.118/hls/stream1.m3u8
+http://sonyiptv.net:8080/5500/5500/199280
 #EXTINF:-1 tvg-name="AMC" group-title="English Movies", AMC
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1 tvg-name="THRILL" group-title="English Movies", THRILL
