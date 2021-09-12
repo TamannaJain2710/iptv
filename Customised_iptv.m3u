@@ -422,6 +422,8 @@ http://178.18.245.114:8080/XR_XtraTv136479/974631/1321
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1322
 #EXTINF:-1, tvg-name="OSN Star World HD" group-title="English Movies",OSN Star World HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/141
+#EXTINF:-1 tvg-name="OSN Series HD" tvg-logo="https://www2.0zz0.com/2021/07/08/21/953541722.png" group-title="English Movies",OSN Series HD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/133
 
 #English Movies Netflix
 
