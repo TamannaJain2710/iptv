@@ -406,7 +406,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e
 
 #EXTINF:-1, tvg-name="OSN Fox Movies Action" group-title="English Movies",OSN Fox Movies Action
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1155
-#EXTINF:-1, tvg-name="OSN Movies HD" group-title="English Movies",OSN Movies HD
+#EXTINF:-1, tvg-name="OSN Movies HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNMOVIES.png" group-title="English Movies",OSN Movies HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/136
 #EXTINF:-1,tvg-name="OSN Movies First HD" group-title="English Movies",OSN Movies First HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/138
@@ -424,6 +424,8 @@ http://178.18.245.114:8080/XR_XtraTv136479/974631/1322
 http://178.18.245.114:8080/XR_XtraTv136479/974631/141
 #EXTINF:-1 tvg-name="OSN Series HD" tvg-logo="https://www2.0zz0.com/2021/07/08/21/953541722.png" group-title="English Movies",OSN Series HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/133
+#EXTINF:-1 tvg-name="OSN Action HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNACTION.png" group-title="English Movies",OSN Action HD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/137
 
 #English Movies Netflix
 
