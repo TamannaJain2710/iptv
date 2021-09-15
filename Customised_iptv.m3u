@@ -120,9 +120,10 @@ http://89.187.182.181:9090/SM_FHD-HINDI-SONYSAB/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Star Plus HD hd" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="Entertainment",Star Plus HD
 http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 #EXTINF:-1 tvg-name="Star Plus HD hd" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="Entertainment",Star Plus HD
-http://sonyiptv.net:8080/5500/5500/199148
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:-1 tvg-name="Star Plus HD hd" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="Entertainment",Star Plus HD
-http://sonyiptv.net:8080/5500/5500/199222
+http://indo51.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Entertainment",Star Bharat HD
 http://sonyiptv.net:8080/5500/5500/199226
 #EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Entertainment",Star Bharat HD
