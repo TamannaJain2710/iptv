@@ -234,9 +234,9 @@ http://89.187.182.181:9090/SM_FHD-HINDI-MAX/tracks-v1a1/index.m3u8
 http://103.213.238.194:8080/SonyMaxHD/index.m3u8
 #EXTINF:-1 tvg-name="Sony Max Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",Sony Max Hd
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
-#EXTINF:-1 group-title="Hindi Movies", Sony Max 2 
-http://sonyiptv.net:8080/5500/5500/199250
-#EXTINF:-1 group-title="Hindi Movies", Sony Max 2
+#EXTINF:-1 tvg-name="Sony Max 2" group-title="Hindi Movies", Sony Max 2 
+http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sony Max 2" group-title="Hindi Movies", Sony Max 2
 http://sonyiptv.net:8080/5500/5500/199251
 #EXTINF: -1 tvg-name="Sony Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi Movies", Sony Wah
 http://sonyiptv.net:8080/5500/5500/199315
