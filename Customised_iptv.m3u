@@ -104,7 +104,7 @@ https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/ind
 #Entertainment
 
 #EXTINF:-1 tvg-name="Sony SET" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", Sony SET
-http://sonyiptv.net:8080/5500/5500/199146
+http://173.199.120.51/hls/chs.m3u8
 #EXTINF:-1 tvg-name="Sony SET (FHD)" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", Sony SET (FHD)
 http://sonyiptv.net:8080/5500/5500/199147
 #EXTINF:-1 tvg-name="Sony Hd" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment", Sony Hd
@@ -112,7 +112,7 @@ http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sony TV HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony TV HD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_HINDI_SONYTV/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ed01782c16859e302eb12c21ef1aa16c691ebc4b8ef71d40de5923e678098d05535c0afe645789016b7f6df7c8dc1cf4f3516320326e8676b19f62a984837555b2b89e390a8e0a18d44d31fc26883ebbccb5c4829292a2e5347ee875eb8f91&mac=00:1A:79:51:A2:B8&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",Sony Sab
-http://sonyiptv.net:8080/5500/5500/199229
+http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:-1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",Sony Sab
 http://sonyiptv.net:8080/5500/5500/199231
 #EXTINF:-1 tvg-name="Sony Sab" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",Sony Sab
@@ -127,14 +127,6 @@ http://sonyiptv.net:8080/5500/5500/199222
 http://sonyiptv.net:8080/5500/5500/199226
 #EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Entertainment",Star Bharat HD
 http://89.187.182.181:9090/SM_FHD-HINDI-STARBHARAT/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
-http://sonyiptv.net:8080/5500/5500/199227
-#EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
-http://sonyiptv.net:8080/5500/5500/199228
-#EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
-http://173.199.120.51/hls/andtv.m3u8
-#EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
-https://ayushiz5tv.herokuapp.com?c=0-9-tvhd_0
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
 http://103.213.238.194:8080/Colors/index.m3u8
 #EXTINF:0tvg-name="Colors HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9", Colors HD
@@ -161,6 +153,14 @@ https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 #EXTINF:0 tvg-name="Zee TV HD" group-title="Entertainment" aspect-ratio="16:9", Zee TV HD
 http://89.187.182.181:9090/SM_FHD-HINDI-ZEETV/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
+http://sonyiptv.net:8080/5500/5500/199227
+#EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
+http://sonyiptv.net:8080/5500/5500/199228
+#EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
+http://173.199.120.51/hls/andtv.m3u8
+#EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
+https://ayushiz5tv.herokuapp.com?c=0-9-tvhd_0
 
 #Hindi Movies
 
