@@ -123,9 +123,8 @@ http://93.190.139.35:8278/streams/d/Starplushd/playlist.m3u8
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:-1 tvg-name="Star Plus HD hd" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="Entertainment",Star Plus HD
 http://indo51.gcdn.co/hindi-STARPLUSHD/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Entertainment",Star Bharat HD
-http://sonyiptv.net:8080/5500/5500/199226
+http://indo51.gcdn.co/hindi-STARBHARATHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Star Bharat HD hd"group-title="Entertainment",Star Bharat HD
 http://89.187.182.181:9090/SM_FHD-HINDI-STARBHARAT/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="Colors HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
@@ -135,9 +134,9 @@ http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
 #EXTINF:0tvg-name="Colors HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9", Colors HD
 http://173.199.120.51/hls/chc.m3u8
 #EXTINF:1 tvg-name="Colors HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9", Colors HD
-http://sonyiptv.net:8080/5500/5500/199223
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:1 tvg-name="Colors HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9", Colors HD
-http://sonyiptv.net:8080/5500/5500/199224
+http://indo51.gcdn.co/hindi-COLORSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeetvhd
 #EXTINF:-1 tvg-name="Zee TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",Zee TV HD
