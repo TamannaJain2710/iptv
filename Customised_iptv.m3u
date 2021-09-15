@@ -155,14 +155,14 @@ http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-ZEETV/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-name="Zee TV HD" group-title="Entertainment" aspect-ratio="16:9", Zee TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:-1 tvg-name="And tv" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv
+http://173.199.120.51/hls/andtv.m3u8
 #EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
-http://sonyiptv.net:8080/5500/5500/199227
-#EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
-http://sonyiptv.net:8080/5500/5500/199228
+http://143.244.60.10/HINDI__AND_TV_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
 http://173.199.120.51/hls/andtv.m3u8
 #EXTINF:-1 tvg-name="And tv HD hd" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And Tv HD
-https://ayushiz5tv.herokuapp.com?c=0-9-tvhd_0
+https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 
 #Hindi Movies
 
