@@ -54,6 +54,8 @@ https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
 https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", MIRROR NOW
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg", MIRROR NOW
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 tvg-name="NDTV 24x7" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:-1 tvg-name="NDTV Profit" tvg-logo="https://www.ndtv.com/business/content/images/profit_logo2017.png" group-title="News",NDTV Profit
@@ -239,9 +241,9 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1
 #EXTINF:-1 tvg-name="Sony Max 2" group-title="Hindi Movies", Sony Max 2 
 http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="Sony Max 2" group-title="Hindi Movies", Sony Max 2
-http://sonyiptv.net:8080/5500/5500/199251
+http://sonyiptv.net:8080/12345678/12345678/199251
 #EXTINF: -1 tvg-name="Sony Wah" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi Movies", Sony Wah
-http://sonyiptv.net:8080/5500/5500/199315
+http://sonyiptv.net:8080/12345678/12345678/199315
 #EXTINF:-1 group-title="Hindi Movies", Sony Pal
 http://indo51.gcdn.co/hindi-SONYPAL/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="AND PICTURES" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi Movies", AND PICTURES
@@ -259,21 +261,21 @@ http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/635
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
 http://channels227070.clientportal.link:80/Pxkcqcw673/9k7a3V15/6236
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
-http://sonyiptv.net:8080/5500/5500/199244
+http://sonyiptv.net:8080/12345678/12345678/199244
 #EXTINF:-1, tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies", UTV ACTION
 http://rv.flysat.live:80/307211765061/307211765061/83632
 #EXTINF:-1 tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
 http://103.153.39.34:8000/play/a06o/index.m3u8
 #EXTINF:-1 tvg-name="UTV HD" group-title="Hindi Movies",UTV HD
-http://sonyiptv.net:8080/5500/5500/81558
+http://sonyiptv.net:8080/12345678/12345678/81558
 #EXTINF:-1 tvg-name="UTV MOVIES HD" group-title="Hindi Movies",UTV MOVIES HD
-http://sonyiptv.net:8080/5500/5500/199245
+http://sonyiptv.net:8080/12345678/12345678/199245
 #EXTINF: -1 tvg-name="MBC BOLLYWOOD HD" group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png", MBC BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1, tvg-name="OSN STAR Movies" group-title="Hindi Movies", OSN STAR Movies
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43368
 #EXTINF:-1 group-title="Hindi Movies",Miniplex
-http://sonyiptv.net:8080/5500/5500/199256
+http://sonyiptv.net:8080/12345678/12345678/199256
 #EXTINF:-1 tvg-name="Dhinchaak-1" tvg-logo="https://i.imgur.com/T2c6PjU.jpg" group-title="Hindi Movies",DHINCHAAK 1 (576p)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:-1 tvg-name="Dhinchaak-2" tvg-logo="https://i.imgur.com/AC4ze9o.jpg" group-title="Hindi Movies",DHINCHAAK 2 (576p)
@@ -314,7 +316,7 @@ https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF: -1 group-title="English Movies", SONY PIX
 https://is.gd/ObFrpt
 #EXTINF: -1 group-title="English Movies", SONY PIX
-http://sonyiptv.net:8080/5500/5500/199280
+http://sonyiptv.net:8080/12345678/12345678/199280
 
 #English Movies HBO
 
@@ -341,10 +343,16 @@ https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="WB TV" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="English Movies",WB TV
 http://203.154.243.89:1205
-#EXTINF:-1 tvg-name="AMC" group-title="English Movies", AMC
+#EXTINF:-1 tvg-name="AMC" group-title="English Movies",AMC
 http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-#EXTINF:-1 tvg-name="THRILL" group-title="English Movies", THRILL
+#EXTINF:-1 tvg-name="THRILL" group-title="English Movies",THRILL
 http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-name="BOX OFFICE" group-title="English Movies",BOX OFFICE 
+https://sonar.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-name="MOVIES KINGDOM" group-title="English Movies",MOVIES KINGDOM
+https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
+#EXTINF:-1 tvg-name="AMERICAN HORROR" group-title="English Movies",AMERICAN HORROR
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
 #English Movies MIX
 
@@ -485,10 +493,10 @@ https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
 https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 tvg-name="DISCOVERY TURBO" group-title="Infotainment",DISCOVERY TURBO
 https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
-#EXTINF:-1 group-title="Infotainment",Sony BBC Earth(Eng)
+#EXTINF:-1 tvg-name="Sony BBC Earth(Eng)" group-title="Infotainment",Sony BBC Earth(Eng)
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6226
-#EXTINF:-1 group-title="Infotainment", History TV
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18794
+#EXTINF:-1 tvg-name="History TV" group-title="Infotainment", History TV
+http://103.153.39.34:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic HD Hindi" tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Infotainment",National Geographic HD Hindi
 http://89.187.182.181:9090/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="National Geographic HD Hindi" tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Infotainment",National Geographic HD Hindi
@@ -503,10 +511,12 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3
 http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43019
 #EXTINF:-1 tvg-name="TRAVEL XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP (720p)
 https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Osn Discovery Science" group-title="Infotainment", Osn Discovery Science
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43356
+#EXTINF:-1 tvg-name="Osn Discovery Science" group-title="Infotainment",Osn Discovery Science
+http://killott.com:8000/987654321/987654321/86639
+#EXTINF:-1 tvg-name="Osn Discovery ID" group-title="Infotainment",Osn Discovery ID
+http://killott.com:8000/987654321/987654321/86640
 #EXTINF:-1 tvg-name="Osn Discovery HD" group-title="Infotainment",Osn Discovery HD
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43357
+http://killott.com:8000/987654321/987654321/86641
 #EXTINF:0 tvg-name="NASA Public" group-title="Infotainment" tvg-logo="https://images.app.goo.gl/y8WRd8i5PHmhJFqKA", NASA Public
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1, tvg-name="Netflix documentary" group-title="Infotainment",Netflix documentary
@@ -527,6 +537,8 @@ http://178.18.245.114:8080/XR_XtraTv136479/974631/1340
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
 #EXTINF:-1 tvg-name="ZEE5 MUSIC 2" group-title="Music", ZEE5 MUSIC 2
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+#EXTINF:-1 tvg-name="MASTIII" group-title="Music", MASTIII
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 group-title="Music", MTV 
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6219
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music", MTV Beats HD
