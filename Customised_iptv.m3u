@@ -354,40 +354,6 @@ https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 tvg-name="AMERICAN HORROR" group-title="English Movies",AMERICAN HORROR
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 
-#English Movies MIX
-
-#EXTINF:-1, tvg-name="Mix Cinema" group-title="English Movies",Mix Cinema
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1293
-#EXTINF:-1, tvg-name="Mix Action" group-title="English Movies",Mix Action
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1294
-#EXTINF:-1, tvg-name="Mix Mystery" group-title="English Movies",Mix Mystery
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1295
-#EXTINF:-1, tvg-name="Mix Horror" group-title="English Movies",Mix Horror
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1296
-#EXTINF:-1, tvg-name="Mix Crime" group-title="English Movies",Mix Crime
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1297
-#EXTINF:-1, tvg-name="Vision Action HD" group-title="English Movies",Vision Action HD
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1298
-#EXTINF:-1, tvg-name="ART Action HD" group-title="English Movies",ART Action HD
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1342
-#EXTINF:-1, tvg-name="OMG" group-title="English Movies",OMG
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1300
-#EXTINF:-1, tvg-name="Xtra Movies Action" group-title="English Movies",Xtra Movies Action
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1217
-#EXTINF:-1, tvg-name="Xtra Movies Adventure" group-title="English Movies",Xtra Movies Adventure
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1326
-#EXTINF:-1, tvg-name="Xtra Movies Crime" group-title="English Movies",Xtra Movies Crime
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1339
-
-#English Movies MBC
-
-#EXTINF:-1 tvg-name="MBC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
-#EXTINF: -1 tvg-name="MBC MAX HD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies", MBC MAX HD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
-#EXTINF: -1 tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movies", MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-
 #English Movies Fox
 
 #EXTINF:-1 tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="English Movies",FOX
@@ -423,6 +389,40 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/JLgn5jC.png" group-title="English Movies",Pluto TV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#English Movies MIX
+
+#EXTINF:-1, tvg-name="Mix Cinema" group-title="English Movies",Mix Cinema
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1293
+#EXTINF:-1, tvg-name="Mix Action" group-title="English Movies",Mix Action
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1294
+#EXTINF:-1, tvg-name="Mix Mystery" group-title="English Movies",Mix Mystery
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1295
+#EXTINF:-1, tvg-name="Mix Horror" group-title="English Movies",Mix Horror
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1296
+#EXTINF:-1, tvg-name="Mix Crime" group-title="English Movies",Mix Crime
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1297
+#EXTINF:-1, tvg-name="Vision Action HD" group-title="English Movies",Vision Action HD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1298
+#EXTINF:-1, tvg-name="ART Action HD" group-title="English Movies",ART Action HD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1342
+#EXTINF:-1, tvg-name="OMG" group-title="English Movies",OMG
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1300
+#EXTINF:-1, tvg-name="Xtra Movies Action" group-title="English Movies",Xtra Movies Action
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1217
+#EXTINF:-1, tvg-name="Xtra Movies Adventure" group-title="English Movies",Xtra Movies Adventure
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1326
+#EXTINF:-1, tvg-name="Xtra Movies Crime" group-title="English Movies",Xtra Movies Crime
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1339
+
+#English Movies MBC
+
+#EXTINF:-1 tvg-name="MBC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
+#EXTINF: -1 tvg-name="MBC MAX HD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies", MBC MAX HD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8
+#EXTINF: -1 tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movies", MBC 2 HD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
 
 #English Movies OSN
 
@@ -568,16 +568,16 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8
 
 #Bhakti/devotional
 
+#EXTINF:-1 group-title="Bhakti/devotional", Sadhna
+http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
+#EXTINF:-1 tvg-name="SHIRDI LIVE" group-title="Bhakti/devotional", SHIRDI LIVE
+https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 #EXTINF:-1 tvg-name="JINVANI CHANNEL" group-title="Bhakti/devotional", JINVANI CHANNEL
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1630323335/ei/J24sYebHB5XMpgeY3ZFw/ip/2405%3A201%3A401e%3A3986%3A64b8%3A98de%3A6545%3A7f02/id/LDp6t4j8VoU.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgDI11y6EbU0M9j-dOO7hA9qLXQ6aqJ0Y4rBCKW7LWNP0CIDpz3FL_q_GbI4cRRSlf-UH2Z0cedcMoQpNZvZFe4xA_/file/index.m3u8
 #EXTINF:-1 tvg-name="PARAS TV CHANNEL" group-title="Bhakti/devotional", PARAS TV CHANNEL
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1630329257/ei/SYUsYe66FITLpgfa3L6ICg/ip/2405%3A201%3A401e%3A3986%3A64b8%3A98de%3A6545%3A7f02/id/Y4b-tt2GkvI.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAINc2rwTl-1t4FfRJVNqEDv4fCsqbeEmJTwQHO7xJ9QoAiEA_nPcp37wBqlj6lhFIxVANqw1db7MZG5d74CbRusP4gA%3D/file/index.m3u8
 #EXTINF:-1 tvg-name=" AGAMVANI CHANNEL" group-title="Bhakti/devotional", AGAMVANI CHANNEL
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1630329534/ei/XoYsYbrCGdPP4-EP29ye4Ao/ip/2405%3A201%3A401e%3A3986%3A64b8%3A98de%3A6545%3A7f02/id/8glv26iDo28.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPuImGz3b9wuJuTJe1T2zhDkotrvmiKrNRgh3_wSOX_5AiArnjm8Bp-kfSOX-S_J3f5UAH23KIQ2FrUNvCJzlb62OQ%3D%3D/file/index.m3u8
-#EXTINF:-1 group-title="Bhakti/devotional", Sadhna
-http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
-#EXTINF:-1 tvg-name="SHIRDI LIVE" group-title="Bhakti/devotional", SHIRDI LIVE
-https://cam.live-s.cdn.bitgravity.com/cdn-live/_definst_/cam/live/secure/saibaba/playlist.m3u8?e=0&h=2598445340a35f63eb211f81940d2525
 
 #Punjabi
 
@@ -599,19 +599,20 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 #sports
 
 #EXTINF:-1, tvg-name="DD SPORTS" group-title="sports", DD SPORTS
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43016
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1, tvg-name="DD SPORTS" group-title="sports", DD SPORTS
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="sports" ,Sony Six ᴴᴰ
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
+#EXTINF:-1 group-title="sports",Sony Ten 1 ᴴᴰ
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
+#EXTINF:-1 group-title="sports",Sony Ten 2 ᴴᴰ
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
+#EXTINF:-1 group-title="sports",Sony Ten 3 
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 group-title="sports",Star Sports 1 ᴴᴰ
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18807
 #EXTINF:-1 group-title="sports",Star Sports 2 
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10165
-#EXTINF:-1 tvg-id="Star Sports 3 FHD IN" tvg-name="Star Sports 3 FHD IN" tvg-logo="" group-title="sports",Star Sports 3 FHD IN
+#EXTINF:-1 tvg-name="Star Sports 3 FHD IN" tvg-logo="" group-title="sports",Star Sports 3 FHD IN
 http://lbproxy.com/watch/2f50dd66-3ace-432a-8e63-df4700a9f2f6/03547113-76b4-49f2-8fa4-f217dc81fd4a/mpegts
-#EXTINF:-1 group-title="sports" ,Sony Six ᴴᴰ
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/18805
-#EXTINF:-1 group-title="sports",Sony Ten 1 ᴴᴰ
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10168
-#EXTINF:-1 group-title="sports",Sony Ten 2 ᴴᴰ
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10170
-#EXTINF:-1 group-title="sports",Sony Ten 3 
-http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/10169
-
