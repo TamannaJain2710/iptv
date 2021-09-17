@@ -528,6 +528,8 @@ http://178.18.245.114:8080/XR_XtraTv136479/974631/1291
 http://103.153.39.34:8000/play/a04k/index.m3u8
 #EXTINF:-1 tvg-id="CARTOON_NETWORK_HINDI-US" tvg-name="CARTOON_NETWORK_HINDI-US" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="KIDS CARTOON",CARTOON_NETWORK_HINDI-US (432p)
 http://70.39.83.58:8278/cartoonnetworkhindikdin/playlist.m3u8
+#EXTINF:-1, tvg-name="MARVEL HQ" group-title="KIDS CARTOON",MARVEL HQ
+https://feed.play.mv/live/10005200/niZoVrR2vD/master.m3u8
 #EXTINF:-1, tvg-name="NetFlix JR" group-title="KIDS CARTOON",NetFlix JR
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1340
 
