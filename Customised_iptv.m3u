@@ -332,8 +332,10 @@ https://gratismkctv.net/film/hbo.m3u8
 http://107.167.5.66:80/mylive/102/2065/index.m3u8
 #EXTINF:-1 tvg-name="HBO SIGNATURE ENGLISH" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_170_122" group-title="English Movies",HBO SIGNATURE ENGLISH
 https://liveorigin01.hbogoasia.com:8443/origin/live/SIG/index.m3u8
-#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="" group-title="English Movies",HBO FAMILY
+#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" group-title="English Movies",HBO FAMILY
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+#EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="English Movies",HBO HITS
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
 #English Movies Mix PRO
 
@@ -357,14 +359,14 @@ https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 https://amc-amcpresents-2.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="THRILL" group-title="English Movies",THRILL
 http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/s34/01.m3u8
-#EXTINF:-1 tvg-name="Cinemax Asia (720p)" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="English Movies",Cinemax Asia (720p)
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-country="US" tvg-language="English;Vietnamese" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",Cinemax Asia (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
-https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
-
-
+#EXTINF:-1 tvg-name="Local Now Movies of the 2000s" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df5a93273c1288c732f59" group-title="English Movies",Local Now Movies of the 2000s
+https://linear-167.frequency.stream/dist/localnow/167/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="Local Now Movies of the 2010s" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/607df6d8ec9c645c921ecaa3" group-title="English Movies",Local Now Movies of the 2010s
+https://linear-168.frequency.stream/dist/localnow/168/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-name="MovieMix" tvg-logo="https://i.imgur.com/qcgXbuC.png" group-title="English Movies",MovieMix
+https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-name="MyTime movie network" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="English Movies",MyTime movie network
+https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
 
 #English Movies Fox
 
@@ -380,9 +382,16 @@ https://nonton.site:8443/rachman/rachman123/1478
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/21701
 #EXTINF:-1 tvg-name="HALLMARK" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" group-title="English Movies",HALLMARK 
 http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Hallmark Movies & More" tvg-logo="https://i.imgur.com/JMn9sxk.png" group-title="English Movies",Hallmark Movies & More
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+
 
 #English Movies Pluto
 
+#EXTINF:-1 tvg-name="Pluto TV Action (684p)" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="English Movies",Pluto TV Action (684p)
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561d7d484dc7c8770484914a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=54&terminate=false&userId=
+#EXTINF:-1 tvg-name="Pluto TV Action (720p)" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="English Movies",Pluto TV Action (720p) [Not 24/7]
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="English Movies",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-name="Pluto TV Comedy" tvg-logo="https://i.imgur.com/Pjs4lgs.png" group-title="English Movies",Pluto TV Comedy
