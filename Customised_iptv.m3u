@@ -360,6 +360,11 @@ http://210.210.129.106:80/session/940a018e-afd5-11eb-9476-a0f3b200492f/qwr9ew/s/
 #EXTINF:-1 tvg-name="Cinemax Asia (720p)" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="English Movies",Cinemax Asia (720p)
 https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CinemaxAsia.us" tvg-country="US" tvg-language="English;Vietnamese" tvg-logo="https://static.epg.best/ph/Cinemax.ph.png" group-title="Movies",Cinemax Asia (720p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
+https://livecdn.fptplay.net/hda1/cinemax_hls.smil/playlist.m3u8
+
+
 
 #English Movies Fox
 
