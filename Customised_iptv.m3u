@@ -208,7 +208,7 @@ http://indo51.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="STAR GOLd-2 HD" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",STAR GOLd-2 HD
 http://143.244.60.10/HINDI__STAR_GOLD_2/tracks-v1a1/mono.m3u8?token=test
-#EXTINF:-1 tvg-name="STAR GOLd SELECT" group-title="Hindi Movies",tvg-name="STAR GOLd SELECT
+#EXTINF:-1 tvg-name="STAR GOLd SELECT" group-title="Hindi Movies",STAR GOLd SELECT
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6228
 #EXTINF:-1 tvg-name="RISHTEY CINEPLEX" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies",RISHTEY CINEPLEX
 http://indo51.gcdn.co/hindi-RISHTEY/tracks-v1a1/mono.m3u8
