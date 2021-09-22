@@ -208,6 +208,8 @@ http://indo51.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="STAR GOLd-2 HD" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",STAR GOLd-2 HD
 http://143.244.60.10/HINDI__STAR_GOLD_2/tracks-v1a1/mono.m3u8?token=test
+#EXTINF:-1 tvg-name="STAR GOLd-2 HD" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",STAR GOLd-2 HD
+http://sonyiptv.net:8080/12345678/12345678/199235
 #EXTINF:-1 tvg-name="STAR GOLd SELECT" group-title="Hindi Movies",STAR GOLd SELECT
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6228
 #EXTINF:-1 tvg-name="RISHTEY CINEPLEX" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies",RISHTEY CINEPLEX
@@ -264,10 +266,14 @@ http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/635
 http://channels227070.clientportal.link:80/Pxkcqcw673/9k7a3V15/6236
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
 http://sonyiptv.net:8080/12345678/12345678/199244
-#EXTINF:-1, tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies", UTV ACTION
+#EXTINF:-1, tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
 http://rv.flysat.live:80/307211765061/307211765061/83632
 #EXTINF:-1 tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
 http://103.153.39.34:8000/play/a06o/index.m3u8
+#EXTINF:-1, tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
+http://sonyiptv.net:8080/12345678/12345678/199243
+#EXTINF:-1 tvg-name="UTV HD" group-title="Hindi Movies",UTV HD
+http://sonyiptv.net:8080/12345678/12345678/199244
 #EXTINF:-1 tvg-name="UTV HD" group-title="Hindi Movies",UTV HD
 http://sonyiptv.net:8080/12345678/12345678/81558
 #EXTINF:-1 tvg-name="UTV MOVIES HD" group-title="Hindi Movies",UTV MOVIES HD
@@ -275,7 +281,7 @@ https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 tvg-name="MBC BOLLYWOOD HD" group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",MBC BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1, tvg-name="OSN STAR Movies" group-title="Hindi Movies",OSN STAR Movies
-http://eurotv.vip:80/pretttiiivddcff/Frffgfrffc300/43368
+http://sonyiptv.net:8080/12345678/12345678/205793
 #EXTINF:-1 group-title="Hindi Movies",Miniplex
 http://sonyiptv.net:8080/12345678/12345678/199256
 #EXTINF:-1 tvg-name="Dhinchaak-1" tvg-logo="https://i.imgur.com/T2c6PjU.jpg" group-title="Hindi Movies",DHINCHAAK 1 (576p)
@@ -470,25 +476,25 @@ https://blogs.livehdchanel.live/mbc-222/index.m3u8
 #EXTINF:-1, tvg-name="OSN Fox Movies Action" group-title="English Movies",OSN Fox Movies Action
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1155
 #EXTINF:-1, tvg-name="OSN Movies HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNMOVIES.png" group-title="English Movies",OSN Movies HD
-http://178.18.245.114:8080/XR_XtraTv136479/974631/136
+http://sonyiptv.net:8080/12345678/12345678/205776
 #EXTINF:-1,tvg-name="OSN Movies First HD" group-title="English Movies",OSN Movies First HD
-http://178.18.245.114:8080/XR_XtraTv136479/974631/138
+http://sonyiptv.net:8080/12345678/12345678/205780
 #EXTINF:-1, tvg-name="OSN POP UP HD" group-title="English Movies",OSN POP UP HD
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1319
+http://sonyiptv.net:8080/12345678/12345678/205806
 #EXTINF:-1, tvg-name="OSN Movie Drama" group-title="English Movies",OSN Movie Drama
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1323
+#EXTINF:-1, tvg-name="OSN Star World HD" group-title="English Movies",OSN Star World HD
+http://sonyiptv.net:8080/12345678/12345678/205794
+#EXTINF:-1 tvg-name="OSN Action HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNACTION.png" group-title="English Movies",OSN Action HD
+http://sonyiptv.net:8080/12345678/12345678/205783
 #EXTINF:-1, tvg-name="OSN BOX OFFICE 1" group-title="English Movies",OSN BOX OFFICE 1
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1320
+http://sonyiptv.net:8080/12345678/12345678/205810
 #EXTINF:-1, tvg-name="OSN BOX OFFICE 2" group-title="English Movies",OSN BOX OFFICE 2
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1321
 #EXTINF:-1, tvg-name="OSN BOX OFFICE 3" group-title="English Movies",OSN BOX OFFICE 3
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1322
-#EXTINF:-1, tvg-name="OSN Star World HD" group-title="English Movies",OSN Star World HD
-http://178.18.245.114:8080/XR_XtraTv136479/974631/141
 #EXTINF:-1 tvg-name="OSN Series HD" tvg-logo="https://www2.0zz0.com/2021/07/08/21/953541722.png" group-title="English Movies",OSN Series HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/133
-#EXTINF:-1 tvg-name="OSN Action HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNACTION.png" group-title="English Movies",OSN Action HD
-http://178.18.245.114:8080/XR_XtraTv136479/974631/137
 
 #English Movies Netflix
 
@@ -500,6 +506,8 @@ http://178.18.245.114:8080/XR_XtraTv136479/974631/1287
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1288
 #EXTINF:-1, tvg-name="Netflix Drama" group-title="English Movies",Netflix Drama
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1289
+#EXTINF:-1, tvg-name="Netflix Indian 1" group-title="Hindi Movies",Netflix Indian 1
+http://sonyiptv.net:8080/12345678/12345678/205922
 
 #English Movies ON
 
