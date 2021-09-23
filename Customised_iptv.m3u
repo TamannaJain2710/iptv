@@ -649,7 +649,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF: -1 tvg-name="MH1 MUSIC" group-title="Music",MH1 MUSIC
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-name="B4U MUSIC" aspect-ratio="16:9" group-title="Music",B4U MUSIC
-http://indo51.gcdn.co/hindi-B4UMUSIC/tracks-v1a1/mono.m3u8
+http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-name="B4U MUSIC" aspect-ratio="16:9" group-title="Music",B4U MUSIC
 https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
 #EXTINF:-1 tvg-name="ZOOM TV" group-title="Music",ZOOM TV
