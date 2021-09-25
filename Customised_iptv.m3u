@@ -109,7 +109,7 @@ http://dai2-playlistserver.aws.syncbak.com/playlist/13457161/master.m3u8?access_
 #EXTINF:-1  tvg-name="ABC NEWS (US)" group-title="News",ABC NEWS (US)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1  tvg-name="ABC ME (AUS)" group-title="News",ABC ME (AUS)
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/33225e24c0e543af922929ede7b6941f/index.m3u8?hdnea=st=1582995921~exp=1583003121~acl=/*~hmac=b32fb1e09786fe9e6f6b6f6b6bbfcfcbfbbffbbffbbfbbffbbffbbfbcfcfdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8
 #EXTINF:-1 tvg-name="SADHNA PLUS" group-title="News",SADHNA PLUS
 https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
 #EXTINF:-1 tvg-name="WION TV(News)" group-title="News" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png",WION TV(News)
@@ -522,13 +522,13 @@ http://178.18.245.114:8080/XR_XtraTv136479/974631/133
 #English Movies Netflix
 
 #EXTINF:-1, tvg-name="Netflix Action" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="English Movies",Netflix Action
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1286
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/35638
 #EXTINF:-1, tvg-name="Netflix Horror" group-title="English Movies",Netflix Horror
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1287
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/35632
 #EXTINF:-1, tvg-name="Netflix Comedy" group-title="English Movies",Netflix Comedy
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1288
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/35634
 #EXTINF:-1, tvg-name="Netflix Drama" group-title="English Movies",Netflix Drama
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1289
+http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/35636
 #EXTINF:-1, tvg-name="NETFLIX ENGLISH 1" group-title="English Movies",NETFLIX ENGLISH 1
 http://sonyiptv.net:8080/12345678/12345678/205908
 #EXTINF:-1, tvg-name="NETFLIX ENGLISH 2" group-title="English Movies",NETFLIX ENGLISH 2
