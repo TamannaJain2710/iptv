@@ -44,7 +44,7 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-name="DD LOK SABHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="News",DD LOK SABHA
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-name="SUDARSHAN NEWS" group-title="News",SUDARSHAN NEWS
+#EXTINF:-1 tvg-name="SUDARSHAN NEWS" tvg-logo="" group-title="News",SUDARSHAN NEWS
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w1867454157.m3u8
 #EXTINF:-1 tvg-name="CNBC AWAAZ" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnibYv_8eCCk7bXO-BxT6sH6dK-2ZsmZQUVObcLd=s900-c-k-c0x00ffffff-no-rj" group-title="News",CNBC AWAAZ
 https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
@@ -70,13 +70,13 @@ https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&re
 https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b1396000_sleng.m3u8
 #EXTINF:0 tvg-name="DW"tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="News",DW
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8?
-#EXTINF:-1 tvg-name="AL JAZEERA" group-title="News",AL JAZEERA
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AL JAZEERA" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",AL JAZEERA
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-name="FRANCE24" group-title="News",FRANCE24
+#EXTINF:-1 tvg-name="FRANCE24" tvg-logo="" group-title="News",FRANCE24
 https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
-#EXTINF:-1 tvg-name="EURONEWS" group-title="News",EURO NEWS
+#EXTINF:-1 tvg-name="EURONEWS" tvg-logo="" group-title="News",EURO NEWS
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
-#EXTINF:-1 tvg-name="CNN NEW18" group-title="News",CNN NEW18
+#EXTINF:-1 tvg-name="CNN NEW18" tvg-logo="" group-title="News",CNN NEW18
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 #EXTINF:-1 tvg-name="CNN International" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%287%29.png" group-title="News",CNN International
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -86,35 +86,37 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-name="CNA (ASIA)" tvg-logo="https://1.bp.blogspot.com/-L6JBEL4I4jE/YL8j5M9SAqI/AAAAAAAABEU/c6soWjIk-lwQXdN_cYaV4h85H2jmHoh6wCLcBGAsYHQ/w320-h109/images%2838%29.jpeg" group-title="News",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-name="BBC News (720p)" group-title="News",BBC News (720p)
+#EXTINF:-1 tvg-name="BBC News (720p)" tvg-logo="" group-title="News",BBC News (720p)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
-#EXTINF:-1 tvg-name="BBC News (480p)" group-title="News",BBC News (480p)
+#EXTINF:-1 tvg-name="BBC News (480p)" tvg-logo="" group-title="News",BBC News (480p)
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
-#EXTINF:-1 tvg-name="BBC World News (576p)" group-title="News",BBC World News (576p)
+#EXTINF:-1 tvg-name="BBC World News (576p)" tvg-logo="" group-title="News",BBC World News (576p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 tvg-name="FOX NEWS" group-title="News",FOX NEWS
+#EXTINF:-1 tvg-name="FOX NEWS" tvg-logo="" group-title="News",FOX NEWS
 http://1111296894.rsc.cdn77.org/ls-54548-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="FOX NEWS (720p)" group-title="News",FOX NEWS (720p)
+#EXTINF:-1 tvg-name="FOX NEWS (720p)" tvg-logo="" group-title="News",FOX NEWS (720p)
 https://bozztv.com/teleyupp/AsEAeOtIxz/playlist.m3u8
-#EXTINF:-1 tvg-name="FOX NEWS NOW (720p)" group-title="News",FOX NEWS NOW (720p)
+#EXTINF:-1 tvg-name="FOX NEWS NOW (720p)" tvg-logo="" group-title="News",FOX NEWS NOW (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="SKY NEWS (720p)" group-title="News",SKY NEWS (720p)
+#EXTINF:-1 tvg-name="SKY NEWS (720p)" tvg-logo="" group-title="News",SKY NEWS (720p)
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8
-#EXTINF:-1  tvg-name="ABC (UK)" group-title="News",ABC (UK)
+#EXTINF:-1  tvg-id="ABCNews.uk" tvg-name="ABC (UK)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News",ABC (UK)
 http://31.220.41.87:8081/live/us-abc.stream/chunks.m3u8
-#EXTINF:-1  tvg-name="ABC (US)" group-title="News",ABC (US)
-http://prod2-dai2-playlistserver.aws.syncbak.com/playlist/17716049/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxNzcxNjA0OSIsIm1kNSI6IjVlYTdlY2VhNmEyNGZhZTI3MzI0Y2NmYjU3MmIxMGIzIiwiaWF0IjoxNTY5MzQxMjc2LCJpc3MiOiJTeW5jYmFrIChURykifQ.Wa-2nheneuWFxJ0kzCgGP7WDNzGGN7EOMIVWQWULeNM
-#EXTINF:-1  tvg-name="ABC (US)" group-title="News",ABC (US)
+#EXTINF:-1  tvg-id="ABCNews.us" tvg-name="ABC (US)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News",ABC (US)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+#EXTINF:-1  tvg-id="ABCNews.us" tvg-name="ABC (US)" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News",ABC (US)
 http://dai2-playlistserver.aws.syncbak.com/playlist/13457161/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE4MDIxMDQ5MzUsImlzcyI6IldMUyIsIm1kNSI6ImUyYmMxZmJiZTBhODk3MTFiYWY0ZTFhZmNkNGJjYzI1IiwibWlkIjoiMTM0NTcxNjEifQ.THRv2lITl_tb4SeyFerusnIZisV7IFLNIlyO28aY6AM
-#EXTINF:-1  tvg-name="ABC NEWS (US)" group-title="News",ABC NEWS (US)
+#EXTINF:-1  tvg-id="ABCNews.au" tvg-name="ABC ME (AUS)" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="News",ABC ME (AUS)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1  tvg-name="ABC ME (AUS)" group-title="News",ABC ME (AUS)
+#EXTINF:-1  tvg-id="ABCNews.au" tvg-name="ABC ME (AUS)" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="News",ABC ME (AUS)
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_43.m3u8
-#EXTINF:-1 tvg-name="SADHNA PLUS" group-title="News",SADHNA PLUS
+#EXTINF:-1  tvg-name="ABC 7" tvg-logo="" group-title="News",ABC 7
+http://prod2-dai2-playlistserver.aws.syncbak.com/playlist/17716049/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOiIxNzcxNjA0OSIsIm1kNSI6IjVlYTdlY2VhNmEyNGZhZTI3MzI0Y2NmYjU3MmIxMGIzIiwiaWF0IjoxNTY5MzQxMjc2LCJpc3MiOiJTeW5jYmFrIChURykifQ.Wa-2nheneuWFxJ0kzCgGP7WDNzGGN7EOMIVWQWULeNM
+#EXTINF:-1 tvg-name="SADHNA PLUS" tvg-logo="" group-title="News",SADHNA PLUS
 https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
-#EXTINF:-1 tvg-name="WION TV(News)" group-title="News" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png",WION TV(News)
+#EXTINF:-1 tvg-name="WION TV(News)" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" group-title="News",WION TV(News)
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
-#EXTINF:-1 tvg-name="WION TV(News)" group-title="News" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png", WION TV(News)
+#EXTINF:-1 tvg-name="WION TV(News)" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" group-title="News",WION TV(News)
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-wion
 
 #Entertainment
