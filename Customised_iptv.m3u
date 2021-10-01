@@ -314,10 +314,12 @@ http://14.199.164.20:4001/play/a0tm/index.m3u8
 http://14.199.164.20:4001/play/a0su/index.m3u8
 #EXTINF:-1 tvg-name="WOW CINEMA ONE" tvg-logo="https://i.imgur.com/s690F67.png" group-title="Hindi Movies",WOW CINEMA ONE 
 http://14.199.164.20:4001/play/a0n3/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FLIMY" tvg-logo="https://en.wikipedia.org/wiki/Filmy_(Canadian_TV_channel)#/media/File:Sahara-filmi-tv-logo.svg" group-title="Hindi Movies",FLIMY
+#EXTINF:-1 tvg-id="" tvg-name="FLIMY" tvg-logo="" group-title="Hindi Movies",FLIMY
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FIRANGI" tvg-logo="" group-title="Hindi Movies",FIRANGI
 https://m-c15-j2apps.s.llnwi.net/hls/0353.Firangi.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOVIE PLUS" tvg-logo="" group-title="Hindi Movies",MOVIE PLUS
+https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in.m3u8
 #EXTINF:-1 tvg-name="ABZY COOl" group-title="Hindi Movies" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Cool.png",ABZY COOL
 http://14.199.164.20:4001/play/a0qf/index.m3u8
 #EXTINF:-1 tvg-name="ABZY DHAKAD" group-title="Hindi Movies" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png",ABZY DHAKAD
