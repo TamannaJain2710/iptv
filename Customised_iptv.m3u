@@ -224,8 +224,10 @@ http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
 http://143.244.60.10/HINDI__STAR_GOLD_2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-name="STAR GOLd-2 HD" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",STAR GOLd-2 HD
 http://sonyiptv.net:8080/12345678/12345678/199235
-#EXTINF:-1 tvg-name="STAR GOLd SELECT" group-title="Hindi Movies",STAR GOLd SELECT
+#EXTINF:-1 tvg-name="STAR GOLd SELECT" tvg-logo="https://exchange4media.gumlet.io/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",STAR GOLd SELECT
 http://tv.sharkiptv.hitv.one:80/HHokXO9dXj1655/nGwurV6381/6228
+#EXTINF:-1 tvg-name="UTSAV GOLD" group-title="Hindi Movies",UTSAV GOLD
+http://ns561850.ip-54-39-158.net:8080/3776/3776/148520
 #EXTINF:-1 tvg-name="RISHTEY CINEPLEX" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies",RISHTEY CINEPLEX
 http://indo51.gcdn.co/hindi-RISHTEY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="RISHTEY CINEPLEX" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies",RISHTEY CINEPLEX
@@ -261,7 +263,7 @@ http://eurotv.vip:80/5678/5678/13820
 #EXTINF:-1 tvg-id="" tvg-name="& XPLOR HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Xplor_HD.png" group-title="Hindi Movies",& XPLOR HD
 http://watchindia.net:8880/live/54739/54739/2204.ts
 #EXTINF:-1 tvg-name="& EXPLOR FHD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Xplor_HD.png" group-title="Hindi Movies",& EXPLOR FHD
-http://www.luckonline.eu:80/KjPypddrq4/8p1pLrAVDh/635
+http://ns561850.ip-54-39-158.net:8080/3776/3776/67552
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
 http://channels227070.clientportal.link:80/Pxkcqcw673/9k7a3V15/6236
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
@@ -536,7 +538,6 @@ http://85.203.33.88:80/pKDYtl595/maTFaD93/12845
 http://85.203.33.88:80/pKDYtl595/maTFaD93/18296
 #EXTINF:-1 tvg-name="OSN Series HD" tvg-logo="https://www2.0zz0.com/2021/07/08/21/953541722.png" group-title="English Movies",OSN Series HD
 http://ns561850.ip-54-39-158.net:8080/3776/3776/393698
-
 #EXTINF:-1, tvg-name="OSN STAR MOVIES" group-title="English Movies",OSN STAR MOVIES
 http://85.203.33.88:80/pKDYtl595/maTFaD93/12827
 #EXTINF:-1, tvg-name="OSN MOVIE +2" group-title="Hindi Movies",OSN MOVIE +2
@@ -688,9 +689,9 @@ https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MH1 MUSIC" group-title="Music",MH1 MUSIC
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-name="B4U MUSIC" aspect-ratio="16:9" group-title="Music",B4U MUSIC
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U MUSIC" tvg-logo="http://epg4you.com/logos/b4umusic.png" aspect-ratio="16:9" group-title="Music",B4U MUSIC
 http://14.199.164.20:4001/play/a0wk/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="B4U MUSIC" aspect-ratio="16:9" group-title="Music",B4U MUSIC
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U MUSIC" tvg-logo="http://epg4you.com/logos/b4umusic.png" aspect-ratio="16:9" group-title="Music",B4U MUSIC
 https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZOOM TV" group-title="Music",ZOOM TV
 http://103.153.39.34:8000/play/a06c/index.m3u8
