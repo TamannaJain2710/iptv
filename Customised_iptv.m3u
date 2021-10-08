@@ -151,14 +151,14 @@ http://indo51.gcdn.co/hindi-STARBHARATHD/tracks-v1a1/mono.m3u8
 http://89.187.182.181:9090/SM_FHD-HINDI-STARBHARAT/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR WORLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Star_World.svg/revision/latest/scale-to-width-down/300?cb=20100511072544" group-title="Entertainment",STAR WORLD HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="" tvg-name="COLORS HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9",COLORS HD
+http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
+#EXTINF:1 tvg-id="" tvg-name="COLORS HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9",COLORS HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:-1 tvg-id="" tvg-name="COLORS HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",COLORS HD
 http://103.213.238.194:8080/Colors/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="COLORS HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9",COLORS HD
-http://93.190.139.35:8278/streams/d/Colorhd/playlist.m3u8
-#EXTINF:0 tvg-id="" tvg-name="COLORS HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9",COLORS HD
 http://173.199.120.51/hls/chc.m3u8
-#EXTINF:1 tvg-id="" tvg-name="COLORS HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9",COLORS HD
-http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
 #EXTINF:1 tvg-id="" tvg-name="COLORS HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9",COLORS HD
 http://indo51.gcdn.co/hindi-COLORSHD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Zee TV USA" group-title="Entertainment" aspect-ratio="16:9",Zee TV USA
@@ -169,16 +169,16 @@ https://f8e7y4c6.ssl.hwcdn.net/canadahd/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/ztvme/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ZEE TV WORLD" group-title="Entertainment" aspect-ratio="16:9",ZEE WORLD
 https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",ZEE TV HD
+https://f8e7y4c6.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ZEE TV HD"  group-title="Entertainment" aspect-ratio="16:9",ZEE TV HD
 http://93.190.139.35:8278/streams/d/Zeetvhd/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ZEE TV HD" group-title="Entertainment" aspect-ratio="16:9",ZEE TV HD
-http://89.187.182.181:9090/SM_FHD-HINDI-ZEETV/tracks-v1a1/index.m3u8
-#EXTINF:0 tvg-id="" tvg-name="ZEE TV HD" group-title="Entertainment" aspect-ratio="16:9",ZEE TV HD
 http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8?t=4c78b6db0d2259010f1031c6db3ceac84cc857a49f915227b1549f7d3da5e87b62fe21571f09a4400b427888ad4e2742e650e166f2027cbb8375d62cc2cf608f962f9a1125
+#EXTINF:0 tvg-id="" tvg-name="ZEE TV HD" group-title="Entertainment" aspect-ratio="16:9",ZEE TV HD
+http://89.187.182.181:9090/SM_FHD-HINDI-ZEETV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",ZEE TV HD
 https://live.picasotv.xyz/zeetv/index.php?c=0-9-zeetvhd
-#EXTINF:-1 tvg-id="" tvg-name="ZEE TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="Entertainment",ZEE TV HD
-https://f8e7y4c6.ssl.hwcdn.net/ztvme/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AND TV" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",AND TV
 http://173.199.120.51/hls/andtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AND Tv HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",AND TV HD
@@ -191,9 +191,9 @@ https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 #Hindi Movies
 
 #EXTINF:0  tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies" aspect-ratio="16:9",ZEE CINEMA HD
-http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:0  tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies" aspect-ratio="16:9",ZEE CINEMA HD
 http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
+#EXTINF:0  tvg-id="" tvg-name="ZEE CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies" aspect-ratio="16:9",ZEE CINEMA HD
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA HD" group-title="Hindi Movies" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",ZEE CINEMA HD
 http://89.187.182.181:9090/SM_FHD-HINDI-ZEECINEMA/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CINEMA ME" group-title="Hindi Movies",ZEE CINEMA ME
