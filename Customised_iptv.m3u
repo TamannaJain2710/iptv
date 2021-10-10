@@ -10,7 +10,7 @@ https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABP NEWS" tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="News",ABP NEWS
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TV 9 BHARATVARSH" group-title="News",TV 9 BHARATVARSH
+#EXTINF:-1 tvg-id="TV 9 BHARAT (IN)" tvg-name="TV 9 BHARATVARSH" tvg-logo="https://1.bp.blogspot.com/-DqMHYvLWcDU/YOrHVkxBjmI/AAAAAAAAARQ/eOh7fcrIHeA7j0MvLE9MPjQ6J2r42JmCQCLcBGAsYHQ/s204/images%2B%25283%2529%25284%2529.jpeg" group-title="News",TV 9 BHARATVARSH
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS" group-title="News",ZEE NEWS 
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
@@ -76,7 +76,7 @@ https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8?
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE24" tvg-logo="" group-title="News",FRANCE24
 https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EURONEWS" tvg-logo="" group-title="News",EURO NEWS
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="EURONEWS" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg" group-title="News",EURO NEWS
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN NEW18" tvg-logo="" group-title="News",CNN NEW18
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
@@ -88,7 +88,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNA (ASIA)" tvg-logo="https://1.bp.blogspot.com/-L6JBEL4I4jE/YL8j5M9SAqI/AAAAAAAABEU/c6soWjIk-lwQXdN_cYaV4h85H2jmHoh6wCLcBGAsYHQ/w320-h109/images%2838%29.jpeg" group-title="News",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC News (720p)" tvg-logo="" group-title="News",BBC News (720p)
+#EXTINF:-1 tvg-id="BBCWorldNews.in" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="News",BBC WORLD NEWS
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC News (480p)" tvg-logo="" group-title="News",BBC News (480p)
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
@@ -237,7 +237,7 @@ http://indo51.gcdn.co/hindi-RISHTEY/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RISHTEY CINEPLEX" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies",RISHTEY CINEPLEX
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",COLORS CINEPLEX HD
-http://89.187.182.181:9090/SM_FHD-HINDI-CINEPLEX/tracks-v1a1/index.m3u8
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",COLORS CINEPLEX HD
 http://indo51.gcdn.co/hindi-COLORSCINEPLEXHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",COLORS CINEPLEX HD
@@ -284,7 +284,7 @@ http://sonyiptv.net:8080/12345678/12345678/199244
 http://sonyiptv.net:8080/12345678/12345678/81558
 #EXTINF:-1 tvg-id="" tvg-name="UTV MOVIES HD" group-title="Hindi Movies",UTV MOVIES HD
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MBC BOLLYWOOD HD" group-title="Hindi Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png",MBC BOLLYWOOD HD
+#EXTINF:-1 tvg-id="MBC BOLLYWOOD HD (ME)" tvg-name="MBC BOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Hindi Movies",MBC BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="OSN STAR Movies" group-title="Hindi Movies",OSN STAR Movies
 http://sonyiptv.net:8080/12345678/12345678/205793
@@ -387,20 +387,25 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-name="HBO HITS" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="English Movies",HBO HITS
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
+#English Movies RAKUTEN
+
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",RAKUTEN ACTION MOVIES
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES 1" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",Rakuten Action Movies 1
+https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES 2" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",Rakuten Action Movies 2
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES 3" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",Rakuten Action Movies 3
+https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",RAKUTEN ACTION MOVIES
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Comedy Movies" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="English Movies",Rakuten TV Comedy Movies
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOVIESPHEREUK (UK)" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="English Movies",MOVIESPHEREUK (UK)
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
+
 #English Movies Mix PRO
 
-#EXTINF:-1 tvg-name="RAKUTEN ACTION MOVIES" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",RAKUTEN ACTION MOVIES
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="RAKUTEN ACTION MOVIES 1" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",Rakuten Action Movies 1
-https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="RAKUTEN ACTION MOVIES 2" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",Rakuten Action Movies 2
-https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="RAKUTEN ACTION MOVIES 3" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",Rakuten Action Movies 3
-https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="RAKUTEN ACTION MOVIES" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",RAKUTEN ACTION MOVIES
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-name="Rakuten TV Comedy Movies" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="English Movies",Rakuten TV Comedy Movies
-https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="WARNER WB" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="English Movies",WARNER WB
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-name="WB TV" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="English Movies",WB TV
