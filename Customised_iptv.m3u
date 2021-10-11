@@ -191,6 +191,8 @@ http://143.244.60.10/HINDI__AND_TV_HD/tracks-v1a1/mono.m3u8?token=test
 http://173.199.120.51/hls/andtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AND TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",AND TV HD
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SHEMAROO TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiAeNnLczA1oLBfDLfdTSWreu-WeFuD2BdbbiiYPyyI_BzBpWbI2fKy0b3ZMgZeG4tNzMiDgDoXL3w3dGbRa0CqytcD17DtVXiR5KCo3pDjnb_FLEGpZVcQ80A7zZ2JiTrA7BkeOfn3lPogvPmWJ5wI6jRAE3ZTGkmLEV2WA-r_-BqrTE9rY1gLJ34E=s200" group-title="Entertainment",SHEMAROO TV
+https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 
 #Hindi Movies
 
@@ -717,6 +719,10 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 
 #Bhakti/devotional
 
+#EXTINF:-1 tvg-id="Sanskar.in" tvg-name="SANSKAR" tvg-logo="https://1.bp.blogspot.com/-w1k6705blqQ/YP_ovgM0A0I/AAAAAAAAArM/eAI0rCEIv8AozAMJ6zzczUzjc6CKbfQfwCLcBGAsYHQ/s200/images%2B%252811%2529%25281%2529.jpeg" group-title="Bhakti/devotional",SANSKAR
+https://m-c29-j2apps.s.llnwi.net/hls/0116.Sanskar.in.m3u8
+#EXTINF:-1 tvg-id="IshwarTv.in" tvg-name="ISHWAR TV" tvg-logo="https://1.bp.blogspot.com/-NOBjZCLGszM/YP_pb-k4B2I/AAAAAAAAArU/K-zF7ya8SXgzs4DOUIzbRMn1x-HD3CJbgCLcBGAsYHQ/s200/download%25283%2529.png" group-title="Bhakti/devotional",ISHWAR TV
+https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
 #EXTINF:-1 group-title="Bhakti/devotional", Sadhna
 http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
 #EXTINF:-1 tvg-name="SHIRDI LIVE" group-title="Bhakti/devotional", SHIRDI LIVE
