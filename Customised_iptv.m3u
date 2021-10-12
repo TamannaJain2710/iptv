@@ -751,11 +751,11 @@ http://14.199.164.20:4001/play/a0nn/index.m3u8
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="SHIRDI LIVE" group-title="Bhakti/devotional",SHIRDI LIVE
 https://cam.pc.cdn.bitgravity.com/cam/live/feed006/Saibaba/temple/feed/chunklist.m3u8?e=1634080551&h=3c3d711304a57113819c4e9ef8f7548b
-#EXTINF:-1 tvg-name="PARAS TV CHANNEL" group-title="Bhakti/devotional",PARAS TV CHANNEL
+#EXTINF:-1 tvg-name="PARAS TV" group-title="Bhakti/devotional",PARAS TV
 https://paras.clik2see.com/apiupload/parasInternational/hls/5/parastv/playlist.m3u8
 #EXTINF:-1 tvg-name="JINVANI CHANNEL" group-title="Bhakti/devotional",JINVANI CHANNEL
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634072895/ei/36RlYem6JZ6C4-EP1cCc-Ak/ip/2405%3A201%3A401e%3A3e2d%3A2995%3A1dbe%3Aa22a%3A3e0f/id/H1mDMTS3rTU.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKUL2AZCp8Kg_9OjIM486x2-_5vyn8We6XGvpbQHluooCIQC4dJPBNi_BfL_qeMtt5nj8MoIk3PHcHhFZ8QS3_9tIXw%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-name="AGAMVANI CHANNEL" group-title="Bhakti/devotional",AGAMVANI CHANNEL
+#EXTINF:-1 tvg-name="AGAMVANI" group-title="Bhakti/devotional",AGAMVANI
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634073189/ei/BaZlYY2eEJ-J4-EP8uuX4AU/ip/2405%3A201%3A401e%3A3e2d%3A2995%3A1dbe%3Aa22a%3A3e0f/id/feMRmia4BaQ.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANsUEEwYF_dBfIxO_ACVcyQ72kZJVpoGOUDnFwoUadp6AiEA0C1crDgRYq1TlMoVVA_FO5TPi7ghMUz1VdWySkKcPT4%3D/file/index.m3u8
 
 #Punjabi
