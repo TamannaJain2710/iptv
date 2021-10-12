@@ -123,7 +123,7 @@ http://prod2-dai2-playlistserver.aws.syncbak.com/playlist/17716049/master.m3u8?a
 #EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" group-title="News",WION
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" group-title="News",WION
-https://live.picasotv.xyz/zeetv/index.php?c=0-9-wion
+https://snehz5tv.herokuapp.com?c=0-9-wion%20
 
 #Entertainment
 
