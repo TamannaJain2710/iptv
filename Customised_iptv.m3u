@@ -748,7 +748,7 @@ http://14.199.164.20:4001/play/a0sm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SARV DHARM SANGAM" tvg-logo="" group-title="Bhakti/devotional",SARV DHARM SANGAM
 http://14.199.164.20:4001/play/a0nn/index.m3u8
 #EXTINF:-1 group-title="Bhakti/devotional", Sadhna
-http://cdn.clive.in:1935/sadhnabhakti/sadhnabhakti.stream_HDp/playlist.m3u8
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="SHIRDI LIVE" group-title="Bhakti/devotional",SHIRDI LIVE
 https://cam.pc.cdn.bitgravity.com/cam/live/feed006/Saibaba/temple/feed/chunklist.m3u8?e=1634080551&h=3c3d711304a57113819c4e9ef8f7548b
 #EXTINF:-1 tvg-name="PARAS TV CHANNEL" group-title="Bhakti/devotional",PARAS TV CHANNEL
