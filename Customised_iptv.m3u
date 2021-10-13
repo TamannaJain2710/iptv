@@ -264,11 +264,11 @@ http://indo51.gcdn.co/hindi-SONYMAX2/tracks-v1a1/mono.m3u8
 http://sonyiptv.net:8080/12345678/12345678/199315
 #EXTINF:-1 tvg-id="" tvg-name="SONY PAL" group-title="Hindi Movies",SONY PAL
 http://indo51.gcdn.co/hindi-SONYPAL/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Pictures.in" tvg-name="AND PICTURES" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi Movies",AND PICTURES
+#EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi Movies",& PICTURES
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
-#EXTINF:-1 tvg-id="Pictures.in" tvg-name="AND PICTURES HD hd"group-title="Hindi Movies",AND PICTURES HD
+#EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES HD hd"group-title="Hindi Movies",& PICTURES HD
 http://89.187.182.181:9090/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="Pictures.in" tvg-name="AND PICTURES HD hd"group-title="Hindi Movies",AND PICTURES HD
+#EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES HD hd"group-title="Hindi Movies",& PICTURES HD
 http://103.205.133.18/hls/andpicture.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="& XPLOR HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Xplor_HD.png" group-title="Hindi Movies",& XPLOR HD
 http://eurotv.vip:80/5678/5678/13820
