@@ -82,13 +82,13 @@ https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8?
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="" group-title="News",FRANCE 24
 https://m-c08-j2apps.s.llnwi.net/hls/7007.France24.in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 US" tvg-logo="" group-title="News",FRANCE 24 US
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24 (US)" tvg-logo="" group-title="News",FRANCE 24 (US)
 https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="EURONEWS" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg" group-title="News",EURO NEWS
+#EXTINF:-1 tvg-id="Euronews.nws" tvg-name="EURO NEWS" tvg-logo="https://1.bp.blogspot.com/-SqLZJRJN9lo/YNxh3BsVX_I/AAAAAAAAAGU/3Qa87UBUhxkOs539qSmN3mX0f5zxwLB6wCLcBGAsYHQ/s320/images%2B%25282%2529%25282%2529.jpeg" group-title="News",EURO NEWS
 https://m-c08-j2apps.s.llnwi.net/hls/7006.EuroNews.in.m3u8
 #EXTINF:-1 tvg-id="CNN-IBN.in" tvg-name="CNN-NEWS18" tvg-logo="" group-title="News",CNN-NEWS18
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%287%29.png" group-title="News",CNN International
+#EXTINF:-1 tvg-id="" tvg-name="CNN (International)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%287%29.png" group-title="News",CNN (International)
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNN (720p)" tvg-logo="https://1.bp.blogspot.com/-fZ9xehFwWo8/YNsC_pY5yeI/AAAAAAAAAEo/6XQ9avu0wzcStcSwoLY84iTptsNkuQ0cQCLcBGAsYHQ/s320/images%287%29.png" group-title="News",CNN (720P)
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -98,7 +98,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.in" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="News",BBC WORLD NEWS
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BBC News" tvg-logo="" group-title="News",BBC News
+#EXTINF:-1 tvg-id="" tvg-name="BBC WORLD NEWS" tvg-logo="" group-title="News",BBC WORLD NEWS
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BBC World News (576p)" tvg-logo="" group-title="News",BBC World News (576p)
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
@@ -585,24 +585,26 @@ http://s1.urhdiptv.net:8080/mma2/45212156/80219
 
 #English Movies Netflix
 
-#EXTINF:-1, tvg-name="Netflix Action" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="English Movies",Netflix Action
+#EXTINF:-1, tvg-id="" tvg-name="Netflix Action" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="English Movies",Netflix Action
 http://85.203.33.88:80/pKDYtl595/maTFaD93/88959
-#EXTINF:-1, tvg-name="Netflix Horror" group-title="English Movies",Netflix Horror
+#EXTINF:-1, tvg-id="" tvg-name="Netflix Horror" group-title="English Movies",Netflix Horror
 http://85.203.33.88:80/pKDYtl595/maTFaD93/88957
-#EXTINF:-1, tvg-name="Netflix Comedy" group-title="English Movies",Netflix Comedy
+#EXTINF:-1, tvg-id="" tvg-name="Netflix Comedy" group-title="English Movies",Netflix Comedy
 http://85.203.33.88:80/pKDYtl595/maTFaD93/88955
-#EXTINF:-1, tvg-name="Netflix Drama" group-title="English Movies",Netflix Drama
+#EXTINF:-1, tvg-id="" tvg-name="Netflix Drama" group-title="English Movies",Netflix Drama
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/35636
-#EXTINF:-1, tvg-name="NETFLIX ENGLISH 1" group-title="English Movies",NETFLIX ENGLISH 1
+#EXTINF:-1, tvg-id="" tvg-name="NETFLIX ENGLISH 1" group-title="English Movies",NETFLIX ENGLISH 1
 http://85.203.33.88:80/pKDYtl595/maTFaD93/88958
-#EXTINF:-1, tvg-name="NETFLIX ENGLISH 2" group-title="English Movies",NETFLIX ENGLISH 2
+#EXTINF:-1, tvg-id="" tvg-name="NETFLIX ENGLISH 2" group-title="English Movies",NETFLIX ENGLISH 2
 http://sonyiptv.net:8080/12345678/12345678/205909
-#EXTINF:-1, tvg-name="NETFLIX ENGLISH 3" group-title="English Movies",NETFLIX ENGLISH 3
+#EXTINF:-1, tvg-id="" tvg-name="NETFLIX ENGLISH 3" group-title="English Movies",NETFLIX ENGLISH 3
 http://sonyiptv.net:8080/12345678/12345678/205910
-#EXTINF:-1, tvg-name="NETFLIX ENGLISH 4" group-title="English Movies",NETFLIX ENGLISH 4
+#EXTINF:-1, tvg-id="" tvg-name="NETFLIX ENGLISH 4" group-title="English Movies",NETFLIX ENGLISH 4
 http://85.203.33.88:80/pKDYtl595/maTFaD93/88956
-#EXTINF:-1, tvg-name="NETFLIX INDIAN 1" group-title="Hindi Movies",NETFLIX INDIAN 1
-http://sonyiptv.net:8080/12345678/12345678/205922
+#EXTINF:-1, tvg-id="" tvg-name="NETFLIX MOVIES HD" group-title="Hindi Movies",NETFLIX MOVIES HD
+http://s1.urhdiptv.net:8080/mma2/45212156/91694?checkedby:iptvcat.com
+#EXTINF:-1, tvg-id="" tvg-name="NETFLIX INDIAN 1" group-title="Hindi Movies",NETFLIX INDIAN 1
+http://s1.urhdiptv.net:8080/mma2/45212156/91691
 
 #English Movies ON
 
