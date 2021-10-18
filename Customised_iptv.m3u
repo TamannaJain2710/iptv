@@ -565,38 +565,23 @@ http://s1.urhdiptv.net:8080/mma2/45212156/80268
 
 #English Movies OSN
 
-#EXTINF:-1, tvg-name="OSN Fox Movies Action" group-title="English Movies",OSN Fox Movies Action
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1155
-#EXTINF:-1, tvg-name="OSN Movies HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNMOVIES.png" group-title="English Movies",OSN Movies HD
-http://85.203.33.88:80/pKDYtl595/maTFaD93/5721
-#EXTINF:-1,tvg-name="OSN Movies First HD" group-title="English Movies",OSN Movies First HD
-http://sonyiptv.net:8080/12345678/12345678/205780
-#EXTINF:-1, tvg-name="OSN POP UP HD" group-title="English Movies",OSN POP UP HD
-http://sonyiptv.net:8080/12345678/12345678/205806
-#EXTINF:-1, tvg-name="OSN Movie Drama" group-title="English Movies",OSN Movie Drama
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1323
-#EXTINF:-1, tvg-name="OSN Star World HD" group-title="English Movies",OSN Star World HD
-http://85.203.33.88:80/pKDYtl595/maTFaD93/12843
-#EXTINF:-1 tvg-name="OSN Action HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNACTION.png" group-title="English Movies",OSN Action HD
-http://85.203.33.88:80/pKDYtl595/maTFaD93/5722
-#EXTINF:-1, tvg-name="OSN BOX OFFICE 1" group-title="English Movies",OSN BOX OFFICE 1
-http://85.203.33.88:80/pKDYtl595/maTFaD93/12837
-#EXTINF:-1, tvg-name="OSN BOX OFFICE 2" group-title="English Movies",OSN BOX OFFICE 2
-http://85.203.33.88:80/pKDYtl595/maTFaD93/12836
-#EXTINF:-1, tvg-name="OSN BOX OFFICE 3" group-title="English Movies",OSN BOX OFFICE 3
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1322
-#EXTINF:-1, tvg-name="OSN ON DEMAND" group-title="English Movies",OSN ON DEMAND
-http://85.203.33.88:80/pKDYtl595/maTFaD93/16462
-#EXTINF:-1, tvg-name="OSN ON DEMAND" group-title="English Movies",OSN ON DEMAND
+#EXTINF:-1 tvg-id="OSNMoviesAction.net" tvg-name="OSN Action HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNACTION.png" group-title="English Movies",OSN Action HD
+http://s1.urhdiptv.net:8080/mma2/45212156/80229
+#EXTINF:-1, tvg-id="OSNMoviesComedy.net" tvg-name="OSN COMEDY CENTRAL" group-title="English Movies",OSN COMEDY CENTRAL
 http://85.203.33.88:80/pKDYtl595/maTFaD93/12845
-#EXTINF:-1 tvg-name="OSN Series HD" tvg-logo="https://www2.0zz0.com/2021/07/08/21/953541722.png" group-title="English Movies",OSN Series HD
-http://85.203.33.88:80/pKDYtl595/maTFaD93/18296
-#EXTINF:-1 tvg-name="OSN Series HD" tvg-logo="https://www2.0zz0.com/2021/07/08/21/953541722.png" group-title="English Movies",OSN Series HD
-http://ns561850.ip-54-39-158.net:8080/3776/3776/393698
-#EXTINF:-1, tvg-name="OSN STAR MOVIES" group-title="English Movies",OSN STAR MOVIES
-http://85.203.33.88:80/pKDYtl595/maTFaD93/12827
-#EXTINF:-1, tvg-name="OSN MOVIE +2" group-title="English Movies",OSN MOVIE +2
-http://85.203.33.88:80/pKDYtl595/maTFaD93/19043
+#EXTINF:-1, tvg-id="OSNMoviesCrime.net" tvg-name="OSN CRIME HD" group-title="English Movies",OSN CRIME HD
+http://s1.urhdiptv.net:8080/mma2/45212156/80217
+#EXTINF:-1, tvg-id="OSNFirst.net" tvg-name="OSN Movies First HD" group-title="English Movies",OSN Movies First HD
+http://s1.urhdiptv.net:8080/mma2/45212156/80227
+#EXTINF:-1, tvg-id="OSNMovies.net" tvg-name="OSN MOVIES HD" group-title="English Movies",OSN MOVIES HD
+http://s1.urhdiptv.net:8080/mma2/45212156/80228?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="OSN SERIES FIRST HD" tvg-logo="https://www2.0zz0.com/2021/07/08/21/953541722.png" group-title="English Movies",OSN SERIES FIRST HD
+http://s1.urhdiptv.net:8080/mma2/45212156/80222
+#EXTINF:-1, tvg-id="" tvg-name="OSN STAR MOVIES" group-title="English Movies",OSN STAR MOVIES
+http://s1.urhdiptv.net:8080/mma2/45212156/80220
+#EXTINF:-1, tvg-id="" tvg-name="OSN Star World HD" group-title="English Movies",OSN Star World HD
+http://s1.urhdiptv.net:8080/mma2/45212156/80219
+
 
 #English Movies Netflix
 
