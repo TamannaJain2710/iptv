@@ -479,84 +479,88 @@ https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
 
 #English Movies Fox
 
-#EXTINF:-1 tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="English Movies",FOX
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="English Movies",FOX
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2120
-#EXTINF:-1 tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="English Movies",FOX MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="English Movies",FOX MOVIES
 http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="English Movies",FOX MOVIES
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fox_Movies_%28Asia%29_logo.svg/1200px-Fox_Movies_%28Asia%29_logo.svg.png" group-title="English Movies",FOX MOVIES
 http://93.157.62.180:80/FoxMovies/index.m3u8
-#EXTINF:-1 tvg-name="FOX MOVIES ACTION" group-title="English Movies",FOX MOVIES ACTION
+#EXTINF:-1 tvg-id="" tvg-name="FOX MOVIES ACTION" group-title="English Movies",FOX MOVIES ACTION
 https://nonton.site:8443/rachman/rachman123/1478
-#EXTINF:-1 tvg-name="FOXCRIME" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/fox_crime_asia_hd.gif" group-title="English Movies",FOXCRIME
+#EXTINF:-1 tvg-id="" tvg-name="FOXCRIME" tvg-logo="https://i0.wp.com/unifistreamyx.info/wp-content/uploads/2015/07/fox_crime_asia_hd.gif" group-title="English Movies",FOXCRIME
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/21701
-#EXTINF:-1 tvg-name="HALLMARK" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" group-title="English Movies",HALLMARK 
+#EXTINF:-1 tvg-id="" tvg-name="HALLMARK" tvg-logo="https://www.rushlimbaugh.com/wp-content/uploads/2017/12/650-121517-Hallmark-G.jpg" group-title="English Movies",HALLMARK 
 http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Hallmark Movies & More" tvg-logo="https://i.imgur.com/JMn9sxk.png" group-title="English Movies",Hallmark Movies & More
+#EXTINF:-1 tvg-id="" tvg-name="Hallmark Movies & More" tvg-logo="https://i.imgur.com/JMn9sxk.png" group-title="English Movies",Hallmark Movies & More
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
 
 #English Movies Pluto
 
-#EXTINF:-1 tvg-name="Pluto TV Action (684p)" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="English Movies",Pluto TV Action (684p)
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Action (684p)" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="English Movies",Pluto TV Action (684p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=561d7d484dc7c8770484914a&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=54&terminate=false&userId=
-#EXTINF:-1 tvg-name="Pluto TV Action (720p)" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="English Movies",Pluto TV Action (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Action (720p)" tvg-logo="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/colorLogoPNG.png" group-title="English Movies",Pluto TV Action (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbfeb961b411c00090b52b3/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="English Movies",Pluto TV Action
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Action" tvg-logo="https://i.imgur.com/g8PCdh6.png" group-title="English Movies",Pluto TV Action
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=54&deviceId=561d7d484dc7c8770484914a&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Comedy" tvg-logo="https://i.imgur.com/Pjs4lgs.png" group-title="English Movies",Pluto TV Comedy
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Comedy" tvg-logo="https://i.imgur.com/Pjs4lgs.png" group-title="English Movies",Pluto TV Comedy
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=57&deviceId=5a4d3a00ad95e4718ae8d8db&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/B9srooj.png" group-title="English Movies",Pluto TV Drama
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Drama" tvg-logo="https://i.imgur.com/B9srooj.png" group-title="English Movies",Pluto TV Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=60&deviceId=5b4e92e4694c027be6ecece1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Fantastic" tvg-logo="https://i.imgur.com/dOfXc5w.png" group-title="English Movies",Pluto TV Fantastic
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Fantastic" tvg-logo="https://i.imgur.com/dOfXc5w.png" group-title="English Movies",Pluto TV Fantastic
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b64a245a202b3337f09e51d/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=66&deviceId=5b64a245a202b3337f09e51d&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/j6livg0.png" group-title="English Movies",Pluto TV Romance
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Romance" tvg-logo="https://i.imgur.com/j6livg0.png" group-title="English Movies",Pluto TV Romance
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=70&deviceId=5a66795ef91fef2c7031c599&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Crime Movies" tvg-logo="https://i.imgur.com/PlAQrIb.png" group-title="English Movies",Pluto TV Crime Movies
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Crime Movies" tvg-logo="https://i.imgur.com/PlAQrIb.png" group-title="English Movies",Pluto TV Crime Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d8594eb979c0007706de7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=73&deviceId=5f4d8594eb979c0007706de7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/jyiFzG4.png" group-title="English Movies",Pluto TV Thrillers
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Thrillers" tvg-logo="https://i.imgur.com/jyiFzG4.png" group-title="English Movies",Pluto TV Thrillers
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=74&deviceId=5b4e69e08291147bd04a9fd7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Horror" tvg-logo="https://i.imgur.com/An93hAh.png" group-title="English Movies",Pluto TV Horror
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Horror" tvg-logo="https://i.imgur.com/An93hAh.png" group-title="English Movies",Pluto TV Horror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=75&deviceId=569546031a619b8f07ce6e25&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/JLgn5jC.png" group-title="English Movies",Pluto TV Terror
+#EXTINF:-1 tvg-id="" tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/JLgn5jC.png" group-title="English Movies",Pluto TV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #English Movies MIX
 
-#EXTINF:-1, tvg-name="Mix Cinema" group-title="English Movies",Mix Cinema
+#EXTINF:-1, tvg-id="" tvg-name="Mix Cinema" group-title="English Movies",Mix Cinema
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1293
-#EXTINF:-1, tvg-name="Mix Action" group-title="English Movies",Mix Action
+#EXTINF:-1, tvg-id="" tvg-name="Mix Action" group-title="English Movies",Mix Action
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1294
-#EXTINF:-1, tvg-name="Mix Mystery" group-title="English Movies",Mix Mystery
+#EXTINF:-1, tvg-id="" tvg-name="Mix Mystery" group-title="English Movies",Mix Mystery
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1295
-#EXTINF:-1, tvg-name="Mix Horror" group-title="English Movies",Mix Horror
+#EXTINF:-1, tvg-id="" tvg-name="Mix Horror" group-title="English Movies",Mix Horror
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1296
-#EXTINF:-1, tvg-name="Mix Crime" group-title="English Movies",Mix Crime
+#EXTINF:-1, tvg-id="" tvg-name="Mix Crime" group-title="English Movies",Mix Crime
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1297
-#EXTINF:-1, tvg-name="Vision Action HD" group-title="English Movies",Vision Action HD
+#EXTINF:-1, tvg-id="" tvg-name="Vision Action HD" group-title="English Movies",Vision Action HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1298
-#EXTINF:-1, tvg-name="ART Action HD" group-title="English Movies",ART Action HD
+#EXTINF:-1, tvg-id="" tvg-name="ART Action HD" group-title="English Movies",ART Action HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1342
-#EXTINF:-1, tvg-name="OMG" group-title="English Movies",OMG
+#EXTINF:-1, tvg-id="" tvg-name="OMG" group-title="English Movies",OMG
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1300
-#EXTINF:-1, tvg-name="Xtra Movies Action" group-title="English Movies",Xtra Movies Action
+#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Action" group-title="English Movies",Xtra Movies Action
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1217
-#EXTINF:-1, tvg-name="Xtra Movies Adventure" group-title="English Movies",Xtra Movies Adventure
+#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Adventure" group-title="English Movies",Xtra Movies Adventure
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1326
-#EXTINF:-1, tvg-name="Xtra Movies Crime" group-title="English Movies",Xtra Movies Crime
+#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Crime" group-title="English Movies",Xtra Movies Crime
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1339
 
 #English Movies MBC
 
-#EXTINF:-1 tvg-name="MBC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8
-#EXTINF: -1 tvg-name="MBC MAX HD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies",MBC MAX HD
-http://85.203.33.88:80/pKDYtl595/maTFaD93/12883
-#EXTINF: -1 tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movies",MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF: -1 tvg-name="MBC 2 (720p)" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="English Movies",MBC 2 (720p)
-http://85.203.33.88:80/pKDYtl595/maTFaD93/12881
-#EXTINF:-1, tvg-name="MBC + VARIETY" group-title="English Movies",MBC + VARIETY
-http://85.203.33.88:80/pKDYtl595/maTFaD93/19027
+#EXTINF:-1 tvg-id="MBCAction.net" tvg-name="MBC ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION HD
+http://s1.urhdiptv.net:8080/mma2/45212156/80270
+#EXTINF:-1 tvg-id="MBCAction.net" tvg-name="MBC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION
+http://s1.urhdiptv.net:8080/mma2/45212156/80255
+#EXTINF: -1 tvg-id="MBC2.net" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movies",MBC 2 HD
+http://s1.urhdiptv.net:8080/mma2/45212156/80274
+#EXTINF: -1 tvg-id="MBC2.net" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="English Movies",MBC 2
+http://s1.urhdiptv.net:8080/mma2/45212156/80261
+#EXTINF: -1 tvg-id="MBCMax.net" tvg-name="MBC MAX HD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies",MBC MAX HD
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/8226
+#EXTINF: -1 tvg-id="MBCMax.net" tvg-name="MBC MAX" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies",MBC MAX
+http://s1.urhdiptv.net:8080/mma2/45212156/80257
+#EXTINF:-1, tvg-id="" tvg-name="MBC + VARIETY" group-title="English Movies",MBC + VARIETY
+http://s1.urhdiptv.net:8080/mma2/45212156/80268
 
 
 #English Movies OSN
