@@ -425,23 +425,6 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="https://static.epg.best/id/HBOHits.id.png" group-title="English Movies",HBO HITS
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
-#English Movies RAKUTEN
-
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",RAKUTEN ACTION MOVIES
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES 1" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",Rakuten Action Movies 1
-https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES 2" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",Rakuten Action Movies 2
-https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES 3" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",Rakuten Action Movies 3
-https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",RAKUTEN ACTION MOVIES
-https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Comedy Movies" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="English Movies",Rakuten TV Comedy Movies
-https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MOVIESPHEREUK (UK)" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="English Movies",MOVIESPHEREUK (UK)
-https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
-
 #English Movies Mix PRO
 
 #EXTINF:-1 tvg-id="" tvg-name="WARNER WB" tvg-logo="https://mpng.pngfly.com/20180625/hy/kisspng-warner-bros-logo-wordmark-film-warner-bros-5b316a4a7db3b1.3841405515299651305149.jpg" group-title="English Movies",WARNER WB
@@ -476,6 +459,8 @@ https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
 https://dai.google.com/linear/hls/event/TSIJo6RCRZWuCD9WrKtRFg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MyTime movie network" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png" group-title="English Movies",MyTime movie network
 https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MOVIESPHEREUK (UK)" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="English Movies",MOVIESPHEREUK (UK)
+https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
 
 #English Movies Fox
 
@@ -520,31 +505,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/569546031a619b8f07c
 #EXTINF:-1 tvg-id="" tvg-name="Pluto TV Terror" tvg-logo="https://i.imgur.com/JLgn5jC.png" group-title="English Movies",Pluto TV Terror
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e0f06e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=76&deviceId=5c6dc88fcd232425a6e0f06e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#English Movies MIX
-
-#EXTINF:-1, tvg-id="" tvg-name="Mix Cinema" group-title="English Movies",Mix Cinema
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1293
-#EXTINF:-1, tvg-id="" tvg-name="Mix Action" group-title="English Movies",Mix Action
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1294
-#EXTINF:-1, tvg-id="" tvg-name="Mix Mystery" group-title="English Movies",Mix Mystery
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1295
-#EXTINF:-1, tvg-id="" tvg-name="Mix Horror" group-title="English Movies",Mix Horror
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1296
-#EXTINF:-1, tvg-id="" tvg-name="Mix Crime" group-title="English Movies",Mix Crime
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1297
-#EXTINF:-1, tvg-id="" tvg-name="Vision Action HD" group-title="English Movies",Vision Action HD
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1298
-#EXTINF:-1, tvg-id="" tvg-name="ART Action HD" group-title="English Movies",ART Action HD
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1342
-#EXTINF:-1, tvg-id="" tvg-name="OMG" group-title="English Movies",OMG
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1300
-#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Action" group-title="English Movies",Xtra Movies Action
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1217
-#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Adventure" group-title="English Movies",Xtra Movies Adventure
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1326
-#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Crime" group-title="English Movies",Xtra Movies Crime
-http://178.18.245.114:8080/XR_XtraTv136479/974631/1339
-
 #English Movies MBC
 
 #EXTINF:-1 tvg-id="MBCAction.net" tvg-name="MBC ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION HD
@@ -562,26 +522,24 @@ http://s1.urhdiptv.net:8080/mma2/45212156/80257
 #EXTINF:-1, tvg-id="" tvg-name="MBC + VARIETY" group-title="English Movies",MBC + VARIETY
 http://s1.urhdiptv.net:8080/mma2/45212156/80268
 
-
 #English Movies OSN
 
 #EXTINF:-1 tvg-id="OSNMoviesAction.net" tvg-name="OSN Action HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNACTION.png" group-title="English Movies",OSN Action HD
 http://s1.urhdiptv.net:8080/mma2/45212156/80229
 #EXTINF:-1, tvg-id="OSNMoviesComedy.net" tvg-name="OSN COMEDY CENTRAL" group-title="English Movies",OSN COMEDY CENTRAL
 http://85.203.33.88:80/pKDYtl595/maTFaD93/12845
-#EXTINF:-1, tvg-id="OSNMoviesCrime.net" tvg-name="OSN CRIME HD" group-title="English Movies",OSN CRIME HD
-http://s1.urhdiptv.net:8080/mma2/45212156/80217
 #EXTINF:-1, tvg-id="OSNFirst.net" tvg-name="OSN Movies First HD" group-title="English Movies",OSN Movies First HD
 http://s1.urhdiptv.net:8080/mma2/45212156/80227
 #EXTINF:-1, tvg-id="OSNMovies.net" tvg-name="OSN MOVIES HD" group-title="English Movies",OSN MOVIES HD
 http://s1.urhdiptv.net:8080/mma2/45212156/80228?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="OSN SERIES FIRST HD" tvg-logo="https://www2.0zz0.com/2021/07/08/21/953541722.png" group-title="English Movies",OSN SERIES FIRST HD
 http://s1.urhdiptv.net:8080/mma2/45212156/80222
+#EXTINF:-1 tvg-id="" tvg-name="OSN SERIES FIRST HD" tvg-logo="https://www2.0zz0.com/2021/07/08/21/953541722.png" group-title="English Movies",OSN SERIES FIRST HD
+http://s1.urhdiptv.net:8080/mma2/45212156/80226
 #EXTINF:-1, tvg-id="" tvg-name="OSN STAR MOVIES" group-title="English Movies",OSN STAR MOVIES
 http://s1.urhdiptv.net:8080/mma2/45212156/80220
 #EXTINF:-1, tvg-id="" tvg-name="OSN Star World HD" group-title="English Movies",OSN Star World HD
 http://s1.urhdiptv.net:8080/mma2/45212156/80219
-
 
 #English Movies Netflix
 
@@ -635,6 +593,65 @@ http://s1.urhdiptv.net:8080/mma2/45212156/36461
 http://s1.urhdiptv.net:8080/mma2/45212156/91691
 #EXTINF:-1, tvg-id="" tvg-name="CRYSTAL PLANET NETFLIX" group-title="Infotainment",CRYSTAL PLANET NETFLIX
 http://ip771.tk:80/E6IMMZ65S7/WAFRRSKZGZ/80404
+
+#English Movies SHAHID
+
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID ACTION" group-title="English Movies",SHAHID ACTION
+http://s1.urhdiptv.net:8080/mma2/45212156/79876
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID AFLAM 1" group-title="English Movies",SHAHID AFLAM 1
+http://s1.urhdiptv.net:8080/mma2/45212156/79875
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID AFLAM 2" group-title="English Movies",SHAHID AFLAM 2
+http://s1.urhdiptv.net:8080/mma2/45212156/79874
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID COMEDY" group-title="English Movies",SHAHID COMEDY
+http://s1.urhdiptv.net:8080/mma2/45212156/79871
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID DRAMA" group-title="English Movies",SHAHID DRAMA
+http://s1.urhdiptv.net:8080/mma2/45212156/79870
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID FAMILY" group-title="English Movies",SHAHID FAMILY
+http://s1.urhdiptv.net:8080/mma2/45212156/79868
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID HORROR" group-title="English Movies",SHAHID HORROR
+http://s1.urhdiptv.net:8080/mma2/45212156/79867
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID ROMANCE" group-title="English Movies",SHAHID ROMANCE
+http://s1.urhdiptv.net:8080/mma2/45212156/79866
+
+#English Movies MIX
+
+#EXTINF:-1, tvg-id="" tvg-name="Mix Cinema" group-title="English Movies",Mix Cinema
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1293
+#EXTINF:-1, tvg-id="" tvg-name="Mix Action" group-title="English Movies",Mix Action
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1294
+#EXTINF:-1, tvg-id="" tvg-name="Mix Mystery" group-title="English Movies",Mix Mystery
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1295
+#EXTINF:-1, tvg-id="" tvg-name="Mix Horror" group-title="English Movies",Mix Horror
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1296
+#EXTINF:-1, tvg-id="" tvg-name="Mix Crime" group-title="English Movies",Mix Crime
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1297
+#EXTINF:-1, tvg-id="" tvg-name="Vision Action HD" group-title="English Movies",Vision Action HD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1298
+#EXTINF:-1, tvg-id="" tvg-name="ART Action HD" group-title="English Movies",ART Action HD
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1342
+#EXTINF:-1, tvg-id="" tvg-name="OMG" group-title="English Movies",OMG
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1300
+#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Action" group-title="English Movies",Xtra Movies Action
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1217
+#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Adventure" group-title="English Movies",Xtra Movies Adventure
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1326
+#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Crime" group-title="English Movies",Xtra Movies Crime
+http://178.18.245.114:8080/XR_XtraTv136479/974631/1339
+
+#English Movies RAKUTEN
+
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",RAKUTEN ACTION MOVIES
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES 1" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",Rakuten Action Movies 1
+https://rakuten-actionmovies-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES 2" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",Rakuten Action Movies 2
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES 3" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",Rakuten Action Movies 3
+https://rakuten-actionmovies-3-eu.rakuten.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN ACTION MOVIES" tvg-logo="https://i.imgur.com/uMcwx2p.jpg" group-title="English Movies",RAKUTEN ACTION MOVIES
+https://rakuten-actionmovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rakuten TV Comedy Movies" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="English Movies",Rakuten TV Comedy Movies
+https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #English Movies ON
 
