@@ -585,8 +585,12 @@ http://s1.urhdiptv.net:8080/mma2/45212156/80219
 
 #English Movies Netflix
 
+#EXTINF:-1, tvg-id="" tvg-name="Netflix Action HD" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="English Movies",Netflix Action HD
+https://list.iptvcat.com/my_list/s/f0bbf63df493924d82ad7a6a2b8eccfe.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="Netflix Action" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="English Movies",Netflix Action
-http://85.203.33.88:80/pKDYtl595/maTFaD93/88959
+https://list.iptvcat.com/my_list/s/75c6cd3e6305e8af3e018be3ed4b757d.m3u8
+#EXTINF:-1, tvg-id="" tvg-name="NETFLIX MOVIES HD" group-title="Hindi Movies",NETFLIX MOVIES HD
+http://s1.urhdiptv.net:8080/mma2/45212156/91694
 #EXTINF:-1, tvg-id="" tvg-name="Netflix Horror" group-title="English Movies",Netflix Horror
 http://85.203.33.88:80/pKDYtl595/maTFaD93/88957
 #EXTINF:-1, tvg-id="" tvg-name="Netflix Comedy" group-title="English Movies",Netflix Comedy
@@ -601,8 +605,6 @@ http://sonyiptv.net:8080/12345678/12345678/205909
 http://sonyiptv.net:8080/12345678/12345678/205910
 #EXTINF:-1, tvg-id="" tvg-name="NETFLIX ENGLISH 4" group-title="English Movies",NETFLIX ENGLISH 4
 http://85.203.33.88:80/pKDYtl595/maTFaD93/88956
-#EXTINF:-1, tvg-id="" tvg-name="NETFLIX MOVIES HD" group-title="Hindi Movies",NETFLIX MOVIES HD
-http://s1.urhdiptv.net:8080/mma2/45212156/91694?checkedby:iptvcat.com
 #EXTINF:-1, tvg-id="" tvg-name="NETFLIX INDIAN 1" group-title="Hindi Movies",NETFLIX INDIAN 1
 http://s1.urhdiptv.net:8080/mma2/45212156/91691
 
