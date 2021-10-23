@@ -24,8 +24,8 @@ https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 18 INDIA" tvg-logo="https://1.bp.blogspot.com/-3Uciudd_7c4/YOrMDu0b_FI/AAAAAAAAAS0/iCm5y2aHGaU7rvEsvK333J9fTQ2FvxkXQCLcBGAsYHQ/s200/images%2B%252811%2529.jpeg" group-title="News",NEWS 18 INDIA
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NEWS 24" tvg-logo="" group-title="News",NEWS 24
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="" tvg-name="NEWS 24" tvg-logo="https://media.news24online.com/static_dev/static_root/images/logo.jpg" group-title="News",NEWS 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TEZ" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/tez_news.jpg" group-title="News",TEZ
 https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_4/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News",NEWS NATION
