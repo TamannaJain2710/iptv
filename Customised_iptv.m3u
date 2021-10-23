@@ -12,7 +12,7 @@ http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.sm
 https://m-c02-j2apps.s.llnwi.net/hls/7014.ABPNews.in.m3u8
 #EXTINF:-1 tvg-id="TV9BHARAT.IN" tvg-name="TV 9 BHARATVARSH" tvg-logo="https://1.bp.blogspot.com/-DqMHYvLWcDU/YOrHVkxBjmI/AAAAAAAAARQ/eOh7fcrIHeA7j0MvLE9MPjQ6J2r42JmCQCLcBGAsYHQ/s204/images%2B%25283%2529%25284%2529.jpeg" group-title="News",TV 9 BHARATVARSH
 https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live1/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS" tvg-logo="" group-title="News",ZEE NEWS
+#EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS" tvg-logo="https://1.bp.blogspot.com/-WU5YfY3WEZo/YMdDmOYuJoI/AAAAAAAABL4/s3WLrJ8Um7MsZUIYzn5DM63pB5Yh2YmggCLcBGAsYHQ/s320/images%252822%2529.jpeg" group-title="News",ZEE NEWS
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REPUBLIC BHARAT" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",REPUBLIC BHARAT
 https://snehz5tv.herokuapp.com?c=0-9-162
@@ -45,8 +45,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD RAJYA SABHA" tvg-logo="https://rstv.nic.in/wp-content/uploads/2016/12/rstv-logo.jpg" group-title="News",DD RAJYA SABHA
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD LOK SABHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="News",DD LOK SABHA
-https://nicls1-lh.akamaihd.net/i/lst_1@26969/index_1_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="SAHARA SAMAY" group-title="News",SAHARA SAMAY
+https://m-c16-j2apps.s.llnwi.net/hls/0275.LoksabhaTV.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAHARA SAMAY" tvg-logo="https://j2apps.s.llnwi.net/pic/0184.Samay.in/en/1x1/208x208/test_pic1556288457224.jpg"group-title="News",SAHARA SAMAY
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SUDARSHAN NEWS" tvg-logo="https://1.bp.blogspot.com/-7Cr-WpFKZnU/YOrHE-ER4cI/AAAAAAAAARE/0INNILkwzVowli8W4AfxveqfPoiKCxRqwCLcBGAsYHQ/s200/images%2B%25282%2529%25281%2529.jpeg" group-title="News",SUDARSHAN NEWS
 https://rtmp.smartstream.video/sudarshannews/sudarshannews/chunklist_w1867454157.m3u8
@@ -59,7 +59,7 @@ https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&r
 https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
 https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TIMES NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News" ,TIMES NOW
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8?checkedby:iptvcat.com
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",MIRROR NOW
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",MIRROR NOW
