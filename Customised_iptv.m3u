@@ -16,7 +16,7 @@ https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REPUBLIC BHARAT" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",REPUBLIC BHARAT
 https://snehz5tv.herokuapp.com?c=0-9-162
-#EXTINF:-1 tvg-id="" tvg-name="REPUBLIC" tvg-logo="https://en.wikipedia.org/wiki/Republic_TV#/media/File:Republic_TV.jpg" group-title="News",REPUBLIC
+#EXTINF:-1 tvg-id="" tvg-name="REPUBLIC" tvg-logo="https://bharat.republicworld.com/assets/images/favicons/ms-icon-144x144.png" group-title="News",REPUBLIC
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87254
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhhVdd9KCZkn39j5bd_cfAPPOFxAxSq2939Sb8HTw=s900-c-k-c0x00ffffff-no-rj" group-title="News",INDIA TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
