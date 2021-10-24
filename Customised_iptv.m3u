@@ -15,6 +15,8 @@ https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live
 #EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS" tvg-logo="https://1.bp.blogspot.com/-WU5YfY3WEZo/YMdDmOYuJoI/AAAAAAAABL4/s3WLrJ8Um7MsZUIYzn5DM63pB5Yh2YmggCLcBGAsYHQ/s320/images%252822%2529.jpeg" group-title="News",ZEE NEWS
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REPUBLIC BHARAT" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",REPUBLIC BHARAT
+https://m-c05-j2apps.s.llnwi.net/hls/7060.BharatSamachar.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REPUBLIC BHARAT" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",REPUBLIC BHARAT
 https://sneh-zee5tv-production.up.railway.app/?c=0-9-162
 #EXTINF:-1 tvg-id="" tvg-name="REPUBLIC" tvg-logo="https://bharat.republicworld.com/assets/images/favicons/ms-icon-144x144.png" group-title="News",REPUBLIC
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87254
@@ -306,7 +308,8 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/49379
 #EXTINF:-1 tvg-id="SonyMAX.in" tvg-name="SONY MAX Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",SONY MAX Hd
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87260
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="SONY MAX 2" https://1.bp.blogspot.com/-Fzjw1hyvdDk/YP_2qIDD4pI/AAAAAAAAAsw/kwg4p6INXm8v-rI7sCVgvGL3GECNX4zIwCLcBGAsYHQ/s200/images.jpeg" group-title="Hindi Movies",SONY MAX 2
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/52573
+http://eurotv.vip:80/55/55/13830
+http://eurotv.vip:80/55/55/13831
 #EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi Movies",SONY WAH
 http://sonyiptv.net:8080/12345678/12345678/199315
 #EXTINF:-1 tvg-id="" tvg-name="SONY PAL" group-title="Hindi Movies",SONY PAL
