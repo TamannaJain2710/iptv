@@ -853,13 +853,13 @@ http://14.199.164.20:4001/play/a0sm/index.m3u8
 http://14.199.164.20:4001/play/a0nn/index.m3u8
 #EXTINF:-1 group-title="Bhakti/devotional", Sadhna
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-name="SHIRDI LIVE" group-title="Bhakti/devotional",SHIRDI LIVE
+#EXTINF:-1 tvg-id="" tvg-name="SHIRDI LIVE" group-title="Bhakti/devotional",SHIRDI LIVE
 https://cam.pc.cdn.bitgravity.com/cam/live/feed006/Saibaba/temple/feed/chunklist.m3u8?e=1635111409&h=1f77ad180f09676edd2abf5ad56f2935
-#EXTINF:-1 tvg-name="PARAS TV" group-title="Bhakti/devotional",PARAS TV
+#EXTINF:-1 tvg-id="" tvg-name="PARAS TV" group-title="Bhakti/devotional",PARAS TV
 https://paras.clik2see.com/apiupload/parasInternational/hls/5/parastv/playlist.m3u8
-#EXTINF:-1 tvg-name="JINVANI CHANNEL" group-title="Bhakti/devotional",JINVANI CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="JINVANI CHANNEL" group-title="Bhakti/devotional",JINVANI CHANNEL
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634072895/ei/36RlYem6JZ6C4-EP1cCc-Ak/ip/2405%3A201%3A401e%3A3e2d%3A2995%3A1dbe%3Aa22a%3A3e0f/id/H1mDMTS3rTU.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKUL2AZCp8Kg_9OjIM486x2-_5vyn8We6XGvpbQHluooCIQC4dJPBNi_BfL_qeMtt5nj8MoIk3PHcHhFZ8QS3_9tIXw%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-name="AGAMVANI" group-title="Bhakti/devotional",AGAMVANI
+#EXTINF:-1 tvg-id="" tvg-name="AGAMVANI" group-title="Bhakti/devotional",AGAMVANI
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634073189/ei/BaZlYY2eEJ-J4-EP8uuX4AU/ip/2405%3A201%3A401e%3A3e2d%3A2995%3A1dbe%3Aa22a%3A3e0f/id/feMRmia4BaQ.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANsUEEwYF_dBfIxO_ACVcyQ72kZJVpoGOUDnFwoUadp6AiEA0C1crDgRYq1TlMoVVA_FO5TPi7ghMUz1VdWySkKcPT4%3D/file/index.m3u8
 
 #Punjabi
@@ -881,23 +881,23 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
 #sports
 
-#EXTINF:-1, tvg-name="DD SPORTS" group-title="sports", DD SPORTS
+#EXTINF:-1, tvg-id="" tvg-name="DD SPORTS" tvg-logo="" group-title="sports", DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1, tvg-name="DD SPORTS" group-title="sports", DD SPORTS
+#EXTINF:-1, tvg-id="" tvg-name="DD SPORTS" tvg-logo="" group-title="sports", DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 group-title="sports" ,Sony Six ᴴᴰ
+#EXTINF:-1 tvg-id="SonySixHD.in" tvg-name="Sony Six" tvg-logo="" group-title="sports" ,Sony Six
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
-#EXTINF:-1 group-title="sports",Sony Ten 1 ᴴᴰ
+#EXTINF:-1 tvg-id="TenSports.in" tvg-name="Sony Ten 1" tvg-logo="" group-title="sports",Sony Ten 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
-#EXTINF:-1 group-title="sports",Sony Ten 2 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="sports",Sony Ten 2
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
-#EXTINF:-1 group-title="sports",Sony Ten 3 
+#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="" group-title="sports",Sony Ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 group-title="sports",Star Sports 1 ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" group-title="sports",Star Sports 1
 http://103.112.212.204/pco.php?id=48106
-#EXTINF:-1 group-title="sports",Star Sports 2 
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" group-title="sports",Star Sports 2 
 http://103.112.55.180:8080/play/a007 
-#EXTINF:-1 tvg-name="Star Sports 3 FHD IN" tvg-logo="" group-title="sports",Star Sports 3 FHD IN
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3" tvg-logo="" group-title="sports",Star Sports 3
 http://103.112.55.180:8080/play/a00a
-#EXTINF:-1 tvg-name="Star Sports Select 1" tvg-logo="" group-title="sports",Star Sports Select 1 
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="" group-title="sports",Star Sports Select 1 
 http://193.161.193.99:49103/st/suriya/aio.php?id=48110
