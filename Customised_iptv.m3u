@@ -15,7 +15,7 @@ https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live
 #EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS" tvg-logo="https://1.bp.blogspot.com/-WU5YfY3WEZo/YMdDmOYuJoI/AAAAAAAABL4/s3WLrJ8Um7MsZUIYzn5DM63pB5Yh2YmggCLcBGAsYHQ/s320/images%252822%2529.jpeg" group-title="News",ZEE NEWS
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REPUBLIC BHARAT" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",REPUBLIC BHARAT
-https://snehz5tv.herokuapp.com?c=0-9-162
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-162
 #EXTINF:-1 tvg-id="" tvg-name="REPUBLIC" tvg-logo="https://bharat.republicworld.com/assets/images/favicons/ms-icon-144x144.png" group-title="News",REPUBLIC
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87254
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhhVdd9KCZkn39j5bd_cfAPPOFxAxSq2939Sb8HTw=s900-c-k-c0x00ffffff-no-rj" group-title="News",INDIA TV
@@ -146,7 +146,7 @@ https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" group-title="News",WION
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" group-title="News",WION
-https://snehz5tv.herokuapp.com?c=0-9-wion%20
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-wion
 
 #Entertainment
 
