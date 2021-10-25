@@ -267,7 +267,7 @@ http://93.152.174.144:4000/play/zeeaction/index.m3u8
 #EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="Hindi Movies" aspect-ratio="16:9",ZEE BOLLYWOOD
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 #EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="Hindi Movies" aspect-ratio="16:9",ZEE BOLLYWOOD
-http://indo51.gcdn.co/hindi-ZEEBOLLYWOOD/tracks-v1a1/mono.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/180
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" group-title="Hindi Movies",ZEE ANMOL CINEMA
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA"group-title="Hindi Movies",ZEE ANMOL CINEMA
@@ -883,23 +883,23 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
 #sports
 
-#EXTINF:-1, tvg-id="" tvg-name="DD SPORTS" tvg-logo="" group-title="sports", DD SPORTS
+#EXTINF:-1, tvg-id="DDSports.in" tvg-name="DD SPORTS" tvg-logo="https://1.bp.blogspot.com/-pIM0AM0GAAI/YRZM1sMkWlI/AAAAAAAAA18/8-dQpvvPj081OeFYdDG6_fLX2rZc30n3gCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg" group-title="sports", DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="DD SPORTS" tvg-logo="" group-title="sports", DD SPORTS
+#EXTINF:-1, tvg-id="DDSports.in" tvg-name="DD SPORTS" tvg-logo="https://1.bp.blogspot.com/-pIM0AM0GAAI/YRZM1sMkWlI/AAAAAAAAA18/8-dQpvvPj081OeFYdDG6_fLX2rZc30n3gCLcBGAsYHQ/s200/images%2B%25281%2529.jpeg" group-title="sports", DD SPORTS
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
-#EXTINF:-1 tvg-id="SonySixHD.in" tvg-name="Sony Six" tvg-logo="" group-title="sports" ,Sony Six
+#EXTINF:-1 tvg-id="SonySixHD.in" tvg-name="Sony Six" tvg-logo="https://1.bp.blogspot.com/-eZASEoCAOvc/YSt3aCXJNpI/AAAAAAAAA-Q/bUDbdeLcfzwEWlmqd8AebdoNfmn-yGn2gCLcBGAsYHQ/s200/images%252823%2529.jpeg" group-title="sports" ,Sony Six
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
-#EXTINF:-1 tvg-id="TenSports.in" tvg-name="Sony Ten 1" tvg-logo="" group-title="sports",Sony Ten 1
+#EXTINF:-1 tvg-id="TenHD.in" tvg-name="Sony Ten 1" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png" group-title="sports",Sony Ten 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="sports",Sony Ten 2
+#EXTINF:-1 tvg-id="TenAction.in" tvg-name="Sony Ten 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="sports",Sony Ten 2
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
-#EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="" group-title="sports",Sony Ten 3
+#EXTINF:-1 tvg-id="TenCricket.in" tvg-name="Sony Ten 3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="sports",Sony Ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="" group-title="sports",Star Sports 1
+#EXTINF:-1 tvg-id="StarSportsHD1.in" tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="sports",Star Sports 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="" group-title="sports",Star Sports 2 
+#EXTINF:-1 tvg-id="StarSportsHD2.in" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="sports",Star Sports 2 
 http://103.112.55.180:8080/play/a007 
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 3" tvg-logo="" group-title="sports",Star Sports 3
+#EXTINF:-1 tvg-id="StarSportsHD3.in" tvg-name="Star Sports 3" tvg-logo="" group-title="sports",Star Sports 3
 http://103.112.55.180:8080/play/a00a
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="" group-title="sports",Star Sports Select 1 
+#EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="Star Sports Select 1" tvg-logo="" group-title="sports",Star Sports Select 1 
 http://193.161.193.99:49103/st/suriya/aio.php?id=48110
