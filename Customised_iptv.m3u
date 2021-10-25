@@ -895,9 +895,9 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
 #EXTINF:-1 tvg-id="" tvg-name="Sony Ten 3" tvg-logo="" group-title="sports",Sony Ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" group-title="sports",Star Sports 1
-http://103.112.212.204/pco.php?id=48106
-#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" group-title="sports",Star Sports 2 
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 1" tvg-logo="" group-title="sports",Star Sports 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
+#EXTINF:-1 tvg-id="" tvg-name="Star Sports 2" tvg-logo="" group-title="sports",Star Sports 2 
 http://103.112.55.180:8080/play/a007 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sports 3" tvg-logo="" group-title="sports",Star Sports 3
 http://103.112.55.180:8080/play/a00a
