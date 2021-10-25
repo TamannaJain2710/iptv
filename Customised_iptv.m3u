@@ -271,17 +271,19 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/180
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" group-title="Hindi Movies",ZEE ANMOL CINEMA
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA"group-title="Hindi Movies",ZEE ANMOL CINEMA
-http://indo51.gcdn.co/hindi-ZEEANMOL/tracks-v1a1/mono.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/186
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
 http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56264
-#EXTINF:-1,IN: tvg-id="" tvg-name="STAR GOLD" group-title="Hindi Movies", STAR GOLD
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/188
+#EXTINF:-1 tvg-id="StarGold.in" tvg-name="STAR GOLD" group-title="Hindi Movies", STAR GOLD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",STAR GOLD HD
+#EXTINF:-1 tvg-id="StarGoldHD.in" tvg-name="STAR GOLD HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",STAR GOLD HD
 http://indo51.gcdn.co/hindi-STARGOLD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",STAR GOLD HD
+#EXTINF:-1 tvg-id="StarGoldHD.in" tvg-name="STAR GOLD HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",STAR GOLD HD
 http://89.187.182.181:9090/SM_FHD-HINDI-STARGOLD/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="STAR GOLD ME" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",STAR GOLD ME
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
+#EXTINF:-1 tvg-id="MoviesOk.in" tvg-name="STAR GOLD HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",STAR GOLD HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/193
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd-2 HD" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",STAR GOLd-2 HD
 http://143.244.60.10/HINDI__STAR_GOLD_2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd-2 HD" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",STAR GOLd-2 HD
@@ -894,11 +896,11 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
 #EXTINF:-1 tvg-id="TenAction.in" tvg-name="Sony Ten 2" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="sports",Sony Ten 2
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
 #EXTINF:-1 tvg-id="TenCricket.in" tvg-name="Sony Ten 3" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png" group-title="sports",Sony Ten 3
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
 #EXTINF:-1 tvg-id="StarSportsHD1.in" tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="sports",Star Sports 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 #EXTINF:-1 tvg-id="StarSportsHD2.in" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="sports",Star Sports 2 
-http://103.112.55.180:8080/play/a007 
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178 
 #EXTINF:-1 tvg-id="StarSportsHD3.in" tvg-name="Star Sports 3" tvg-logo="" group-title="sports",Star Sports 3
 http://103.112.55.180:8080/play/a00a
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="Star Sports Select 1" tvg-logo="" group-title="sports",Star Sports Select 1 
