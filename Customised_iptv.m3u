@@ -810,11 +810,9 @@ https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 http://89.187.182.181:9090/SM_FHD-HINDI-MTV/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="Mastiii.in" tvg-name="MASTIII" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Mastiii_tv_channel.png" group-title="Music",MASTIII
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 tvg-id="Mastiii.in" tvg-name="MASTIII" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Mastiii_tv_channel.png" group-title="Music",MASTIII
+#EXTINF:-1 tvg-id="Mastiii.in" tvg-name="MASTIII" tvg-logo="https://j2apps.s.llnwi.net/pic/0589.Mastiii.in/en/1x1/208x208/test_pic1567397477532.jpg" group-title="Music",MASTIII
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="Mastiii.in" tvg-name="MASTIII" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/33/Mastiii_tv_channel.png" group-title="Music",MASTIII
+#EXTINF:-1 tvg-id="Mastiii.in" tvg-name="MASTIII" tvg-logo="https://j2apps.s.llnwi.net/pic/0589.Mastiii.in/en/1x1/208x208/test_pic1567397477532.jpg" group-title="Music",MASTIII
 http://14.199.164.20:4001/play/a0my/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="9X JALWA" group-title="Music",9X JALWA
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
