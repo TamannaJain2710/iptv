@@ -362,10 +362,12 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2854
 https://sneh-zee5tv-production.up.railway.app/?c=0-9-bigmagic_1786965389
 #EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="Hindi Movies",B4U KADAK
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies",B4U MOVIES 
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U MOVIES" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies",B4U MOVIES 
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87398
-#EXTINF:-1 tvg-id="" tvg-name="B4U MOVIES" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies",B4U MOVIES 
+#EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U MOVIES" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies",B4U MOVIES 
 http://14.199.164.20:4001/play/a0wj/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="B4U PLUS" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Plus.png" group-title="Hindi Movies",B4U PLUS
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86184
 #EXTINF:0 tvg-id="" tvg-name="BFLIX MOVIES" group-title="Hindi Movies" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-bflix-movies-2320.jpg",BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAHA MOVIE" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg" group-title="Hindi Movies",MAHA MOVIE
@@ -726,11 +728,13 @@ https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 https://itvoign.multitvsolution.com/idvo/turboeng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://1.bp.blogspot.com/-H_L2r_7sR3E/YOv18EGF1XI/AAAAAAAAAWU/okyP7YsAGks8gz-KbiojS-NfrSQLcKYaQCLcBGAsYHQ/s200/images.jpeg" group-title="Infotainment",DISCOVERY TURBO
 https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
-#EXTINF:-1 tvg-id="TLC.in" tvg-name="TCL HD IN" tvg-logo="https://1.bp.blogspot.com/-JMO44CXmC0Y/YOv3ouQE1NI/AAAAAAAAAWs/3XcuqZ_7eeY4g6h7PK8LV6W-wDLbkZZ7QCLcBGAsYHQ/s200/images%2B%25283%2529.jpeg" group-title="Infotainment",TCL HD IN
+#EXTINF:-1 tvg-id="TLC.in" tvg-name="TCL HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JMO44CXmC0Y/YOv3ouQE1NI/AAAAAAAAAWs/3XcuqZ_7eeY4g6h7PK8LV6W-wDLbkZZ7QCLcBGAsYHQ/s200/images%2B%25283%2529.jpeg" group-title="Infotainment",TCL HD (IN)
 https://itvoign.multitvsolution.com/idvo/tlchdhindi.m3u8
-#EXTINF:-1 tvg-id="TLC.in" tvg-name="TCL HD IN" tvg-logo="https://1.bp.blogspot.com/-JMO44CXmC0Y/YOv3ouQE1NI/AAAAAAAAAWs/3XcuqZ_7eeY4g6h7PK8LV6W-wDLbkZZ7QCLcBGAsYHQ/s200/images%2B%25283%2529.jpeg" group-title="Infotainment",TCL HD IN
+#EXTINF:-1 tvg-id="TLC.in" tvg-name="TCL HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JMO44CXmC0Y/YOv3ouQE1NI/AAAAAAAAAWs/3XcuqZ_7eeY4g6h7PK8LV6W-wDLbkZZ7QCLcBGAsYHQ/s200/images%2B%25283%2529.jpeg" group-title="Infotainment",TCL HD (IN)
 https://feed.play.mv/live/10005200/HE8qFtMl9Q/master.m3u8
-#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TCL HD UK" tvg-logo="https://1.bp.blogspot.com/-JMO44CXmC0Y/YOv3ouQE1NI/AAAAAAAAAWs/3XcuqZ_7eeY4g6h7PK8LV6W-wDLbkZZ7QCLcBGAsYHQ/s200/images%2B%25283%2529.jpeg" group-title="Infotainment",TCL HD UK
+#EXTINF:-1 tvg-id="TLC.in" tvg-name="TCL HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JMO44CXmC0Y/YOv3ouQE1NI/AAAAAAAAAWs/3XcuqZ_7eeY4g6h7PK8LV6W-wDLbkZZ7QCLcBGAsYHQ/s200/images%2B%25283%2529.jpeg" group-title="Infotainment",TCL HD (IN)
+http://idvd.multitvsolution.com/idvo/tlchdhindi.m3u8
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TCL HD (UK)" tvg-logo="https://1.bp.blogspot.com/-JMO44CXmC0Y/YOv3ouQE1NI/AAAAAAAAAWs/3XcuqZ_7eeY4g6h7PK8LV6W-wDLbkZZ7QCLcBGAsYHQ/s200/images%2B%25283%2529.jpeg" group-title="Infotainment",TCL HD (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74221
 #EXTINF:-1 tvg-id="EPIC.in" tvg-name="EPIC" tvg-logo="https://1.bp.blogspot.com/-e4FO-3bdzcM/YP1PG-3omtI/AAAAAAAAAow/1EFuRvmQ-D4_7pMQGMu6ClvSdwmxFGhEgCLcBGAsYHQ/s200/images%2B%252817%2529.jpeg" group-title="Infotainment",EPIC
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
@@ -740,10 +744,12 @@ https://idvd.multitvsolution.com/idvo/aphdhindi.m3u8
 https://itvoign.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth (Eng)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg" group-title="Infotainment",Sony BBC Earth (Eng)
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History TV HIN" group-title="Infotainment",History TV HIN
-http://103.153.39.34:8000/play/a05k/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="History TV ENG" group-title="Infotainment",History TV ENG
+#EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="History TV 18" tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment",History TV 18
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/87209
+#EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="History TV 18" tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment",History TV 18
 https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
+#EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="History TV 18 (ENG)" tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment",History TV 18 (ENG)
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/87209
 #EXTINF:-1 tvg-id="" tvg-name="History TV 2" group-title="Infotainment",History TV 2
 https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" group-title="Infotainment",CRIME INVESTIGATION
@@ -758,10 +764,10 @@ http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 http://143.244.60.10/HINDI__NAT_GEO_WILD_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="Infotainment",NAT GEO WILD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf64fa8235da80cdab652f86b9c1be050328d447b1471bc025e2f9ab03c30a7a2fd1c43b523fa41b6455412145b1a2d6878b1a28fbd4d706e48afb1602866940927ea134da9170e97eebc29f3823a69f42e90681f26&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP HD" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP HD 
-https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP (720p)
-https://travelxp-travelxp-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXP.in" tvg-name="TRAVEL XP HD" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP HD 
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74223
+#EXTINF:-1 tvg-id="TravelXP.in" tvg-name="TRAVEL XP HD" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP HD
+https://itvoign.multitvsolution.com/idvo/tlchdhindi.m3u8
 #EXTINF:-0 tvg-id="" tvg-name="NASA TV" group-title="Infotainment" tvg-logo="https://images.app.goo.gl/y8WRd8i5PHmhJFqKA", NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://1.bp.blogspot.com/-MbirRD55EOA/YKZPN-3cxPI/AAAAAAAAA_Q/0wqNBg-53FgnV812i-fRSzhVsrYX9PsXACLcBGAsYHQ/w200-h200/images%2B%25281%2529%25284%2529.png" group-title="Infotainment",LOVE NATURE
@@ -835,7 +841,7 @@ https://live.hungama.com/linear/pop-pataka/playlist.m3u8?Live-TV
 #EXTINF:-1 tvg-id="" tvg-name="I LOVE" tvg-logo="https://i.imgur.com/u191zfh.png" group-title="Music",I LOVE 
 http://14.199.164.20:4001/play/a0p3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="I LOVE" tvg-logo="https://i.imgur.com/u191zfh.png" group-title="Music",I LOVE
-http://jo123.biz/jweb/m3u8.php?c=iLove&q=800&e=junk.m3u8
+https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="MUSIC INDIA" tvg-logo="" group-title="Music",MUSIC INDIA
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="MUSIC INDIA" tvg-logo="" group-title="Music",MUSIC INDIA
