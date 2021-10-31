@@ -22,6 +22,10 @@ https://sneh-zee5tv-production.up.railway.app/?c=0-9-162
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87254
 #EXTINF:-1 tvg-id="" tvg-name="BHARAT SAMACHAR" tvg-logo="https://j2apps.s.llnwi.net/pic/7060.BharatSamachar.in/en/1x1/208x208/test_pic1591601853502.jpg" group-title="News",BHARAT SAMACHAR
 https://m-c05-j2apps.s.llnwi.net/hls/7060.BharatSamachar.in.m3u8
+#EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-name="ZEE HINDUSTAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Zee_Hindustan_Logo.png" group-title="News",ZEE HINDUSTAN
+https://sneh-zee5tv-1.up.railway.app?c=0-9-zeehindustan
+#EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="ZEE BUSINESS" tvg-logo="https://www.pikpng.com/pngl/b/30-303835_zee-business-zee-business-channel-logo-png-clipart.png" group-title="News",ZEE BUSINESS
+https://sneh-zee5tv-1.up.railway.app?c=0-9-zeebusiness
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhhVdd9KCZkn39j5bd_cfAPPOFxAxSq2939Sb8HTw=s900-c-k-c0x00ffffff-no-rj" group-title="News",INDIA TV
 https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS" tvg-logo="https://j2apps.s.llnwi.net/pic/0442.IndiaNews.in/en/1x1/208x208/test_pic1552315699798.jpg" group-title="News", INDIA NEWS
