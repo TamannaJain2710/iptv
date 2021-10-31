@@ -549,21 +549,26 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e
 
 #English Movies MBC
 
-#EXTINF:-1 tvg-id="MBCAction.net" tvg-name="MBC ACTION HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION HD
-http://s1.urhdiptv.net:8080/mma2/45212156/80270
+#EXTINF:-1 tvg-id="MBCAction.net" tvg-name="MBC ACTION (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION (4K)
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/33169
+#EXTINF:-1 tvg-id="MBCAction.net" tvg-name="MBC ACTION (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION (HD)
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/24
 #EXTINF:-1 tvg-id="MBCAction.net" tvg-name="MBC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION
-http://s1.urhdiptv.net:8080/mma2/45212156/80255
-#EXTINF: -1 tvg-id="MBC2.net" tvg-name="MBC 2 HD" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movies",MBC 2 HD
-http://s1.urhdiptv.net:8080/mma2/45212156/80274
-#EXTINF: -1 tvg-id="MBC2.net" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="English Movies",MBC 2
-http://s1.urhdiptv.net:8080/mma2/45212156/80261
-#EXTINF: -1 tvg-id="MBCMax.net" tvg-name="MBC MAX HD" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies",MBC MAX HD
-http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/8226
-#EXTINF: -1 tvg-id="MBCMax.net" tvg-name="MBC MAX" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies",MBC MAX
-http://s1.urhdiptv.net:8080/mma2/45212156/80257
-#EXTINF:-1, tvg-id="" tvg-name="MBC + VARIETY" group-title="English Movies",MBC + VARIETY
-http://s1.urhdiptv.net:8080/mma2/45212156/80268
-
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/20925
+#EXTINF:-1 tvg-id="MBC2.net" tvg-name="MBC 2 (4K)" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movies",MBC 2 (4K)
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/33165
+#EXTINF:-1 tvg-id="MBC2.net" tvg-name="MBC 2 (HD)" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movies",MBC 2 (HD)
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/26
+#EXTINF:-1 tvg-id="MBC2.net" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="English Movies",MBC 2
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/20919
+#EXTINF:-1 tvg-id="MBCMax.net" tvg-name="MBC MAX (4K)" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies",MBC MAX (4K)
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/33168
+#EXTINF:-1 tvg-id="MBCMax.net" tvg-name="MBC MAX (HD)" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies",MBC MAX (HD)
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/29
+#EXTINF:-1 tvg-id="MBCMax.net" tvg-name="MBC MAX" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies",MBC MAX
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/20921
+#EXTINF:-1, tvg-id="" tvg-name="MBC + VARIETY (HD)" tvg-logo="" group-title="English Movies",MBC + VARIETY (HD)
+http://forevertv.me:8080/Iptvtree/b957c2YMj6/2001
 #English Movies OSN
 
 #EXTINF:-1 tvg-id="OSNMoviesAction.net" tvg-name="OSN Action HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNACTION.png" group-title="English Movies",OSN Action HD
