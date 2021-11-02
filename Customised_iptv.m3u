@@ -651,46 +651,46 @@ http://pyramidsiptv.com:8080/mohamed/mohamed123/91691
 
 #English Movies SHAHID
 
-#EXTINF:-1, tvg-id="" tvg-name="SHAHID ACTION" group-title="English Movies",SHAHID ACTION
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID ACTION" tvg-logo="" group-title="English Movies",SHAHID ACTION
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79876
-#EXTINF:-1, tvg-id="" tvg-name="SHAHID AFLAM 1" group-title="English Movies",SHAHID AFLAM 1
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID AFLAM 1" tvg-logo="" group-title="English Movies",SHAHID AFLAM 1
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79875
-#EXTINF:-1, tvg-id="" tvg-name="SHAHID AFLAM 2" group-title="English Movies",SHAHID AFLAM 2
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID AFLAM 2" tvg-logo="" group-title="English Movies",SHAHID AFLAM 2
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79874
-#EXTINF:-1, tvg-id="" tvg-name="SHAHID COMEDY" group-title="English Movies",SHAHID COMEDY
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID COMEDY" tvg-logo="" group-title="English Movies",SHAHID COMEDY
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79871
-#EXTINF:-1, tvg-id="" tvg-name="SHAHID DRAMA" group-title="English Movies",SHAHID DRAMA
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID DRAMA" tvg-logo="" group-title="English Movies",SHAHID DRAMA
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79870
-#EXTINF:-1, tvg-id="" tvg-name="SHAHID FAMILY" group-title="English Movies",SHAHID FAMILY
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID FAMILY" tvg-logo="" group-title="English Movies",SHAHID FAMILY
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79868
-#EXTINF:-1, tvg-id="" tvg-name="SHAHID HORROR" group-title="English Movies",SHAHID HORROR
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID HORROR" tvg-logo="" group-title="English Movies",SHAHID HORROR
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79867
-#EXTINF:-1, tvg-id="" tvg-name="SHAHID ROMANCE" group-title="English Movies",SHAHID ROMANCE
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID ROMANCE" tvg-logo="" group-title="English Movies",SHAHID ROMANCE
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79866
 
 #English Movies MIX
 
-#EXTINF:-1, tvg-id="" tvg-name="Mix Cinema" group-title="English Movies",Mix Cinema
+#EXTINF:-1, tvg-id="" tvg-name="Mix Cinema" tvg-logo="" group-title="English Movies",Mix Cinema
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1293
-#EXTINF:-1, tvg-id="" tvg-name="Mix Action" group-title="English Movies",Mix Action
+#EXTINF:-1, tvg-id="" tvg-name="Mix Action" tvg-logo="" group-title="English Movies",Mix Action
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1294
-#EXTINF:-1, tvg-id="" tvg-name="Mix Mystery" group-title="English Movies",Mix Mystery
+#EXTINF:-1, tvg-id="" tvg-name="Mix Mystery" tvg-logo="" group-title="English Movies",Mix Mystery
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1295
-#EXTINF:-1, tvg-id="" tvg-name="Mix Horror" group-title="English Movies",Mix Horror
+#EXTINF:-1, tvg-id="" tvg-name="Mix Horror" tvg-logo="" group-title="English Movies",Mix Horror
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1296
-#EXTINF:-1, tvg-id="" tvg-name="Mix Crime" group-title="English Movies",Mix Crime
+#EXTINF:-1, tvg-id="" tvg-name="Mix Crime" tvg-logo="" group-title="English Movies",Mix Crime
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1297
-#EXTINF:-1, tvg-id="" tvg-name="Vision Action HD" group-title="English Movies",Vision Action HD
+#EXTINF:-1, tvg-id="" tvg-name="Vision Action HD" tvg-logo="" group-title="English Movies",Vision Action HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1298
-#EXTINF:-1, tvg-id="" tvg-name="ART Action HD" group-title="English Movies",ART Action HD
+#EXTINF:-1, tvg-id="" tvg-name="ART Action HD" tvg-logo="" group-title="English Movies",ART Action HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1342
-#EXTINF:-1, tvg-id="" tvg-name="OMG" group-title="English Movies",OMG
+#EXTINF:-1, tvg-id="" tvg-name="OMG" tvg-logo="" group-title="English Movies",OMG
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1300
-#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Action" group-title="English Movies",Xtra Movies Action
+#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Action" tvg-logo="" group-title="English Movies",Xtra Movies Action
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1217
-#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Adventure" group-title="English Movies",Xtra Movies Adventure
+#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Adventure" tvg-logo="" group-title="English Movies",Xtra Movies Adventure
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1326
-#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Crime" group-title="English Movies",Xtra Movies Crime
+#EXTINF:-1, tvg-id="" tvg-name="Xtra Movies Crime" tvg-logo="" group-title="English Movies",Xtra Movies Crime
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1339
 
 #English Movies RAKUTEN
@@ -710,13 +710,13 @@ https://rakuten-comedymovies-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #English Movies ON
 
-#EXTINF:-1, tvg-name="ON 2K Cinema HD" group-title="English Movies",ON 2K Cinema HD
+#EXTINF:-1, tvg-name="ON 2K Cinema HD" tvg-logo="" group-title="English Movies",ON 2K Cinema HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1303
-#EXTINF:-1, tvg-name="ON Movies HD" group-title="English Movies",ON Movies HD
+#EXTINF:-1, tvg-name="ON Movies HD" tvg-logo="" group-title="English Movies",ON Movies HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1304
-#EXTINF:-1, tvg-name="ON SciFi HD" group-title="English Movies",ON SciFi HD
+#EXTINF:-1, tvg-name="ON SciFi HD" tvg-logo="" group-title="English Movies",ON SciFi HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1305
-#EXTINF:-1, tvg-name="ON Horror HD" group-title="English Movies",ON Horror HD
+#EXTINF:-1, tvg-name="ON Horror HD" tvg-logo="" group-title="English Movies",ON Horror HD
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1306
 
 #Infotainment
@@ -820,21 +820,23 @@ http://pkr.cinepex.tv:8278/nickhindikdin/playlist.m3u8
 http://103.153.39.34:8000/play/a04l/index.m3u8
 #EXTINF:-1 tvg-name="SONIC" tvg-logo="http://durbinlive.com/uploads/tv_image/sm/nickelodeon-sonic-bangla.png" group-title="KIDS CARTOON",SONIC
 http://pkr.cinepex.tv:8278/sonichindikdin/playlist.m3u8
-#EXTINF:-1, tvg-name="ZOOMOO HD" group-title="KIDS CARTOON",ZOOMOO HD
+#EXTINF:-1, tvg-name="ZOOMOO HD" tvg-logo="" group-title="KIDS CARTOON",ZOOMOO HD
 https://feed.play.mv/live/10005200/sdwa8BgXE4/master.m3u8
-#EXTINF:-1, tvg-name="NetFlix JR" group-title="KIDS CARTOON",NetFlix JR
+#EXTINF:-1, tvg-name="NetFlix JR" tvg-logo="" group-title="KIDS CARTOON",NetFlix JR
 http://178.18.245.114:8080/XR_XtraTv136479/974631/1340
 
 #Music
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE5 MUSIC" tvg-logo="https://1.bp.blogspot.com/-nD9u2qNibps/YReloVq6yJI/AAAAAAAAA3w/3xPIEyUiZQgYGtAGfoYOCskxg6673C05QCLcBGAsYHQ/s200/images.png" group-title="Music",ZEE5 MUSIC
-https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-301
 #EXTINF:-1 tvg-id="" tvg-name="ZEE5 ORIGINALS" tvg-logo="https://1.bp.blogspot.com/-a4COK1uG1kw/YKMSlMYXckI/AAAAAAAAA3E/HSxxtAKew_IxmNw62gxA01Y9B1Tvw2LVACLcBGAsYHQ/w200-h117/images%252811%2529.jpeg" group-title="Music",ZEE5 ORIGINALS
-https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-299
+#EXTINF:-1 tvg-id="" tvg-name="ZEE5 PUNJABI BEATS" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-300/channel_web/1170x658withlog_1014754213.png" group-title="Music",ZEE5 PUNJABI BEATS
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-300
 #EXTINF: -1 tvg-id="" tvg-name="MTV BEATS HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV BEATS HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD Plus" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD Plus
-http://89.187.182.181:9090/SM_FHD-HINDI-MTV/tracks-v1a1/index.m3u8
+https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="Mastiii.in" tvg-name="MASTIII" tvg-logo="https://j2apps.s.llnwi.net/pic/0589.Mastiii.in/en/1x1/208x208/test_pic1567397477532.jpg" group-title="Music",MASTIII
@@ -882,15 +884,15 @@ https://m-c03-j2apps.s.llnwi.net/hls/1309.IshwarTV.in.m3u8
 http://14.199.164.20:4001/play/a0sm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SARV DHARM SANGAM" tvg-logo="" group-title="Bhakti/devotional",SARV DHARM SANGAM
 http://14.199.164.20:4001/play/a0nn/index.m3u8
-#EXTINF:-1 group-title="Bhakti/devotional", Sadhna
+#EXTINF:-1 tvg-id="" tvg-name="SADHNA" tvg-logo="" group-title="Bhakti/devotional",SADHNA
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SHIRDI LIVE" group-title="Bhakti/devotional",SHIRDI LIVE
+#EXTINF:-1 tvg-id="" tvg-name="SHIRDI LIVE" tvg-logo="" group-title="Bhakti/devotional",SHIRDI LIVE
 https://cam.pc.cdn.bitgravity.com/cam/live/feed006/Saibaba/temple/feed/chunklist.m3u8?e=1635111409&h=1f77ad180f09676edd2abf5ad56f2935
-#EXTINF:-1 tvg-id="" tvg-name="PARAS TV" group-title="Bhakti/devotional",PARAS TV
+#EXTINF:-1 tvg-id="" tvg-name="PARAS TV" tvg-logo="" group-title="Bhakti/devotional",PARAS TV
 https://paras.clik2see.com/apiupload/parasInternational/hls/5/parastv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="JINVANI CHANNEL" group-title="Bhakti/devotional",JINVANI CHANNEL
+#EXTINF:-1 tvg-id="" tvg-name="JINVANI CHANNEL" tvg-logo="" group-title="Bhakti/devotional",JINVANI CHANNEL
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634072895/ei/36RlYem6JZ6C4-EP1cCc-Ak/ip/2405%3A201%3A401e%3A3e2d%3A2995%3A1dbe%3Aa22a%3A3e0f/id/H1mDMTS3rTU.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKUL2AZCp8Kg_9OjIM486x2-_5vyn8We6XGvpbQHluooCIQC4dJPBNi_BfL_qeMtt5nj8MoIk3PHcHhFZ8QS3_9tIXw%3D%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AGAMVANI" group-title="Bhakti/devotional",AGAMVANI
+#EXTINF:-1 tvg-id="" tvg-name="AGAMVANI" tvg-logo="" group-title="Bhakti/devotional",AGAMVANI
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634073189/ei/BaZlYY2eEJ-J4-EP8uuX4AU/ip/2405%3A201%3A401e%3A3e2d%3A2995%3A1dbe%3Aa22a%3A3e0f/id/feMRmia4BaQ.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANsUEEwYF_dBfIxO_ACVcyQ72kZJVpoGOUDnFwoUadp6AiEA0C1crDgRYq1TlMoVVA_FO5TPi7ghMUz1VdWySkKcPT4%3D/file/index.m3u8
 
 #Punjabi
