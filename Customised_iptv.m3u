@@ -596,7 +596,7 @@ http://pyramidsiptv.com:8080/mohamed/mohamed123/91693
 http://pyramidsiptv.com:8080/mohamed/mohamed123/36479
 #EXTINF:-1, tvg-id="" tvg-name="NETFLIX ACTION" tvg-logo="http://vod-logo.net/photos/2361e4e5e6852d5e64359e591546e6ed.png" group-title="English Movies",NETFLIX ACTION
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79885
-#EXTINF:-1, tvg-id="" tvg-name="NETFLIX MOVIES HD" tvg-logo="" group-title="Hindi Movies",NETFLIX MOVIES HD
+#EXTINF:-1, tvg-id="" tvg-name="NETFLIX MOVIES HD" tvg-logo="" group-title="English Movies",NETFLIX MOVIES HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/91694
 #EXTINF:-1, tvg-id="" tvg-name="NETFLIX HORROR HD" tvg-logo="" group-title="English Movies",NETFLIX HORROR HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/91692
@@ -841,32 +841,34 @@ https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 https://m-c07-j2apps.s.llnwi.net/hls/0589.Mastiii.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="Mastiii.in" tvg-name="MASTIII" tvg-logo="https://j2apps.s.llnwi.net/pic/0589.Mastiii.in/en/1x1/208x208/test_pic1567397477532.jpg" group-title="Music",MASTIII
 http://14.199.164.20:4001/play/a0my/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" group-title="Music",9X JALWA
+#EXTINF:-1 tvg-id="" tvg-name="9X JALWA" tvg-logo="https://i.imgur.com/3mkjuTk.png" group-title="Music",9X JALWA
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MH1 MUSIC" group-title="Music",MH1 MUSIC
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="MH1 MUSIC" tvg-logo="https://j2apps.s.llnwi.net/pic/0197.MH1.in/en/1x1/208x208/test_pic1544189994326.jpg" group-title="Music",MH1 MUSIC
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U MUSIC" tvg-logo="http://epg4you.com/logos/b4umusic.png" aspect-ratio="16:9" group-title="Music",B4U MUSIC
 http://14.199.164.20:4001/play/a0wk/index.m3u8
 #EXTINF:-1 tvg-id="B4UMusic.in" tvg-name="B4U MUSC" tvg-logo="http://epg4you.com/logos/b4umusic.png" aspect-ratio="16:9" group-title="Music",B4U MUSIC
 https://feed.play.mv/live/1009/n6W19r2lg7/master.m3u8
-#EXTINF:-1 tvg-id="Zoom.in" tvg-name="ZOOM TV" group-title="Music",ZOOM TV
+#EXTINF:-1 tvg-id="Zoom.in" tvg-name="ZOOM TV" tvg-logo="" group-title="Music",ZOOM TV
 http://103.153.39.34:8000/play/a06c/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIL Se" group-title="Music",DIL SE (1080p)
+#EXTINF:-1 tvg-id="" tvg-name="DIL Se" tvg-logo="https://1.bp.blogspot.com/-gUgkoESLvvI/YTc5TGskS3I/AAAAAAAAA_Q/7zR6ZbpfIV8a_BzURB4s4_sUjV6TAqvJACLcBGAsYHQ/s200/images%2B%252814%2529.jpeg" group-title="Music",DIL SE (1080p)
 https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA DIL SE HD" group-title="Music",HUNGAMA DIL SE HD
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA DIL SE HD" tvg-logo="https://1.bp.blogspot.com/-gUgkoESLvvI/YTc5TGskS3I/AAAAAAAAA_Q/7zR6ZbpfIV8a_BzURB4s4_sUjV6TAqvJACLcBGAsYHQ/s200/images%2B%252814%2529.jpeg" group-title="Music",HUNGAMA DIL SE HD
 https://live.hungama.com/linear/dil-se/playlist_360p/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA KADAK HITS" group-title="Music",HUNGAMA KADAK HITS
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA KADAK HITS" tvg-logo="" group-title="Music",HUNGAMA KADAK HITS
 https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA POP PATAKA" group-title="Music",HUNGAMA POP PATAKA
+#EXTINF:-1 tvg-id="" tvg-name="HUNGAMA POP PATAKA" tvg-logo="" group-title="Music",HUNGAMA POP PATAKA
 https://live.hungama.com/linear/pop-pataka/playlist.m3u8?Live-TV
 #EXTINF:-1 tvg-id="" tvg-name="I LOVE" tvg-logo="https://i.imgur.com/u191zfh.png" group-title="Music",I LOVE 
 http://14.199.164.20:4001/play/a0p3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="I LOVE" tvg-logo="https://i.imgur.com/u191zfh.png" group-title="Music",I LOVE
 https://ilove.livebox.co.in/wowinhls/live.m3u8
-#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="MUSIC INDIA" tvg-logo="" group-title="Music",MUSIC INDIA
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="MUSIC INDIA" tvg-logo="https://i.imgur.com/F7tPCwh.png" group-title="Music",MUSIC INDIA
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
-#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="MUSIC INDIA" tvg-logo="" group-title="Music",MUSIC INDIA
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="MUSIC INDIA" tvg-logo="https://i.imgur.com/F7tPCwh.png" group-title="Music",MUSIC INDIA
 http://14.199.164.20:4001/play/a0mt/index.m3u8
+#EXTINF:-1 tvg-id="Mtunes.in" tvg-name="MTUNES" tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Music",MTUNES
+http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-id="Bindass.in" tvg-name="BINDASS" tvg-logo="" group-title="Music",BINDASS
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1059.ts
 
@@ -895,6 +897,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634073189/ei/B
 
 #EXTINF: -1 group-title="Punjabi", 5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="STEELBIRD MUSIC" tvg-logo="https://i.imgur.com/5r4gCMh.jpg" group-title="Punjabi",STEELBIRD MUSIC
+http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/d56XPXW.png" group-title="Punjabi", DESI CHANNEL
 http://live.agmediachandigarh.com/lifepunjabi/e27b5c8d89b83882ca3b018eeed14888.sdp/mono.m3u8
 #EXTINF: -1 tvg-logo="https://britasia.tv/wp-content/uploads/2016/08/BATV_FINAL-LOGO.jpg" group-title="Punjabi",BritAsia TV
