@@ -326,14 +326,10 @@ http://sonyiptv.net:8080/12345678/12345678/199315
 http://indo51.gcdn.co/hindi-SONYPAL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi Movies",& PICTURES
 https://sneh-zee5tv-production.up.railway.app/?c=0-9-pictures
-#EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES HD hd" tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies",& PICTURES HD
+#EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES (HD)" tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies",& PICTURES (HD)
 https://sneh-zee5tv-production.up.railway.app/?c=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES HD hd" tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies",& PICTURES HD
-http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-ANDPICTURES/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38e801782c18670ace1f7869d7ecae493a4359cfdcea90f8dfa04e4bc42fcca7bcd1d853320dab3c4ded7709401b7a6c66646711c947c824d2ef15ce47a2eea6846438f5ceee0f55402b01fd8caad8034216e4c458138d898027cf262530fc9defd78a48d9&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="" tvg-name="& XPLOR HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Xplor_HD.png" group-title="Hindi Movies",& XPLOR HD
 https://sneh-zee5tv-production.up.railway.app/?c=0-9-209
-#EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
-http://channels227070.clientportal.link:80/Pxkcqcw673/9k7a3V15/6236
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
 http://sonyiptv.net:8080/12345678/12345678/199244
 #EXTINF:-1, tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
@@ -341,7 +337,7 @@ http://rv.flysat.live:80/307211765061/307211765061/83632
 #EXTINF:-1 tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
 http://103.153.39.34:8000/play/a06o/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
-http://eurotv.vip:80/5678/5678/51424
+http://eurotv.vip:80/55/55/51424
 #EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="UTV MOVIES" group-title="Hindi Movies",UTV MOVIES
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="UTV MOVIES" group-title="Hindi Movies",UTV MOVIES
