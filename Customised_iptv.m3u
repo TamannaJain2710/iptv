@@ -209,6 +209,10 @@ http://51.79.84.156:8082/ColorsIn/index.m3u8
 http://221.120.204.4/colours-hd-LOCKLE/playlist.m3u8
 #EXTINF:1 tvg-id="Colors.uk" tvg-name="COLORS HD (UK)" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",COLORS HD (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2845
+#EXTINF:-1 tvg-id="" tvg-name="COLORS RISHTEY" tvg-logo="" group-title="Hindi Movies",COLORS RISHTEY
+http://dtv21.org:2082/Red123_394985/sikXriN2I7/86183
+#EXTINF:-1 tvg-id="" tvg-name="COLORS RISHTEY" tvg-logo="" group-title="Hindi Movies",COLORS RISHTEY
+http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86183
 #EXTINF:0 tvg-id="" tvg-name="Zee TV USA" group-title="Entertainment" aspect-ratio="16:9",Zee TV USA
 https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Zee TV CANADA" group-title="Entertainment" aspect-ratio="16:9",Zee TV CANADA
@@ -238,7 +242,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2837
 #EXTINF:-1 tvg-id="" tvg-name="AND TV" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",AND TV
 http://173.199.120.51/hls/andtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AND Tv HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",AND TV HD
-http://143.244.60.10/HINDI__AND_TV_HD/tracks-v1a1/mono.m3u8?token=test
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvhd_0
 #EXTINF:-1 tvg-id="" tvg-name="AND TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",AND TV HD
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHEMAROO TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiAeNnLczA1oLBfDLfdTSWreu-WeFuD2BdbbiiYPyyI_BzBpWbI2fKy0b3ZMgZeG4tNzMiDgDoXL3w3dGbRa0CqytcD17DtVXiR5KCo3pDjnb_FLEGpZVcQ80A7zZ2JiTrA7BkeOfn3lPogvPmWJ5wI6jRAE3ZTGkmLEV2WA-r_-BqrTE9rY1gLJ34E=s200" group-title="Entertainment",SHEMAROO TV
@@ -246,8 +250,10 @@ https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 
 #Hindi Movies
 
+#EXTINF:0  tvg-id="ZeeCinema.in" tvg-name="ZEE CINEMA" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654.png" group-title="Hindi Movies" aspect-ratio="16:9",ZEE CINEMA
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecinema
 #EXTINF:0  tvg-id="ZeeCinema.in" tvg-name="ZEE CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies" aspect-ratio="16:9",ZEE CINEMA HD
-http://93.190.139.35:8278/streams/d/Zeecinemahd/playlist.m3u8
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecinemahd
 #EXTINF:0  tvg-id="ZeeCinema.in" tvg-name="ZEE CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies" aspect-ratio="16:9",ZEE CINEMA HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0  tvg-id="ZeeCinema.in" tvg-name="ZEE CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies" aspect-ratio="16:9",ZEE CINEMA HD
@@ -265,21 +271,33 @@ https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="ZEE ACTION" tvg-logo="https://s3.amazonaws.com/zaubatrademarks/265c62c6-22ce-49dc-a3c9-8b85d4a329eb.png" group-title="Hindi Movies",ZEE ACTION
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="ZEE ACTION" tvg-logo="https://s3.amazonaws.com/zaubatrademarks/265c62c6-22ce-49dc-a3c9-8b85d4a329eb.png" group-title="Hindi Movies",ZEE ACTION
-http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeaction
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="ZEE ACTION" tvg-logo="https://1.bp.blogspot.com/-dzCWp2FiJ5c/YJ9zCOlC9hI/AAAAAAAAAw8/NEgauC_JO-kp2FeNuVMfoo6Pdw9dtlwuACLcBGAsYHQ/s0/PicsArt_05-15-06.22.56.png" group-title="Hindi Movies",ZEE ACTION
 http://93.152.174.144:4000/play/zeeaction/index.m3u8
 #EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="Hindi Movies" aspect-ratio="16:9",ZEE BOLLYWOOD
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 #EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="Hindi Movies" aspect-ratio="16:9",ZEE BOLLYWOOD
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeclassic
+#EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="Hindi Movies" aspect-ratio="16:9",ZEE BOLLYWOOD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/180
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" group-title="Hindi Movies",ZEE ANMOL CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png" group-title="Hindi Movies",ZEE ANMOL CINEMA
 https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA"group-title="Hindi Movies",ZEE ANMOL CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png" group-title="Hindi Movies",ZEE ANMOL CINEMA
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeanmolcinema
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png" group-title="Hindi Movies",ZEE ANMOL CINEMA
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/186
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
 http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56264
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-176
+#EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/188
+#EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi Movies",& PICTURES
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-pictures
+#EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES (HD)" tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies",& PICTURES (HD)
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="" tvg-name="& XPLOR HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Xplor_HD.png" group-title="Hindi Movies",& XPLOR HD
+https://sneh-zee5tv-production.up.railway.app/?c=0-9-209
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="STAR GOLD" group-title="Hindi Movies", STAR GOLD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
 #EXTINF:-1 tvg-id="StarGoldHD.in" tvg-name="STAR GOLD HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",STAR GOLD HD
@@ -305,8 +323,6 @@ https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",COLORS CINEPLEX HD
 https://livevoot-i.akamaihd.net/dash/live/828591/cineplexhd/master.mpd
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",COLORS CINEPLEX HD
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/86183
-#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",COLORS CINEPLEX HD
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 tvg-id="SonyMAX.in" tvg-name="SONY MAX Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",SONY MAX Hd
 https://feed.play.mv/live/10005200/Xe5PWNrbRZ/1.m3u8
@@ -324,12 +340,6 @@ http://eurotv.vip:80/55/55/13831
 http://sonyiptv.net:8080/12345678/12345678/199315
 #EXTINF:-1 tvg-id="" tvg-name="SONY PAL" group-title="Hindi Movies",SONY PAL
 http://indo51.gcdn.co/hindi-SONYPAL/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi Movies",& PICTURES
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-pictures
-#EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES (HD)" tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies",& PICTURES (HD)
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="" tvg-name="& XPLOR HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Xplor_HD.png" group-title="Hindi Movies",& XPLOR HD
-https://sneh-zee5tv-production.up.railway.app/?c=0-9-209
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
 http://sonyiptv.net:8080/12345678/12345678/199244
 #EXTINF:-1, tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
@@ -363,7 +373,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2854
 #EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC" tvg-logo="https://1.bp.blogspot.com/-EusXDTRFTL4/YMdA6NIao1I/AAAAAAAABLA/Fta1mlFKyUIz6f4pRWZevKe-vG28BZR7gCLcBGAsYHQ/s640/images%252849%2529.jpeg" group-title="Hindi Movies",BIG MAGIC
 https://sneh-zee5tv-production.up.railway.app/?c=0-9-bigmagic_1786965389
 #EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="Hindi Movies",B4U KADAK
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+http://14.199.164.20:4001/play/a0nd/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U MOVIES" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies",B4U MOVIES 
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87398
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U MOVIES" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies",B4U MOVIES 
@@ -417,8 +427,10 @@ https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE Hd" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English Movies",ZEE CAFE Hd
 https://f8e7y4c6.ssl.hwcdn.net/zeecafehd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE Hd" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English Movies",ZEE CAFE Hd
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecafehd
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movies",&PRIVE HD
-https://f8e7y4c6.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-priv%C3%A9hd
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movies",&PRIVE HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movies",&PRIVE HD
@@ -427,6 +439,8 @@ http://143.244.60.10/ENGLISH__AND_PRIVE_HD/tracks-v1a1/mono.m3u8?token=test
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ec01782c363a514dbf50000c6c8a1fdf5f98abc05d35144b0842889500df1e9fd27885b72a866b2df851f0d5a0607245acc438455a2dc039981889e16cb81ae1dca1989d037e7e7c2e542fc5743c7553fdd64bd4268cd5876aa2c4743d3b&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="" tvg-name="AND Flix Hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="English Movies",AND Flix Hd
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AND Flix Hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="English Movies",AND Flix Hd
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-channel_2105335046
 #EXTINF:-1 tvg-id="SonyPIX.in" tvg-name="SONY PIX" tvg-logo="https://1.bp.blogspot.com/-aWIKEawflVY/YTiqztLVcUI/AAAAAAAABIo/3fVag2zUjLImrLIG0jj_tchyvSuklPxpQCLcBGAsYHQ/s200/images%2B%25284%2529%25285%2529.png" group-title="English Movies",SONY PIX
 https://feed.play.mv/live/10005200/jmW41EycvT/1.m3u8
 #EXTINF:-1 tvg-id="SonyPIX.in" tvg-name="SONY PIX" tvg-logo="https://1.bp.blogspot.com/-aWIKEawflVY/YTiqztLVcUI/AAAAAAAABIo/3fVag2zUjLImrLIG0jj_tchyvSuklPxpQCLcBGAsYHQ/s200/images%2B%25284%2529%25285%2529.png" group-title="English Movies",SONY PIX
@@ -867,6 +881,9 @@ https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
 http://14.199.164.20:4001/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-id="Mtunes.in" tvg-name="MTUNES" tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Music",MTUNES
 http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:-1 tvg-id="Mtunes.in" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732.png" group-title="Music",BOOGLE BOLLYWOOD
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-165
+
 #EXTINF:-1 tvg-id="Bindass.in" tvg-name="BINDASS" tvg-logo="" group-title="Music",BINDASS
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1059.ts
 
