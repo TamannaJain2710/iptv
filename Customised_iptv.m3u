@@ -579,6 +579,7 @@ http://forevertv.me:8080/Iptvtree/b957c2YMj6/29
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/20921
 #EXTINF:-1, tvg-id="" tvg-name="MBC + VARIETY (HD)" tvg-logo="" group-title="English Movies",MBC + VARIETY (HD)
 http://forevertv.me:8080/Iptvtree/b957c2YMj6/2001
+
 #English Movies OSN
 
 #EXTINF:-1 tvg-id="OSNMoviesAction.net" tvg-name="OSN Action HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNACTION.png" group-title="English Movies",OSN Action HD
@@ -883,9 +884,6 @@ http://14.199.164.20:4001/play/a0mt/index.m3u8
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-id="Mtunes.in" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732.png" group-title="Music",BOOGLE BOLLYWOOD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-165
-
-#EXTINF:-1 tvg-id="Bindass.in" tvg-name="BINDASS" tvg-logo="" group-title="Music",BINDASS
-http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1059.ts
 
 #Bhakti/devotional
 
