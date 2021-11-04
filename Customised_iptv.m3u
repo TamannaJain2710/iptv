@@ -159,8 +159,8 @@ https://sneh-zee5tv-production.up.railway.app/?c=0-9-wion
 
 #Entertainment
 
-#EXTINF:-1 tvg-id="SonyEntertainmentTV.in" tvg-name="Sony SET" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony SET
-http://173.199.120.51/hls/chs.m3u8
+##EXTINF:-1 tvg-id="SonyEntertainmentTV.in" tvg-name="Sony SET" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony SET
+#http://173.199.120.51/hls/chs.m3u8
 #EXTINF:-1 tvg-id="SonyTVHD.in" tvg-name="Sony HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony HD
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 #EXTINF:-1 tvg-id="SonyTVHD.in" tvg-name="SONY HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",SONY HD
