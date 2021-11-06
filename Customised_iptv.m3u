@@ -662,6 +662,10 @@ http://pyramidsiptv.com:8080/mohamed/mohamed123/91691
 
 #EXTINF:-1, tvg-id="" tvg-name="SHAHID ACTION" tvg-logo="" group-title="English Movies",SHAHID ACTION
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79876
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID ACTION (1)" tvg-logo="" group-title="English Movies",SHAHID ACTION (1)
+http://pyramidsiptv.com:8080/mohamed/mohamed123/91685
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID ACTION (2)" tvg-logo="" group-title="English Movies",SHAHID ACTION (2)
+http://pyramidsiptv.com:8080/mohamed/mohamed123/91684
 #EXTINF:-1, tvg-id="" tvg-name="SHAHID AFLAM 1" tvg-logo="" group-title="English Movies",SHAHID AFLAM 1
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79875
 #EXTINF:-1, tvg-id="" tvg-name="SHAHID AFLAM 2" tvg-logo="" group-title="English Movies",SHAHID AFLAM 2
@@ -676,6 +680,8 @@ http://pyramidsiptv.com:8080/mohamed/mohamed123/79868
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79867
 #EXTINF:-1, tvg-id="" tvg-name="SHAHID ROMANCE" tvg-logo="" group-title="English Movies",SHAHID ROMANCE
 http://pyramidsiptv.com:8080/mohamed/mohamed123/79866
+#EXTINF:-1, tvg-id="" tvg-name="SHAHID BOLLYWOOD" tvg-logo="" group-title="Hindi Movies",SHAHID BOLLYWOOD
+http://pyramidsiptv.com:8080/mohamed/mohamed123/91681
 
 #English Movies MIX
 
