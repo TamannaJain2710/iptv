@@ -354,8 +354,6 @@ https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1058.ts
 #EXTINF:-1 tvg-id="MBCBollywood.net" tvg-name="MBC BOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Hindi Movies",MBC BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="OSN STAR Movies" group-title="Hindi Movies",OSN STAR Movies
-http://sonyiptv.net:8080/12345678/12345678/205793
 #EXTINF:-1 tvg-id="" tvg-name="MINIPLEX"group-title="Hindi Movies",MINIPLEX
 http://sonyiptv.net:8080/12345678/12345678/199256
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+HOTSTAR"group-title="Hindi Movies",DISNEY+HOTSTAR
@@ -386,9 +384,9 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
 #EXTINF:0 tvg-id="" tvg-name="MANORANJAN MOVIES" tvg-logo="https://1.bp.blogspot.com/-Q3MsZEvKgnc/YP1NmkhSRBI/AAAAAAAAAoQ/_pAjmCYjb0It9qljvEHkivQGDDwQeyVTwCLcBGAsYHQ/s200/images%2B%252819%2529.jpeg" group-title="Hindi Movies",MANORANJAN MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="Dhinchaak-1" tvg-logo="https://i.imgur.com/T2c6PjU.jpg" group-title="Hindi Movies",DHINCHAAK 1 (576p)
+#EXTINF:-1 tvg-id="" tvg-name="Dhinchaak (1)" tvg-logo="https://i.imgur.com/T2c6PjU.jpg" group-title="Hindi Movies",DHINCHAAK (1)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Dhinchaak-2" tvg-logo="https://i.imgur.com/AC4ze9o.jpg" group-title="Hindi Movies",DHINCHAAK 2 (576p)
+#EXTINF:-1 tvg-id="" tvg-name="Dhinchaak (2)" tvg-logo="https://i.imgur.com/AC4ze9o.jpg" group-title="Hindi Movies",DHINCHAAK (2)
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOX CINEMA" tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Hindi Movies",BOX CINEMA
 http://14.199.164.20:4001/play/a0su/index.m3u8
@@ -560,25 +558,25 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c6dc88fcd232425a6e
 #English Movies MBC
 
 #EXTINF:-1 tvg-id="MBCAction.net" tvg-name="MBC ACTION (4K)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION (4K)
-http://forevertv.me:8080/Iptvtree/b957c2YMj6/33169
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/8227
 #EXTINF:-1 tvg-id="MBCAction.net" tvg-name="MBC ACTION (HD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION (HD)
-http://forevertv.me:8080/Iptvtree/b957c2YMj6/24
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/8228
 #EXTINF:-1 tvg-id="MBCAction.net" tvg-name="MBC ACTION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Mbc_action_logo.png" group-title="English Movies",MBC ACTION
-http://forevertv.me:8080/Iptvtree/b957c2YMj6/20925
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80270
 #EXTINF:-1 tvg-id="MBC2.net" tvg-name="MBC 2 (4K)" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movies",MBC 2 (4K)
-http://forevertv.me:8080/Iptvtree/b957c2YMj6/33165
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/8214
 #EXTINF:-1 tvg-id="MBC2.net" tvg-name="MBC 2 (HD)" tvg-logo="https://i.imgur.com/uXHPdeq.jpg" group-title="English Movies",MBC 2 (HD)
-http://forevertv.me:8080/Iptvtree/b957c2YMj6/26
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/8215
 #EXTINF:-1 tvg-id="MBC2.net" tvg-name="MBC 2" tvg-logo="https://i.imgur.com/KXuzL1u.png" group-title="English Movies",MBC 2
-http://forevertv.me:8080/Iptvtree/b957c2YMj6/20919
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80261
 #EXTINF:-1 tvg-id="MBCMax.net" tvg-name="MBC MAX (4K)" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies",MBC MAX (4K)
-http://forevertv.me:8080/Iptvtree/b957c2YMj6/33168
+http://wagmaott.com:8080/smartsat-admin8rHpCHX834/LMPBnndFdG/8224
 #EXTINF:-1 tvg-id="MBCMax.net" tvg-name="MBC MAX (HD)" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies",MBC MAX (HD)
-http://forevertv.me:8080/Iptvtree/b957c2YMj6/29
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80264
 #EXTINF:-1 tvg-id="MBCMax.net" tvg-name="MBC MAX" tvg-logo="https://i.imgur.com/smmZBzH.png" group-title="English Movies",MBC MAX
-http://forevertv.me:8080/Iptvtree/b957c2YMj6/20921
+http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/8225
 #EXTINF:-1, tvg-id="" tvg-name="MBC + VARIETY (HD)" tvg-logo="" group-title="English Movies",MBC + VARIETY (HD)
-http://forevertv.me:8080/Iptvtree/b957c2YMj6/2001
+http://pyramidsiptv.com:8080/mohamed/mohamed123/80268
 
 #English Movies OSN
 
