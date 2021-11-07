@@ -993,10 +993,13 @@ https://shemaroomusicradio.shemaroo.com/shemaroomusic/chaitimewith_retroclassic/
 https://shemaroomusicradio.shemaroo.com/shemaroomusic/night_lounge/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Late Night Chill Shemaroo" tvg-logo="" group-title="RADIO FM",Late Night Chill Shemaroo
 https://shemaroomusicradio.shemaroo.com/shemaroomusic/latenight_chill/playlist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RADIO FM",Bombay Beats India Radio
+#EXTINF:-1 tvg-id="" tvg-name="Yo Punjabi Mirchi" tvg-logo="" group-title="RADIO FM",Yo Punjabi Mirchi
+https://yopunjabihdlive-lh.akamaihd.net/i/YoPunjabiHDLive_1_1@345454/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Filmy Mirchi" tvg-logo="" group-title="RADIO FM",Filmy Mirchi
+https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
+#EXTINF:-1 tvg-id="Club Mirchi" tvg-name="" tvg-logo="" group-title="RADIO FM",Club Mirchi
+https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pehla Nasha" tvg-logo="" group-title="RADIO FM",Pehla Nasha
+https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Purani Jeans" tvg-logo="" group-title="RADIO FM",Purani Jeans
+https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
