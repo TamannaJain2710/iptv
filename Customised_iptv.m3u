@@ -968,3 +968,33 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 http://103.112.55.180:8080/play/a00a
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="Star Sports Select 1" tvg-logo="" group-title="sports",Star Sports Select 1 
 http://193.161.193.99:49103/st/suriya/aio.php?id=48110
+
+
+#RADIO FM
+#EXTINF:-1 tvg-id="" tvg-name="Bombay Beats India Radio" tvg-logo="" group-title="RADIO FM",Bombay Beats India Radio
+http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
+#EXTINF:-1 tvg-id="" tvg-name="Bombay Beats India Radio" tvg-logo="" group-title="RADIO FM",Bombay Beats India Radio
+
+
+
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Udit Narayan Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Lata Mangeshkar Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/latamangeshkar_aac/playlist.m3u8
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Kishore Kumar Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Asha Bhosle Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic/ashabhosle_aac/playlist.m3u8
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Mohd Rafi Shemaroo
+https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/chunklist_w489482750.m3u8
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Morning Melodies Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/morning_melodies/playlist.m3u8
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Musical Matinees Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/musical_matinees/playlist.m3u8
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Chai Time with Retroclassic Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/chaitimewith_retroclassic/playlist.m3u8
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Night Lounge Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/night_lounge/playlist.m3u8
+#EXTINF: group-title="Sneh RADIO | Hindi" ,,Late Night Chill Shemaroo
+https://shemaroomusicradio.shemaroo.com/shemaroomusic/latenight_chill/playlist.m3u8
+
