@@ -973,28 +973,30 @@ http://193.161.193.99:49103/st/suriya/aio.php?id=48110
 #RADIO FM
 #EXTINF:-1 tvg-id="" tvg-name="Bombay Beats India Radio" tvg-logo="" group-title="RADIO FM",Bombay Beats India Radio
 http://sc-bb.1.fm:8017/;?listening-from-radio-garden=1601016386228
-#EXTINF:-1 tvg-id="" tvg-name="Bombay Beats India Radio" tvg-logo="" group-title="RADIO FM",Bombay Beats India Radio
-
-
-
-#EXTINF: group-title="Sneh RADIO | Hindi" ,,Udit Narayan Shemaroo
+#EXTINF:-1 tvg-id="" tvg-name="Udit Narayan Shemaroo" tvg-logo="" group-title="RADIO FM",Udit Narayan Shemaroo
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/uditnarayan_aac/playlist.m3u8
-#EXTINF: group-title="Sneh RADIO | Hindi" ,,Lata Mangeshkar Shemaroo
+#EXTINF:-1 tvg-id="" tvg-name="Lata Mangeshkar Shemaroo" tvg-logo="" group-title="RADIO FM",Lata Mangeshkar Shemaroo
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/latamangeshkar_aac/playlist.m3u8
-#EXTINF: group-title="Sneh RADIO | Hindi" ,,Kishore Kumar Shemaroo
+#EXTINF:-1 tvg-id="" tvg-name="Kishore Kumar Shemaroo" tvg-logo="" group-title="RADIO FM",Kishore Kumar Shemaroo
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/kishorekumar_aac/playlist.m3u8
-#EXTINF: group-title="Sneh RADIO | Hindi" ,,Asha Bhosle Shemaroo
+#EXTINF:-1 tvg-id="" tvg-name="Asha Bhosle Shemaroo" tvg-logo="" group-title="RADIO FM",Asha Bhosle Shemaroo
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic/ashabhosle_aac/playlist.m3u8
-#EXTINF: group-title="Sneh RADIO | Hindi" ,,Mohd Rafi Shemaroo
+#EXTINF:-1 tvg-id="" tvg-name="Mohd Rafi Shemaroo" tvg-logo="" group-title="RADIO FM",Mohd Rafi Shemaroo
 https://shemaroomusicradio.shemaroo.com/bollywoodmusic1/mohdrafi_aac/chunklist_w489482750.m3u8
-#EXTINF: group-title="Sneh RADIO | Hindi" ,,Morning Melodies Shemaroo
+#EXTINF:-1 tvg-id="" tvg-name="Morning Melodies Shemaroo" tvg-logo="" group-title="RADIO FM",Morning Melodies Shemaroo
 https://shemaroomusicradio.shemaroo.com/shemaroomusic/morning_melodies/playlist.m3u8
-#EXTINF: group-title="Sneh RADIO | Hindi" ,,Musical Matinees Shemaroo
+#EXTINF:-1 tvg-id="" tvg-name="Musical Matinees Shemaroo" tvg-logo="" group-title="RADIO FM",Musical Matinees Shemaroo
 https://shemaroomusicradio.shemaroo.com/shemaroomusic/musical_matinees/playlist.m3u8
-#EXTINF: group-title="Sneh RADIO | Hindi" ,,Chai Time with Retroclassic Shemaroo
+#EXTINF:-1 tvg-id="" tvg-name="Chai Time with Retroclassic Shemaroo" tvg-logo="" group-title="RADIO FM",Chai Time with Retroclassic Shemaroo
 https://shemaroomusicradio.shemaroo.com/shemaroomusic/chaitimewith_retroclassic/playlist.m3u8
-#EXTINF: group-title="Sneh RADIO | Hindi" ,,Night Lounge Shemaroo
+#EXTINF:-1 tvg-id="" tvg-name="Night Lounge Shemaroo" tvg-logo="" group-title="RADIO FM",Night Lounge Shemaroo
 https://shemaroomusicradio.shemaroo.com/shemaroomusic/night_lounge/playlist.m3u8
-#EXTINF: group-title="Sneh RADIO | Hindi" ,,Late Night Chill Shemaroo
+#EXTINF:-1 tvg-id="" tvg-name="Late Night Chill Shemaroo" tvg-logo="" group-title="RADIO FM",Late Night Chill Shemaroo
 https://shemaroomusicradio.shemaroo.com/shemaroomusic/latenight_chill/playlist.m3u8
 
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="RADIO FM",Bombay Beats India Radio
