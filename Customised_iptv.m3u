@@ -247,6 +247,8 @@ http://173.199.120.51/hls/andtv.m3u8
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvhd_0
 #EXTINF:-1 tvg-id="" tvg-name="AND TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",AND TV HD
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL" tvg-logo="" group-title="Entertainment",ZEE ANMOL
+https://sneh-zee5tv-1.up.railway.app?c=0-9-zeeanmol
 #EXTINF:-1 tvg-id="" tvg-name="SHEMAROO TV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiAeNnLczA1oLBfDLfdTSWreu-WeFuD2BdbbiiYPyyI_BzBpWbI2fKy0b3ZMgZeG4tNzMiDgDoXL3w3dGbRa0CqytcD17DtVXiR5KCo3pDjnb_FLEGpZVcQ80A7zZ2JiTrA7BkeOfn3lPogvPmWJ5wI6jRAE3ZTGkmLEV2WA-r_-BqrTE9rY1gLJ34E=s200" group-title="Entertainment",SHEMAROO TV
 https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 
@@ -407,7 +409,7 @@ https://m-c010-j2apps.s.llnwi.net/hls/8068.ABZYCool.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABZY DHAKAD" group-title="Hindi Movies" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Dhakad.png",ABZY DHAKAD
 https://m-c010-j2apps.s.llnwi.net/hls/8070.ABZYDhakad.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ABZY MOVIES" group-title="Hindi Movies" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ABZY_Movies.png",ABZY MOVIES
-https://m-c050-j2apps.s.llnwi.net/hls/8067.UpdateIndia.in.m3u8
+https://m-c010-j2apps.s.llnwi.net/hls/8069.ABZYMovies.in.m3u8
 
 #English Movies
 
@@ -894,7 +896,7 @@ http://14.199.164.20:4001/play/a0p3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="I LOVE" tvg-logo="https://i.imgur.com/u191zfh.png" group-title="Music",I LOVE
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="MUSIC INDIA" tvg-logo="https://i.imgur.com/F7tPCwh.png" group-title="Music",MUSIC INDIA
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in.m3u8
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="MUSIC INDIA" tvg-logo="https://i.imgur.com/F7tPCwh.png" group-title="Music",MUSIC INDIA
 http://14.199.164.20:4001/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-id="Mtunes.in" tvg-name="MTUNES" tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Music",MTUNES
