@@ -1003,3 +1003,26 @@ https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3
 https://pehlanashahdlive-lh.akamaihd.net/i/PehlaNashaHDLive_1@335229/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Purani Jeans" tvg-logo="" group-title="RADIO FM",Purani Jeans
 https://puranijeanshdliv-lh.akamaihd.net/i/PuraniJeansHDLive_1_1@334555/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Dabang 105.3FM (USA)" tvg-logo="" group-title="RADIO FM",Radio Dabang 105.3FM (USA)
+http://ca6.rcast.net:8052/;
+#EXTINF:-1 tvg-id="" tvg-name="Non Stop Hindi Radio" tvg-logo="" group-title="RADIO FM",Non Stop Hindi Radio
+http://198.178.123.14:8216/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hungama 90s Once Again" tvg-logo="" group-title="RADIO FM",Radio Hungama 90s Once Again
+http://103.16.47.70:7444/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hungama Bollywood Dil Se" tvg-logo="" group-title="RADIO FM",Radio Hungama Bollywood Dil Se
+http://103.16.47.70:7333/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hungama Punjabi Hits" tvg-logo="" group-title="RADIO FM",Radio Hungama Punjabi Hits
+http://103.16.47.70:9888/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hungama Evergreen Bollywood" tvg-logo="" group-title="RADIO FM",Radio Hungama Evergreen Bollywood
+http://103.16.47.70:7666/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hungama - Bolly Dance Hits" tvg-logo="" group-title="RADIO FM",Radio Hungama - Bolly Dance Hits
+http://103.16.47.70:9222/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Hungama Hot now Bollywood" tvg-logo="" group-title="RADIO FM",Radio Hungama Hot now Bollywood
+http://103.16.47.70:7222/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mehfil ROW" tvg-logo="" group-title="RADIO FM",Radio Mehfil ROW
+http://103.16.47.70:9666/
+#EXTINF:-1 tvg-id="" tvg-name="Radio Mirchi (98.3)" tvg-logo="" group-title="RADIO FM",Radio Mirchi (98.3)
+http://peridot.streamguys.com:7150/Mirchi
+#EXTINF:-1 tvg-id="" tvg-name="Shemaroo Bhakti Radio online" tvg-logo="" group-title="RADIO FM",Shemaroo Bhakti Radio online
+https://radiobhaktishopping.shemaroo.com/hariomradio/Stream1_aac/chunklist_w1854039901.m3u8
+
