@@ -422,7 +422,9 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies",STAR MOVIES SELECT
 http://89.187.182.181:9090/SM_FHD_ENG_STARMOVIESSELECT/tracks-v1a1/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="Movies Now" group-title="English Movies",Movies Now
-http://appleiptv.com:25461/0357/0357/42955
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf6Ura2ezmL2VgoMDIZx9JY/ts
+#EXTINF:-1, tvg-id="" tvg-name="MN+ MOVIES" group-title="English Movies",MN+ MOVIES
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsc1eOY4RcOeO6_MW3_wyWlM/ts
 #EXTINF:-1 tvg-id=""tvg-name="STAR MOVIEMI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English Movies",STAR MOVIEMI HD
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIEMI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English Movies",STAR MOVIEMI HD (STIRR)
@@ -920,6 +922,8 @@ https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/chunks.m3u
 https://cam.pc.cdn.bitgravity.com/cam/live/feed006/Saibaba/temple/feed/chunklist.m3u8?e=1635111409&h=1f77ad180f09676edd2abf5ad56f2935
 #EXTINF:-1 tvg-id="" tvg-name="PARAS TV" tvg-logo="" group-title="Bhakti/devotional",PARAS TV
 https://paras.clik2see.com/apiupload/parasInternational/hls/5/parastv/playlist.m3u8
+#EXTINF:-1 tvg-id="ArihantTv.in" tvg-name="ARIHANT TV" tvg-logo="" group-title="Bhakti/devotional",ARIHANT TV
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsXR_GWHTTkFefCOunbfUPmg/ts
 #EXTINF:-1 tvg-id="" tvg-name="JINVANI CHANNEL" tvg-logo="" group-title="Bhakti/devotional",JINVANI CHANNEL
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1634072895/ei/36RlYem6JZ6C4-EP1cCc-Ak/ip/2405%3A201%3A401e%3A3e2d%3A2995%3A1dbe%3Aa22a%3A3e0f/id/H1mDMTS3rTU.1/source/yt_live_broadcast/requiressl/yes/tx/24064678/txs/24064674%2C24064675%2C24064676%2C24064677%2C24064678/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgKUL2AZCp8Kg_9OjIM486x2-_5vyn8We6XGvpbQHluooCIQC4dJPBNi_BfL_qeMtt5nj8MoIk3PHcHhFZ8QS3_9tIXw%3D%3D/file/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AGAMVANI" tvg-logo="" group-title="Bhakti/devotional",AGAMVANI
