@@ -19,7 +19,7 @@ https://sneh-zee5tv-1.up.railway.app?c=0-9-162
 #EXTINF:-1 tvg-id="" tvg-name="REPUBLIC BHARAT" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",REPUBLIC BHARAT
 https://sneh-zee5tv-production.up.railway.app/?c=0-9-162
 #EXTINF:-1 tvg-id="" tvg-name="REPUBLIC" tvg-logo="https://bharat.republicworld.com/assets/images/favicons/ms-icon-144x144.png" group-title="News",REPUBLIC
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87254
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-channel_1422341819
 #EXTINF:-1 tvg-id="" tvg-name="BHARAT SAMACHAR" tvg-logo="https://j2apps.s.llnwi.net/pic/7060.BharatSamachar.in/en/1x1/208x208/test_pic1591601853502.jpg" group-title="News",BHARAT SAMACHAR
 https://m-c05-j2apps.s.llnwi.net/hls/7060.BharatSamachar.in.m3u8
 #EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-name="ZEE HINDUSTAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Zee_Hindustan_Logo.png" group-title="News",ZEE HINDUSTAN
@@ -382,6 +382,8 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/87398
 http://14.199.164.20:4001/play/a0wj/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="B4U PLUS" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Plus.png" group-title="Hindi Movies",B4U PLUS
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86184
+#EXTINF:-1 tvg-id="" tvg-name="B4U PLUS" tvg-logo="https://watchindia.net/images/channels/hindi/B4U_Plus.png" group-title="Hindi Movies",B4U PLUS
+http://14.199.164.20:4001/play/a0wi/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="BFLIX MOVIES" group-title="Hindi Movies" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-bflix-movies-2320.jpg",BFLIX MOVIES
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MAHA MOVIE" tvg-logo="https://qqcdnpictest.mxplay.com/pic/2820.MahaMovie.in/en/1x1/208x208/test_pic1535464244460.jpg" group-title="Hindi Movies",MAHA MOVIE
