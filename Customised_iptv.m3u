@@ -86,6 +86,16 @@ https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&re
 https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b1396000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SADHNA PLUS" tvg-logo="https://1.bp.blogspot.com/-KxwvvnxlrbE/YOrLf5eRyBI/AAAAAAAAASo/GWl9NDMfMnwcWJNzSJLtJXm4iEvIKT0ogCLcBGAsYHQ/s200/images%2B%25287%2529.jpeg" group-title="News",SADHNA PLUS
 https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HINDI kHABAR" tvg-logo="" group-title="News",HINDI kHABAR
+https://idvd.multitvsolution.com/idvo/hindikhabhar_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOTAL TV" tvg-logo="" group-title="News",TOTAL TV
+https://idvd.multitvsolution.com:443/idvo/totaltv_540p/index.m3u8
+#EXTINF:-1 tvg-id="INDIA VOICE" tvg-name="" tvg-logo="" group-title="News",INDIA VOICE
+https://idvd.multitvsolution.com:443/idvo/indiavoice_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BANSAL NEWS" tvg-logo="" group-title="News",BANSAL NEWS
+https://idvd.multitvsolution.com:443/idvo/bansalnews_540p/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IBC 24" tvg-logo="" group-title="News",IBC 24
+https://idvd.multitvsolution.com:443/idvo/ibc24_540p/index.m3u8
 #EXTINF:0 tvg-id="DWEnglish.de" tvg-name="DW NEWS" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW NEWS
 https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8
 #EXTINF:0 tvg-id="DWEnglish.de" tvg-name="DW NEWS" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW NEWS
