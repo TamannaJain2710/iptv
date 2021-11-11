@@ -200,11 +200,11 @@ http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UTSAV PLUS HD" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="Entertainment",UTSAV PLUS HD 
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2838
 #EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="Entertainment",STAR BHARAT HD
-http://eurotv.vip:80/55/55/51402
+http://eurotv.vip:80/7676/7676/51402
 #EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="Entertainment",STAR BHARAT HD
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/86179
 #EXTINF:-1 tvg-id="" tvg-name="UTSAV BHARAT" tvg-logo="" group-title="Entertainment",UTSAV BHARAT
-http://eurotv.vip:80/55/55/38112
+http://eurotv.vip:80/7676/7676/38112
 #EXTINF:-1 tvg-id="" tvg-name="STAR WORLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Star_World.svg/revision/latest/scale-to-width-down/300?cb=20100511072544" group-title="Entertainment",STAR WORLD HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:1 tvg-id="Colors.in" tvg-name="COLORS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment" aspect-ratio="16:9",COLORS
@@ -325,7 +325,7 @@ http://143.244.60.10/HINDI__STAR_GOLD_2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd 2" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",STAR GOLd 2
 http://sonyiptv.net:8080/4880/4880/199235
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd SELECT" tvg-logo="https://exchange4media.gumlet.io/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",STAR GOLd SELECT
-http://eurotv.vip:80/55/55/50262
+http://eurotv.vip:80/7676/7676/50262
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd SELECT" tvg-logo="https://exchange4media.gumlet.io/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",STAR GOLd SELECT
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87338
 #EXTINF:-1 tvg-id="" tvg-name="UTSAV GOLD" group-title="Hindi Movies",UTSAV GOLD
@@ -349,7 +349,7 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/49379
 #EXTINF:-1 tvg-id="SonyMAX.in" tvg-name="SONY MAX Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",SONY MAX Hd
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87260
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="SONY MAX 2" https://1.bp.blogspot.com/-Fzjw1hyvdDk/YP_2qIDD4pI/AAAAAAAAAsw/kwg4p6INXm8v-rI7sCVgvGL3GECNX4zIwCLcBGAsYHQ/s200/images.jpeg" group-title="Hindi Movies",SONY MAX 2
-http://eurotv.vip:80/55/55/13831
+http://eurotv.vip:80/7676/7676/13831
 #EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi Movies",SONY WAH
 http://sonyiptv.net:8080/4880/4880/199315
 #EXTINF:-1 tvg-id="" tvg-name="SONY PAL" group-title="Hindi Movies",SONY PAL
@@ -361,7 +361,7 @@ http://rv.flysat.live:80/307211765061/307211765061/83632
 #EXTINF:-1 tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
 http://103.153.39.34:8000/play/a06o/index.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
-http://eurotv.vip:80/55/55/51424
+http://eurotv.vip:80/7676/7676/51424
 #EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="UTV MOVIES" group-title="Hindi Movies",UTV MOVIES
 https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="UTV MOVIES" group-title="Hindi Movies",UTV MOVIES
