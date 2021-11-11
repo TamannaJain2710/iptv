@@ -86,7 +86,7 @@ https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-p.m3u8?sd=10&re
 https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b1396000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SADHNA PLUS" tvg-logo="https://1.bp.blogspot.com/-KxwvvnxlrbE/YOrLf5eRyBI/AAAAAAAAASo/GWl9NDMfMnwcWJNzSJLtJXm4iEvIKT0ogCLcBGAsYHQ/s200/images%2B%25287%2529.jpeg" group-title="News",SADHNA PLUS
 https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HINDI kHABAR" tvg-logo="" group-title="News",HINDI kHABAR
+#EXTINF:-1 tvg-id="" tvg-name="HINDI KHABAR" tvg-logo="" group-title="News",HINDI KHABAR
 https://idvd.multitvsolution.com/idvo/hindikhabhar_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOTAL TV" tvg-logo="" group-title="News",TOTAL TV
 https://idvd.multitvsolution.com:443/idvo/totaltv_540p/index.m3u8
