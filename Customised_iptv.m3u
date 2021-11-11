@@ -977,14 +977,23 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
 #EXTINF:-1 tvg-id="StarSportsHD1.in" tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="sports",Star Sports 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 #EXTINF:-1 tvg-id="StarSportsHD1.in" tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/3ibgIMV.png" group-title="sports",Star Sports 1
-http://nwbz1u.ecm.tm/806B6CF/14295e/cricket_1/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c39ea01782ca0560ef969081f5bf98ed30fa9d2da075f20b16ea5c711cb0f39bd15938e80beea05080c7c9986533c965d2df2e9cb6f48203323b29cea3e9e4f4adfb2be1ed7c13a30ef8c66ea6869755bd5bb4d16405cd81105
+http://eurotv.vip:80/7676/7676/57306
 #EXTINF:-1 tvg-id="StarSportsHD2.in" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="sports",Star Sports 2
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
+#EXTINF:-1 tvg-id="StarSportsHD2.in" tvg-name="Star Sports 2" tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="sports",Star Sports 2
+http://eurotv.vip:80/7676/7676/56491
 #EXTINF:-1 tvg-id="StarSportsHD3.in" tvg-name="Star Sports 3" tvg-logo="" group-title="sports",Star Sports 3
 http://103.112.55.180:8080/play/a00a
+#EXTINF:-1 tvg-id="StarSportsHD3.in" tvg-name="Star Sports 3" tvg-logo="" group-title="sports",Star Sports 3
+http://eurotv.vip:80/7676/7676/54724
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="Star Sports Select 1" tvg-logo="" group-title="sports",Star Sports Select 1 
 http://193.161.193.99:49103/st/suriya/aio.php?id=48110
-
+#EXTINF:-1 tvg-id="StarSportsSelectHD2.in" tvg-name="Star Sports Select 2" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="sports",Star Sports Select 2 
+http://eurotv.vip:80/7676/7676/54726
+#EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="WILLOW CRICKET (4K)" tvg-logo="https://www.gfinityplc.com/wp-content/uploads/2020/08/willow-logo-png.png" group-title="sports",WILLOW CRICKET (4K)
+http://eurotv.vip:80/7676/7676/54727
+#EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_XJKDEL5lKkSLpvxEUFmogE4VkUaioXAalMogDw6PxpAMGh0DHA1aghP0MHEd8sJEId4&usqp=CAU" group-title="sports",WILLOW CRICKET Local
+http://eurotv.vip:80/7676/7676/57303
 
 #RADIO FM
 #EXTINF:-1 tvg-id="" tvg-name="Bombay Beats India Radio" tvg-logo="" group-title="RADIO FM",Bombay Beats India Radio
