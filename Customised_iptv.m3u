@@ -323,7 +323,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/193
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd 2" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",STAR GOLd 2
 http://143.244.60.10/HINDI__STAR_GOLD_2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd 2" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",STAR GOLd 2
-http://sonyiptv.net:8080/12345678/12345678/199235
+http://sonyiptv.net:8080/4880/4880/199235
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd SELECT" tvg-logo="https://exchange4media.gumlet.io/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",STAR GOLd SELECT
 http://eurotv.vip:80/55/55/50262
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd SELECT" tvg-logo="https://exchange4media.gumlet.io/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",STAR GOLd SELECT
@@ -351,11 +351,11 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/87260
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="SONY MAX 2" https://1.bp.blogspot.com/-Fzjw1hyvdDk/YP_2qIDD4pI/AAAAAAAAAsw/kwg4p6INXm8v-rI7sCVgvGL3GECNX4zIwCLcBGAsYHQ/s200/images.jpeg" group-title="Hindi Movies",SONY MAX 2
 http://eurotv.vip:80/55/55/13831
 #EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi Movies",SONY WAH
-http://sonyiptv.net:8080/12345678/12345678/199315
+http://sonyiptv.net:8080/4880/4880/199315
 #EXTINF:-1 tvg-id="" tvg-name="SONY PAL" group-title="Hindi Movies",SONY PAL
 http://indo51.gcdn.co/hindi-SONYPAL/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
-http://sonyiptv.net:8080/12345678/12345678/199244
+http://sonyiptv.net:8080/4880/4880/199244
 #EXTINF:-1, tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
 http://rv.flysat.live:80/307211765061/307211765061/83632
 #EXTINF:-1 tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
@@ -369,11 +369,11 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1058.ts
 #EXTINF:-1 tvg-id="MBCBollywood.net" tvg-name="MBC BOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Hindi Movies",MBC BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MINIPLEX"group-title="Hindi Movies",MINIPLEX
-http://sonyiptv.net:8080/12345678/12345678/199256
+http://sonyiptv.net:8080/4880/4880/199256
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+HOTSTAR"group-title="Hindi Movies",DISNEY+HOTSTAR
-http://sonyiptv.net:8080/12345678/12345678/199264
+http://sonyiptv.net:8080/4880/4880/199264
 #EXTINF:-1 tvg-id="" tvg-name="TATA SKY BOLLYWOOD PREMIERE" group-title="Hindi Movies",TATA SKY BOLLYWOOD PREMIERE
-http://sonyiptv.net:8080/12345678/12345678/199308
+http://sonyiptv.net:8080/4880/4880/199308
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD CINEMA" aspect-ratio="16:9" group-title="Hindi Movies",BOLLYWOOD CINEMA
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD ONE" group-title="Hindi Movies",BOLLYWOOD ONE
