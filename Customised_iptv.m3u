@@ -207,6 +207,8 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/86179
 http://eurotv.vip:80/7676/7676/38112
 #EXTINF:-1 tvg-id="" tvg-name="STAR WORLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Star_World.svg/revision/latest/scale-to-width-down/300?cb=20100511072544" group-title="Entertainment",STAR WORLD HD
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR WORLD HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Star_World.svg/revision/latest/scale-to-width-down/300?cb=20100511072544" group-title="Entertainment",STAR WORLD HD
+http://221.120.204.4/star-world-LOCKLE/index.m3u8
 #EXTINF:1 tvg-id="Colors.in" tvg-name="COLORS" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment" aspect-ratio="16:9",COLORS
 http://173.199.120.51/hls/chc.m3u8
 #EXTINF:-0 tvg-id="Colors.in" tvg-name="COLORS HD" group-title="Entertainment" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" aspect-ratio="16:9",COLORS HD
