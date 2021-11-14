@@ -189,6 +189,8 @@ http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 https://feed.play.mv/live/1009/LdG80WcrbS/master.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in" tvg-name="SONY SAB" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",SONY SAB
 http://89.187.182.181:9090/SM_FHD-HINDI-SONYSAB/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="SonySAB.in" tvg-name="SONY SAB" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",SONY SAB
+http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56233
 #EXTINF:-1 tvg-id="SONYSAB.uk" tvg-name="SONY SAB (UK)" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867316278001.png" group-title="Entertainment",SONY SAB (UK)
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2840
 #EXTINF:-1 tvg-id="StarPlusHD.in" tvg-name="STAR PLUS HD" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="Entertainment",STAR PLUS HD
@@ -938,6 +940,7 @@ http://14.199.164.20:4001/play/a0nn/index.m3u8
 https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhanalivetv/live.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SHIRDI LIVE" tvg-logo="" group-title="Bhakti/devotional",SHIRDI LIVE
 https://cam.pc.cdn.bitgravity.com/cam/live/feed006/Saibaba/temple/feed/chunklist.m3u8?e=1636930868&h=412d964f924c9ef5e949e50cd71aa5d8
+https://cam.pc.cdn.bitgravity.com/cam/live/feed006/Saibaba/temple/feed/chunklist.m3u8?e=1636930868&h=412d964f924c9ef5e949e50cd71aa5d8
 #EXTINF:-1 tvg-id="" tvg-name="PARAS TV" tvg-logo="" group-title="Bhakti/devotional",PARAS TV
 https://paras.clik2see.com/apiupload/parasInternational/hls/5/parastv/playlist.m3u8
 #EXTINF:-1 tvg-id="ArihantTv.in" tvg-name="ARIHANT TV" tvg-logo="" group-title="Bhakti/devotional",ARIHANT TV
@@ -995,7 +998,7 @@ http://eurotv.vip:80/7676/7676/54724
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="Star Sports Select 1" tvg-logo="" group-title="sports",Star Sports Select 1 
 http://eurotv.vip:80/7676/7676/43010
 #EXTINF:-1 tvg-id="StarSportsSelectHD2.in" tvg-name="Star Sports Select 2" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="sports",Star Sports Select 2 
-http://eurotv.vip:80/7676/7676/54726
+http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56235
 #EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="WILLOW CRICKET (4K)" tvg-logo="https://www.gfinityplc.com/wp-content/uploads/2020/08/willow-logo-png.png" group-title="sports",WILLOW CRICKET (4K)
 http://eurotv.vip:80/7676/7676/54727
 #EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_XJKDEL5lKkSLpvxEUFmogE4VkUaioXAalMogDw6PxpAMGh0DHA1aghP0MHEd8sJEId4&usqp=CAU" group-title="sports",WILLOW CRICKET Local
