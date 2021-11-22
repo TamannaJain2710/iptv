@@ -918,8 +918,6 @@ http://14.199.164.20:4001/play/a0p3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="I LOVE" tvg-logo="https://i.imgur.com/u191zfh.png" group-title="Music",I LOVE
 https://ilove.livebox.co.in/wowinhls/live.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="MUSIC INDIA" tvg-logo="https://i.imgur.com/F7tPCwh.png" group-title="Music",MUSIC INDIA
-http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56215
-#EXTINF:-1 tvg-id="MusicIndia.in" tvg-name="MUSIC INDIA" tvg-logo="https://i.imgur.com/F7tPCwh.png" group-title="Music",MUSIC INDIA
 http://14.199.164.20:4001/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-id="Mtunes.in" tvg-name="MTUNES" tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Music",MTUNES
 http://14.199.164.20:4001/play/a0p2/index.m3u8
