@@ -200,7 +200,7 @@ http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarPlusHD.in" tvg-name="STAR PLUS HD" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="Entertainment",STAR PLUS HD
 http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="StarPlusHD.in" tvg-name="STAR PLUS HD" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="Entertainment",STAR PLUS HD
-http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56269
+http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56269
 #EXTINF:-1 tvg-id="" tvg-name="UTSAV PLUS HD" tvg-logo="https://assets.rstream.me/images/h/cnMJQQONBN.jpg" group-title="Entertainment",UTSAV PLUS HD 
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2838
 #EXTINF:-1 tvg-id="" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="Entertainment",STAR BHARAT HD
@@ -311,7 +311,7 @@ https://sneh-z5api.herokuapp.com/?c=0-9-zeeanmolcinema
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png" group-title="Hindi Movies",ZEE ANMOL CINEMA
 http://65.2.4.240/jioo.php?c=Zee_Anmol_Cinema&q=800&e=.m3u8
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
-http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56264
+http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56264
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
 https://sneh-z5api.herokuapp.com/?c=0-9-176
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
@@ -335,7 +335,7 @@ http://143.244.60.10/HINDI__STAR_GOLD_2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd 2" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",STAR GOLd 2
 http://sonyiptv.net:8080/jamal/jamal/199235
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd SELECT" tvg-logo="https://exchange4media.gumlet.io/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",STAR GOLd SELECT
-http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56223
+http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56223
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd SELECT" tvg-logo="https://exchange4media.gumlet.io/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",STAR GOLd SELECT
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87338
 #EXTINF:-1 tvg-id="" tvg-name="UTSAV GOLD" group-title="Hindi Movies",UTSAV GOLD
@@ -357,15 +357,15 @@ http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyMAX.in" tvg-name="SONY MAX Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",SONY MAX Hd
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/49379
 #EXTINF:-1 tvg-id="SonyMAX.in" tvg-name="SONY MAX Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",SONY MAX Hd
-http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56273
+http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56273
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="SONY MAX 2" https://1.bp.blogspot.com/-Fzjw1hyvdDk/YP_2qIDD4pI/AAAAAAAAAsw/kwg4p6INXm8v-rI7sCVgvGL3GECNX4zIwCLcBGAsYHQ/s200/images.jpeg" group-title="Hindi Movies",SONY MAX 2
 http://eurotv.vip:80/2111/2111/13831
 #EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi Movies",SONY WAH
-http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56271
+http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56271
 #EXTINF:-1 tvg-id="" tvg-name="SONY PAL" group-title="Hindi Movies",SONY PAL
-http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56272
+http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56272
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
-http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56267
+http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56267
 #EXTINF:-1, tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
 http://rv.flysat.live:80/307211765061/307211765061/83632
 #EXTINF:-1 tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
@@ -444,13 +444,13 @@ http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1, tvg-id="StarMoviesHD.in" tvg-name="STAR MOVIES HD" tvg-logo="https://1.bp.blogspot.com/-pJLkfbwGtGY/YO44hTm2TeI/AAAAAAAAAbg/PLnFwzdRUtgAwOey8VrwhVuqMjgl7Rh_ACLcBGAsYHQ/s200/images%252811%2529.png" group-title="English Movies",STAR MOVIES HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIES SELECT" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Movies_HD.png" group-title="English Movies",STAR MOVIES SELECT
-http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56244
+http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56244
 #EXTINF:-1, tvg-id="" tvg-name="Movies Now" group-title="English Movies",Movies Now
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsf6Ura2ezmL2VgoMDIZx9JY/ts
 #EXTINF:-1, tvg-id="" tvg-name="MN+ MOVIES" group-title="English Movies",MN+ MOVIES
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsc1eOY4RcOeO6_MW3_wyWlM/ts
 #EXTINF:-1, tvg-id="" tvg-name="ROMEDY NOW" group-title="English Movies",ROMEDY NOW
-http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56226
+http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56226
 #EXTINF:-1 tvg-id=""tvg-name="STAR MOVIEMI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English Movies",STAR MOVIEMI HD
 https://sonar.sinclair.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="STAR MOVIEMI HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT2kTZnEQilym8ptRCEoFwFHsTvp0m_y-VOdvWZSFErs4Nyke_m&usqp=CAU" group-title="English Movies",STAR MOVIEMI HD (STIRR)
@@ -844,7 +844,7 @@ http://143.244.60.10/HINDI__NAT_GEO_WILD_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="Infotainment",NAT GEO WILD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf64fa8235da80cdab652f86b9c1be050328d447b1471bc025e2f9ab03c30a7a2fd1c43b523fa41b6455412145b1a2d6878b1a28fbd4d706e48afb1602866940927ea134da9170e97eebc29f3823a69f42e90681f26&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="TravelXP.in" tvg-name="TRAVEL XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP
-http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56230
+http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56230
 #EXTINF:-1 tvg-id="TravelXP.in" tvg-name="TRAVEL XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP
 http://dtv21.org:2082/Red123_394985/sikXriN2I7/87266
 #EXTINF:-1 tvg-id="TravelXP.in" tvg-name="TRAVEL XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP
@@ -1003,7 +1003,7 @@ http://eurotv.vip:80/2111/2111/54724
 #EXTINF:-1 tvg-id="StarSportsSelectHD1.in" tvg-name="Star Sports Select 1" tvg-logo="" group-title="sports",Star Sports Select 1 
 http://eurotv.vip:80/2111/2111/43010
 #EXTINF:-1 tvg-id="StarSportsSelectHD2.in" tvg-name="Star Sports Select 2" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-sports-select-hd-2-logo-300x300.jpg" group-title="sports",Star Sports Select 2 
-http://tv.zaintv.net:80/n85aM1Q8CN/kDhuQUVlf8/56235
+http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56235
 #EXTINF:-1 tvg-id="WillowCricket.us" tvg-name="WILLOW CRICKET (4K)" tvg-logo="https://www.gfinityplc.com/wp-content/uploads/2020/08/willow-logo-png.png" group-title="sports",WILLOW CRICKET (4K)
 http://eurotv.vip:80/2111/2111/54727
 #EXTINF:-1 tvg-id="" tvg-name="WILLOW CRICKET Local" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_XJKDEL5lKkSLpvxEUFmogE4VkUaioXAalMogDw6PxpAMGh0DHA1aghP0MHEd8sJEId4&usqp=CAU" group-title="sports",WILLOW CRICKET Local
