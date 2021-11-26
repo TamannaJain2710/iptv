@@ -787,26 +787,22 @@ http://pyramidsiptv.com:8080/mohamed/mohamed123/91674
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 #EXTINF:-1 tvg-id="FoodFood.in" tvg-name="food food" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Food_Food_%28TV_Channel%29_Logo.jpg" group-title="Infotainment", FOOD FOOD HD
 http://14.199.164.20:4001/play/a0qx/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="food food ASIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e3/Food_Food_%28TV_Channel%29_Logo.jpg" group-title="Infotainment", FOOD FOOD ASIA
-https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="Infotainment",FOX LIFE HD
-http://89.187.182.181:9090/SM_FHD_ENG_FOXLIFE/tracks-v1a1/index.m3u8
+http://93.157.62.180:80/FoxLife/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="Infotainment",FOX LIFE HD
 http://sonyiptv.net:8080/asim/asim/199287
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVER FILMS" tvg-logo="" group-title="Infotainment",DISCOVER FILMS
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHD.in" tvg-name="Discovery HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png"  group-title="Infotainment",Discovery HD
-https://itvoign.multitvsolution.com/idvo/discoveryhindi.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHD.in" tvg-name="Discovery HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png"  group-title="Infotainment",Discovery HD
-https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHD.in" tvg-name="Discovery HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png"  group-title="Infotainment",Discovery HD
-https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Discovery_HD_World&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/G71vtRQ/disscience.png" group-title="Infotainment",Discovery Science
-https://itvoign.multitvsolution.com/idvo/discoverscienceeng.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Discovery_Science&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/G71vtRQ/disscience.png" group-title="Infotainment",Discovery Science
 https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://1.bp.blogspot.com/-H_L2r_7sR3E/YOv18EGF1XI/AAAAAAAAAWU/okyP7YsAGks8gz-KbiojS-NfrSQLcKYaQCLcBGAsYHQ/s200/images.jpeg" group-title="Infotainment",DISCOVERY TURBO
-https://itvoign.multitvsolution.com/idvo/turboeng.m3u8
+https://snehjiotv.in1.bitmana.io/snehjioox.php?c=Discovery_Turbo&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://1.bp.blogspot.com/-H_L2r_7sR3E/YOv18EGF1XI/AAAAAAAAAWU/okyP7YsAGks8gz-KbiojS-NfrSQLcKYaQCLcBGAsYHQ/s200/images.jpeg" group-title="Infotainment",DISCOVERY TURBO
 https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-id="TLC.in" tvg-name="TCL HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JMO44CXmC0Y/YOv3ouQE1NI/AAAAAAAAAWs/3XcuqZ_7eeY4g6h7PK8LV6W-wDLbkZZ7QCLcBGAsYHQ/s200/images%2B%25283%2529.jpeg" group-title="Infotainment",TCL HD (IN)
