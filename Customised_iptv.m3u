@@ -333,7 +333,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/193
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd 2" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",STAR GOLd 2
 http://143.244.60.10/HINDI__STAR_GOLD_2/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd 2" tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi Movies",STAR GOLd 2
-http://sonyiptv.net:8080/jamal/jamal/199235
+http://sonyiptv.net:8080/asim/asim/199235
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd SELECT" tvg-logo="https://exchange4media.gumlet.io/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",STAR GOLd SELECT
 http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56223
 #EXTINF:-1 tvg-id="" tvg-name="STAR GOLd SELECT" tvg-logo="https://exchange4media.gumlet.io/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="Hindi Movies",STAR GOLd SELECT
@@ -381,11 +381,11 @@ http://m3ulink.com:8080/live/info4-restream/Patrik1016987987/1058.ts
 #EXTINF:-1 tvg-id="MBCBollywood.net" tvg-name="MBC BOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Hindi Movies",MBC BOLLYWOOD HD
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MINIPLEX"group-title="Hindi Movies",MINIPLEX
-http://sonyiptv.net:8080/jamal/jamal/199256
+http://sonyiptv.net:8080/asim/asim/199256
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+HOTSTAR"group-title="Hindi Movies",DISNEY+HOTSTAR
-http://sonyiptv.net:8080/jamal/jamal/199264
+http://sonyiptv.net:8080/asim/asim/199264
 #EXTINF:-1 tvg-id="" tvg-name="TATA SKY BOLLYWOOD PREMIERE" group-title="Hindi Movies",TATA SKY BOLLYWOOD PREMIERE
-http://sonyiptv.net:8080/jamal/jamal/199308
+http://sonyiptv.net:8080/asim/asim/199308
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD CINEMA" aspect-ratio="16:9" group-title="Hindi Movies",BOLLYWOOD CINEMA
 https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD ONE" group-title="Hindi Movies",BOLLYWOOD ONE
@@ -546,7 +546,7 @@ https://mytime-roku-ingest.cinedigm.com/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MOVIESPHEREUK (UK)" tvg-logo="https://i.imgur.com/eQKFgpa.png" group-title="English Movies",MOVIESPHEREUK (UK)
 https://moviesphereuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIX HOLLYWOOD" tvg-logo="" group-title="English Movies",MIX HOLLYWOOD
-http://sonyiptv.net:8080/jamal/jamal/231746
+http://sonyiptv.net:8080/asim/asim/231746
 
 #English Movies Fox
 
@@ -792,7 +792,7 @@ https://feed.play.mv/live/10005200/aGu172is5o/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="Infotainment",FOX LIFE HD
 http://89.187.182.181:9090/SM_FHD_ENG_FOXLIFE/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="Infotainment",FOX LIFE HD
-http://sonyiptv.net:8080/jamal/jamal/199287
+http://sonyiptv.net:8080/asim/asim/199287
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVER FILMS" tvg-logo="" group-title="Infotainment",DISCOVER FILMS
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHD.in" tvg-name="Discovery HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png"  group-title="Infotainment",Discovery HD
