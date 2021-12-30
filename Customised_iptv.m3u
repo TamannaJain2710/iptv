@@ -15,9 +15,9 @@ https://vidcdn.vidgyor.com/tv9bharatvarsh-origin/live/tv9bharatvarsh-origin/live
 #EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS" tvg-logo="https://1.bp.blogspot.com/-WU5YfY3WEZo/YMdDmOYuJoI/AAAAAAAABL4/s3WLrJ8Um7MsZUIYzn5DM63pB5Yh2YmggCLcBGAsYHQ/s320/images%252822%2529.jpeg" group-title="News",ZEE NEWS
 https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REPUBLIC BHARAT" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",REPUBLIC BHARAT
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-162
+http://master.webhop.net:25461/chip1/chip1/25063
 #EXTINF:-1 tvg-id="" tvg-name="REPUBLIC" tvg-logo="https://bharat.republicworld.com/assets/images/favicons/ms-icon-144x144.png" group-title="News",REPUBLIC
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-channel_1422341819
+http://master.webhop.net:25461/chip1/chip1/25070
 #EXTINF:-1 tvg-id="" tvg-name="BHARAT SAMACHAR" tvg-logo="https://j2apps.s.llnwi.net/pic/7060.BharatSamachar.in/en/1x1/208x208/test_pic1591601853502.jpg" group-title="News",BHARAT SAMACHAR
 https://m-c05-j2apps.s.llnwi.net/hls/7060.BharatSamachar.in.m3u8
 #EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-name="ZEE HINDUSTAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Zee_Hindustan_Logo.png" group-title="News",ZEE HINDUSTAN
@@ -391,7 +391,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD ONE" group-title="Hindi Movies",BOLLYWOOD ONE
 http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="Zing.in" tvg-name="ZING" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg" group-title="Hindi Movies",ZING
-https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-zing
+http://master.webhop.net:25461/chip1/chip1/25042
 #EXTINF:-1 tvg-id="Zing.uk" tvg-name="ZING UK" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg" group-title="Hindi Movies",ZING UK
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2854
 #EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC" tvg-logo="https://1.bp.blogspot.com/-EusXDTRFTL4/YMdA6NIao1I/AAAAAAAABLA/Fta1mlFKyUIz6f4pRWZevKe-vG28BZR7gCLcBGAsYHQ/s640/images%252849%2529.jpeg" group-title="Hindi Movies",BIG MAGIC
@@ -617,11 +617,16 @@ http://pyramidsiptv.com:8080/mohamed/mohamed123/80268
 #English Movies OSN
 
 #EXTINF:-1 tvg-id="OSNMoviesAction.net" tvg-name="OSN Action HD" tvg-logo="http://picons.atlaspro.to/picons/NEW2020/NEW_OSN/OSNACTION.png" group-title="English Movies",OSN Action HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80229
-#EXTINF:-1, tvg-id="OSNMoviesComedy.net" tvg-name="OSN COMEDY CENTRAL" group-title="English Movies",OSN COMEDY CENTRAL
-http://pyramidsiptv.com:8080/mohamed/mohamed123/12845
-#EXTINF:-1, tvg-id="OSNFirst.net" tvg-name="OSN Movies First HD" group-title="English Movies",OSN Movies First HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80227
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbD_RPmBzHoJ_lG6J4P1yLUCDZMzOyUuEycLlXN_KZINf/ts
+#EXTINF:-1, tvg-id="" tvg-name="OSN SYFY" group-title="English Movies",OSN SYFY
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbKsJC-lTMrWwboIO-1LC3kqh-LPw9EpR5stk5LbcsnW_/ts
+#EXTINF:-1, tvg-id="OSNMovies+2.net" tvg-name="OSN Movies HD +2" group-title="English Movies",OSN Movies HD +2
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMmdtsdAsW4X13JsMroLV5_0Vd8iA8xOqNZs5F0F28-C/ts
+#EXTINF:-1, tvg-id="OSNMovies+2.net" tvg-name="OSN Movies HD +2" group-title="English Movies",OSN Movies HD +2
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbNMHRudzPhUYbMwsFm0_M2AK9aQywzu5Gz4_4PVvHaQY/ts
+#EXTINF:-1, tvg-id="OSNMoviesFamily.net" tvg-name="OSN Movies Family HD" group-title="English Movies",OSN Movies Family HD
+http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbMurphoieglkeTJY7jmvFedjF36tHwe5QwMVd1dP_vu_/ts
+
 #EXTINF:-1, tvg-id="OSNMovies.net" tvg-name="OSN MOVIES HD" group-title="English Movies",OSN MOVIES HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80228
 #EXTINF:-1 tvg-id="" tvg-name="OSN SERIES FIRST HD" tvg-logo="https://www2.0zz0.com/2021/07/08/21/953541722.png" group-title="English Movies",OSN SERIES FIRST HD
@@ -632,6 +637,8 @@ http://pyramidsiptv.com:8080/mohamed/mohamed123/80226
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80220
 #EXTINF:-1, tvg-id="" tvg-name="OSN Star World HD" group-title="English Movies",OSN Star World HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80219
+#EXTINF:-1, tvg-id="OSNMoviesComedy.net" tvg-name="OSN COMEDY CENTRAL" group-title="English Movies",OSN COMEDY CENTRAL
+http://pyramidsiptv.com:8080/mohamed/mohamed123/12845
 
 #English Movies Netflix
 
@@ -894,7 +901,7 @@ https://snehjiotv.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=0-9-300
 #EXTINF: -1 tvg-id="" tvg-name="MTV BEATS HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV BEATS HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD Plus" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD Plus
-https://livevoot-i.akamaihd.net/dash/live/828545/mtvhd/master.mpd
+http://master.webhop.net:25461/chip1/chip1/25072
 #EXTINF:-1 tvg-id="" tvg-name="9XM" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" group-title="Music",9XM
 https://m-c01-j2apps.s.llnwi.net/live_hd/0306.9XM.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="Mastiii.in" tvg-name="MASTIII" tvg-logo="https://j2apps.s.llnwi.net/pic/0589.Mastiii.in/en/1x1/208x208/test_pic1567397477532.jpg" group-title="Music",MASTIII
