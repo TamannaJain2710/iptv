@@ -391,7 +391,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD ONE" group-title="Hindi Movies",BOLLYWOOD ONE
 http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="Zing.in" tvg-name="ZING" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg" group-title="Hindi Movies",ZING
-http://master.webhop.net:25461/chip1/chip1/25042
+https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api/zing.m3u8
 #EXTINF:-1 tvg-id="Zing.uk" tvg-name="ZING UK" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg" group-title="Hindi Movies",ZING UK
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2854
 #EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC" tvg-logo="https://1.bp.blogspot.com/-EusXDTRFTL4/YMdA6NIao1I/AAAAAAAABLA/Fta1mlFKyUIz6f4pRWZevKe-vG28BZR7gCLcBGAsYHQ/s640/images%252849%2529.jpeg" group-title="Hindi Movies",BIG MAGIC
@@ -829,11 +829,11 @@ https://itvoign.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth (Eng)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg" group-title="Infotainment",Sony BBC Earth (Eng)
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="HISTORY TV 18" tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment",HISTORY TV 18
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87344
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=History_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="HISTORY TV 18" tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment",HISTORY TV 18
-https://feed.play.mv/live/10005200/isb9Qf3P5M/master.m3u8
-#EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="HISTORY TV 18 (ENG)" tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment",HISTORY TV 18 (ENG)
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87209
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=History_18_Hindi&q=800&e=junk.m3u8
+#EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="HISTORY TV 18" tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment",HISTORY TV 18
+http://103.153.39.36:8000/play/a013
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="" group-title="Infotainment",HISTORY 2
 https://feed.play.mv/live/10005200/uzBWuYCU0z/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CRIME INVESTIGATION" tvg-logo="" group-title="Infotainment",CRIME INVESTIGATION
@@ -849,9 +849,9 @@ http://143.244.60.10/HINDI__NAT_GEO_WILD_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="Infotainment",NAT GEO WILD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf64fa8235da80cdab652f86b9c1be050328d447b1471bc025e2f9ab03c30a7a2fd1c43b523fa41b6455412145b1a2d6878b1a28fbd4d706e48afb1602866940927ea134da9170e97eebc29f3823a69f42e90681f26&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="TravelXP.in" tvg-name="TRAVEL XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP
-http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56230
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="TravelXP.in" tvg-name="TRAVEL XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/87266
+https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Travel_XP&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="TravelXP.in" tvg-name="TRAVEL XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74223
 #EXTINF:-0 tvg-id="NASATV.us" tvg-name="NASA TV" group-title="Infotainment" tvg-logo="https://images.app.goo.gl/y8WRd8i5PHmhJFqKA", NASA TV
