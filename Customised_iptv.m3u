@@ -800,8 +800,10 @@ http://14.199.164.20:4001/play/a0qx/index.m3u8
 http://93.157.62.180:80/FoxLife/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="" group-title="Infotainment",FOX LIFE HD
 http://sonyiptv.net:8080/asim/asim/199287
-#EXTINF:-1 tvg-id="" tvg-name="SONY BBC EARTH HD" tvg-logo="" group-title="Infotainment",SONY BBC EARTH HD
+#EXTINF:-1 tvg-id="" tvg-name="SONY BBC EARTH HD" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg" group-title="Infotainment",SONY BBC EARTH HD
 https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Sony_BBC_Earth_HD&q=1200&e=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth (Eng)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg" group-title="Infotainment",Sony BBC Earth (Eng)
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVER FILMS" tvg-logo="" group-title="Infotainment",DISCOVER FILMS
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHD.in" tvg-name="Discovery HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png"  group-title="Infotainment",Discovery HD
@@ -830,8 +832,6 @@ https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
 https://idvd.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Animal planet" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png"  group-title="Infotainment",Animal Planet Hindi
 https://itvoign.multitvsolution.com/idvo/aphdhindi.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth (Eng)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg" group-title="Infotainment",Sony BBC Earth (Eng)
-https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="HISTORY TV 18" tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment",HISTORY TV 18
 https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=History_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="HISTORY TV 18" tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment",HISTORY TV 18
