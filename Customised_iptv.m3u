@@ -231,6 +231,8 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2845
 https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Rishtey&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS RISHTEY" tvg-logo="" group-title="Hindi Movies",COLORS RISHTEY
 http://z.sralm87.com:2082/azizi_320680/ghW1CE0B/86183
+#EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX BOLLYWOOD" tvg-logo="" group-title="Hindi Movies",COLORS CINEPLEX BOLLYWOOD
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Colors_Cineplex_Bollywood&q=1200&e=.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Zee TV USA" group-title="Entertainment" aspect-ratio="16:9",Zee TV USA
 https://f8e7y4c6.ssl.hwcdn.net/ztvsdusa/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Zee TV CANADA" group-title="Entertainment" aspect-ratio="16:9",Zee TV CANADA
@@ -309,7 +311,7 @@ https://f8e7y4c6.ssl.hwcdn.net/zanmolcnm/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png" group-title="Hindi Movies",ZEE ANMOL CINEMA
 https://techiesneh.in1.bitmana.io/snehapi/z5api/snehz5api.php?c=zeeanmolcinema
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png" group-title="Hindi Movies",ZEE ANMOL CINEMA
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Zee_Anmol_Cinema&q=800&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Zee_Anmol_Cinema&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
 http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56264
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
@@ -341,13 +343,13 @@ http://dtv21.org:2082/Red123_394985/sikXriN2I7/87338
 #EXTINF:-1 tvg-id="" tvg-name="UTSAV GOLD" group-title="Hindi Movies",UTSAV GOLD
 http://ns561850.ip-54-39-158.net:8080/3776/3776/148520
 #EXTINF:-1 tvg-id="" tvg-name="RISHTEY CINEPLEX" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies",RISHTEY CINEPLEX
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Rishtey_Cineplex&q=800&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Rishtey_Cineplex&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="RISHTEY CINEPLEX" tvg-logo="https://cdn.rishteycineplex.com/wp-content/uploads/2020/07/rishtey-logo-1.jpg" group-title="Hindi Movies",RISHTEY CINEPLEX
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Hindi Movies",COLORS CINEPLEX
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Cineplex&q=800&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Colors_Cineplex&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",COLORS CINEPLEX HD
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Colors_Cineplex_HD&q=800&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Colors_Cineplex_HD&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",COLORS CINEPLEX HD
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 tvg-id="SonyMAX.in" tvg-name="SONY MAX Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",SONY MAX Hd
@@ -365,7 +367,7 @@ http://eurotv.vip:80/2111/2111/13831
 #EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi Movies",SONY WAH
 http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56271
 #EXTINF:-1 tvg-id="" tvg-name="SONY PAL" group-title="Hindi Movies",SONY PAL
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Sony_Pal&q=800&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Sony_Pal&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
 http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56267
 #EXTINF:-1, tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
@@ -801,15 +803,15 @@ http://sonyiptv.net:8080/asim/asim/199287
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVER FILMS" tvg-logo="" group-title="Infotainment",DISCOVER FILMS
 https://discoverfilm-discoverfilm-1-gb.samsung.wurl.com/manifest/3000.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHD.in" tvg-name="Discovery HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png"  group-title="Infotainment",Discovery HD
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Discovery_Channel_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHD.in" tvg-name="Discovery HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png"  group-title="Infotainment",Discovery HD
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_HD_World&q=800&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Discovery_HD_World&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/G71vtRQ/disscience.png" group-title="Infotainment",Discovery Science
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Science&q=800&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Discovery_Science&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="https://i.ibb.co/G71vtRQ/disscience.png" group-title="Infotainment",Discovery Science
 https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://1.bp.blogspot.com/-H_L2r_7sR3E/YOv18EGF1XI/AAAAAAAAAWU/okyP7YsAGks8gz-KbiojS-NfrSQLcKYaQCLcBGAsYHQ/s200/images.jpeg" group-title="Infotainment",DISCOVERY TURBO
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Discovery_Turbo&q=800&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Discovery_Turbo&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="https://1.bp.blogspot.com/-H_L2r_7sR3E/YOv18EGF1XI/AAAAAAAAAWU/okyP7YsAGks8gz-KbiojS-NfrSQLcKYaQCLcBGAsYHQ/s200/images.jpeg" group-title="Infotainment",DISCOVERY TURBO
 https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
 #EXTINF:-1 tvg-id="TLC.in" tvg-name="TCL HD (IN)" tvg-logo="https://1.bp.blogspot.com/-JMO44CXmC0Y/YOv3ouQE1NI/AAAAAAAAAWs/3XcuqZ_7eeY4g6h7PK8LV6W-wDLbkZZ7QCLcBGAsYHQ/s200/images%2B%25283%2529.jpeg" group-title="Infotainment",TCL HD (IN)
@@ -829,9 +831,9 @@ https://itvoign.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Sony BBC Earth (Eng)" tvg-logo="https://1.bp.blogspot.com/-zYAP2nGr09g/YO57CSxsBCI/AAAAAAAAAdc/OUmF6g4zkrIY2QqMPPmDwE2YHWNbCu18wCLcBGAsYHQ/s200/images%252815%2529.jpeg" group-title="Infotainment",Sony BBC Earth (Eng)
 https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
 #EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="HISTORY TV 18" tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment",HISTORY TV 18
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=History_HD&q=1200&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=History_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="HISTORY TV 18" tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment",HISTORY TV 18
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=History_18_Hindi&q=800&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=History_18_Hindi&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="HistoryTv18.in" tvg-name="HISTORY TV 18" tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Infotainment",HISTORY TV 18
 http://103.153.39.36:8000/play/a013
 #EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="" group-title="Infotainment",HISTORY 2
@@ -849,9 +851,9 @@ http://143.244.60.10/HINDI__NAT_GEO_WILD_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgQIEnN4Ti5HbN7gcVm4vyfuH_6i9X89vYqL4-p_8VGH1S4wkVoA-xN-qXKlAu8Am24MI&usqp=CAU" group-title="Infotainment",NAT GEO WILD
 http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD-HINDI-NATGEOWILD/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c38eb01782ca657f46036bac31f9cfbf64fa8235da80cdab652f86b9c1be050328d447b1471bc025e2f9ab03c30a7a2fd1c43b523fa41b6455412145b1a2d6878b1a28fbd4d706e48afb1602866940927ea134da9170e97eebc29f3823a69f42e90681f26&mac=00:1A:79:4B:57:A3&ip=27.96.95.31&magic_server=MAIN_MP
 #EXTINF:-1 tvg-id="TravelXP.in" tvg-name="TRAVEL XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Travel_XP_HD&q=1200&e=junk.m3u8
 #EXTINF:-1 tvg-id="TravelXP.in" tvg-name="TRAVEL XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP
-https://techiesneh.in1.bitmana.io/snehapi/jioapi/snehjioxx.php?c=Travel_XP&q=800&e=junk.m3u8
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Travel_XP&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="TravelXP.in" tvg-name="TRAVEL XP" tvg-logo="https://i.imgur.com/6V48LwT.jpg" group-title="Infotainment",TRAVEL XP
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/74223
 #EXTINF:-0 tvg-id="NASATV.us" tvg-name="NASA TV" group-title="Infotainment" tvg-logo="https://images.app.goo.gl/y8WRd8i5PHmhJFqKA", NASA TV
