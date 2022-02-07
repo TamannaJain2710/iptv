@@ -171,6 +171,8 @@ https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=wion
 
 #EXTINF:-1 tvg-id="SonyEntertainmentTV.in" tvg-name="Sony SET" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony SET
 http://173.199.120.51/hls/chs.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" group-title="Entertainment",SONY PAL
+https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Sony_Pal&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="SonyTVHD.in" tvg-name="Sony HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",Sony HD
 https://feed.play.mv/live/10005200/7Lc21Ikj4q/master.m3u8
 #EXTINF:-1 tvg-id="SonyTVHD.in" tvg-name="SONY HD" tvg-logo="https://d3fxehhzqt25no.cloudfront.net/images/SET-HD-Logo.png" group-title="Entertainment",SONY HD
@@ -366,8 +368,6 @@ http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56273
 https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Sony_MAX2&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi Movies",SONY WAH
 https://snehapi.in1.bitmana.io/jioapi/snehjioxx.php?c=Sony_Wah&q=800&e=junk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SONY PAL" group-title="Hindi Movies",SONY PAL
-https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Sony_Pal&q=800&e=junk.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
 http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56267
 #EXTINF:-1, tvg-id="" tvg-name="UTV ACTION" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e9/UTV_Action.png/revision/latest/scale-to-width-down/340?cb=20111201123903" group-title="Hindi Movies",UTV ACTION
