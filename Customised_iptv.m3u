@@ -32,8 +32,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8?checkedby:hlscat.co
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 24" tvg-logo="https://media.news24online.com/static_dev/static_root/images/logo.jpg" group-title="News",NEWS 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TEZ" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/st-ak/yupptv/og_image/tez_news.jpg" group-title="News",TEZ
-https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_4/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT NEWS" tvg-logo="https://akm-img-a-in.tosshub.com/lingo/gnt/resources/img/GNT-Share.png" group-title="News",GNT NEWS
+https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News",NEWS NATION
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News",NEWS NATION
