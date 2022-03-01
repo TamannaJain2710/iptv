@@ -21,7 +21,7 @@ https://weblive.republicworld.com/httppush/ottr_republic_english/chunklist_2.m3u
 #EXTINF:-1 tvg-id="" tvg-name="BHARAT SAMACHAR" tvg-logo="https://j2apps.s.llnwi.net/pic/7060.BharatSamachar.in/en/1x1/208x208/test_pic1591601853502.jpg" group-title="News",BHARAT SAMACHAR
 https://m-c05-j2apps.s.llnwi.net/hls/7060.BharatSamachar.in.m3u8
 #EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-name="ZEE HINDUSTAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Zee_Hindustan_Logo.png" group-title="News",ZEE HINDUSTAN
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=zeehindustan
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/zeehindustan
 #EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="ZEE BUSINESS" tvg-logo="https://www.pikpng.com/pngl/b/30-303835_zee-business-zee-business-channel-logo-png-clipart.png" group-title="News",ZEE BUSINESS
 https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhhVdd9KCZkn39j5bd_cfAPPOFxAxSq2939Sb8HTw=s900-c-k-c0x00ffffff-no-rj" group-title="News",INDIA TV
@@ -37,13 +37,13 @@ https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m
 #EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News",NEWS NATION
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News",NEWS NATION
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=170
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/170
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TODAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Living_Media_logo.png" group-title="News",INDIA TODAY
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS X" tvg-logo="https://1.bp.blogspot.com/-0IxLqpt1Ngw/YOv4JNIWNbI/AAAAAAAAAW4/rUxiYo50ne8OJRHXkVdX4hXuDuCMd6VqACLcBGAsYHQ/s200/images%2B%252811%2529%25281%2529.jpeg" group-title="News",NEWS X
 https://m-c16-j2apps.s.llnwi.net/hls/0380.NewsX.in.m3u8
 #EXTINF:0 tvg-id="DDNews.in" tvg-name="DD NEWS" tvg-country="IN" tvg-logo="https://j2apps.s.llnwi.net/pic/0182.DDNews.in/en/1x1/208x208/test_pic1552315684641.jpg" group-title="News",DD NEWS
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=ddnews
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/ddnews
 #EXTINF:0 tvg-id="DDNews.in" tvg-name="DD NEWS" tvg-country="IN" tvg-logo="https://j2apps.s.llnwi.net/pic/0182.DDNews.in/en/1x1/208x208/test_pic1552315684641.jpg" group-title="News",DD NEWS
 http://14.199.164.20:4001/play/a0ty/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DD NATIONAL" tvg-country="IN" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="News",DD NATIONAL
@@ -165,7 +165,7 @@ https://content.uplynk.com/channel/411ba7ca8cb6403a9e73509e49c3a77b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" group-title="News",WION
 https://d2xqcdx4c8vu9s.cloudfront.net/out/v1/15b8393e9a9240b8bedd4c79ccefb301/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" group-title="News",WION
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=wion
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/wion
 
 #Entertainment
 
@@ -264,11 +264,11 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2837
 #EXTINF:-1 tvg-id="" tvg-name="AND TV" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",AND TV
 http://173.199.120.51/hls/andtv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AND Tv HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",AND TV HD
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=tvhd_0
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/tvhd_0
 #EXTINF:-1 tvg-id="" tvg-name="AND TV HD" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",AND TV HD
 https://feed.play.mv/live/1009/Cs525PFAub/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment",ZEE ANMOL
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=zeeanmol
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/zeeanmol
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment",ZEE ANMOL
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/186
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png" group-title="Entertainment",ZEE ANMOL
@@ -279,9 +279,9 @@ https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 #Hindi Movies
 
 #EXTINF:0  tvg-id="ZeeCinema.in" tvg-name="ZEE CINEMA" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654.png" group-title="Hindi Movies" aspect-ratio="16:9",ZEE CINEMA
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=zeecinema
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/zeecinema
 #EXTINF:0  tvg-id="ZeeCinema.in" tvg-name="ZEE CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies" aspect-ratio="16:9",ZEE CINEMA HD
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=zeecinemahd
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/zeecinemahd
 #EXTINF:0  tvg-id="ZeeCinema.in" tvg-name="ZEE CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies" aspect-ratio="16:9",ZEE CINEMA HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0  tvg-id="ZeeCinema.in" tvg-name="ZEE CINEMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScI7oJL-5hztHbfIIzC5_a_HrMtZU3ioxDvPn70yR08Wpw-BKGsE9jNiMv--Z-MBi1FGU&usqp=CAU" group-title="Hindi Movies" aspect-ratio="16:9",ZEE CINEMA HD
@@ -299,13 +299,13 @@ https://f8e7y4c6.ssl.hwcdn.net/cinemauk/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="ZEE ACTION" tvg-logo="https://s3.amazonaws.com/zaubatrademarks/265c62c6-22ce-49dc-a3c9-8b85d4a329eb.png" group-title="Hindi Movies",ZEE ACTION
 https://f8e7y4c6.ssl.hwcdn.net/action/playlist.m3u8
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="ZEE ACTION" tvg-logo="https://s3.amazonaws.com/zaubatrademarks/265c62c6-22ce-49dc-a3c9-8b85d4a329eb.png" group-title="Hindi Movies",ZEE ACTION
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=zeeaction
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/zeeaction
 #EXTINF:-1 tvg-id="ZeeAction.in" tvg-name="ZEE ACTION" tvg-logo="https://1.bp.blogspot.com/-dzCWp2FiJ5c/YJ9zCOlC9hI/AAAAAAAAAw8/NEgauC_JO-kp2FeNuVMfoo6Pdw9dtlwuACLcBGAsYHQ/s0/PicsArt_05-15-06.22.56.png" group-title="Hindi Movies",ZEE ACTION
 http://93.152.174.144:4000/play/zeeaction/index.m3u8
 #EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="Hindi Movies" aspect-ratio="16:9",ZEE BOLLYWOOD
 https://f8e7y4c6.ssl.hwcdn.net/classic/playlist.m3u8
 #EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="Hindi Movies" aspect-ratio="16:9",ZEE BOLLYWOOD
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=zeeclassic
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/zeeclassic
 #EXTINF:-1 tvg-id="zeebollywood.in" tvg-name="ZEE BOLLYWOOD" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/zee-bollywood.png" group-title="Hindi Movies" aspect-ratio="16:9",ZEE BOLLYWOOD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/180
 #EXTINF:-1 tvg-id="" tvg-name="ZEE ANMOL CINEMA" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595.png" group-title="Hindi Movies",ZEE ANMOL CINEMA
@@ -317,15 +317,15 @@ https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Zee_Anmol_Cinema&q=800&e=j
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
 http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56264
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=176
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/176
 #EXTINF:-1 tvg-id="zeeclassic.in" tvg-name="ZEE CLASSIC" tvg-logo="https://static.epg.best/in/ZeeClassic.in.png" group-title="Hindi Movies",ZEE CLASSIC
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/188
 #EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES" tvg-logo="https://static.epg.best/in/AndPictures.in.png" group-title="Hindi Movies",& PICTURES
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=pictures
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/pictures
 #EXTINF:-1 tvg-id="Pictures.in" tvg-name="& PICTURES (HD)" tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Hindi Movies",& PICTURES (HD)
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=tvpictureshd
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/tvpictureshd
 #EXTINF:-1 tvg-id="" tvg-name="& XPLOR HD" tvg-logo="https://watchindia.net/images/channels/hindi/And_Xplor_HD.png" group-title="Hindi Movies",& XPLOR HD
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=209
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/209
 #EXTINF:-1 tvg-id="StarGold.in" tvg-name="STAR GOLD" group-title="Hindi Movies", STAR GOLD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2848
 #EXTINF:-1 tvg-id="StarGoldHD.in" tvg-name="STAR GOLD HD" tvg-logo="https://picon-13398.kxcdn.com/stargold.jpg" group-title="Hindi Movies",STAR GOLD HD
@@ -393,11 +393,11 @@ https://m-c09-j2apps.s.llnwi.net/hls/8001.Bollywood.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BOLLYWOOD ONE" group-title="Hindi Movies",BOLLYWOOD ONE
 http://50.7.161.82:8277/streams/d/bollyone_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="Zing.in" tvg-name="ZING" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg" group-title="Hindi Movies",ZING
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=zing
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/zing
 #EXTINF:-1 tvg-id="Zing.uk" tvg-name="ZING UK" tvg-logo="https://1.bp.blogspot.com/-6-5ivff2Qr0/YKJc_fYlzFI/AAAAAAAAA24/QuZwdFkvVcMj99jKNjJ7nQQYRqOemjBRgCLcBGAsYHQ/w200-h200/PicsArt_03-17-06.57.07.jpg" group-title="Hindi Movies",ZING UK
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/2854
 #EXTINF:-1 tvg-id="" tvg-name="BIG MAGIC" tvg-logo="https://1.bp.blogspot.com/-EusXDTRFTL4/YMdA6NIao1I/AAAAAAAABLA/Fta1mlFKyUIz6f4pRWZevKe-vG28BZR7gCLcBGAsYHQ/s640/images%252849%2529.jpeg" group-title="Hindi Movies",BIG MAGIC
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=bigmagic_1786965389
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/bigmagic_1786965389
 #EXTINF:-1 tvg-id="" tvg-name="B4U KADAK" tvg-logo="https://i.imgur.com/Qwj4DnA.png" group-title="Hindi Movies",B4U KADAK
 http://14.199.164.20:4001/play/a0nd/index.m3u8
 #EXTINF:-1 tvg-id="B4UMovies.in" tvg-name="B4U MOVIES" tvg-logo="https://i.imgur.com/FiIewq2.png" group-title="Hindi Movies",B4U MOVIES 
@@ -462,9 +462,9 @@ https://sonar.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE Hd" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English Movies",ZEE CAFE Hd
 http://103.153.39.36:8000/play/a00t
 #EXTINF:-1 tvg-id="" tvg-name="ZEE CAFE Hd" tvg-logo="https://zeelwebsite.s3.amazonaws.com/zeetele/wp-content/uploads/2017/10/zee_cafe_hd.png" group-title="English Movies",ZEE CAFE Hd
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=zeecafehd
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/zeecafehd
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movies",&PRIVE HD
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=priv%C3%A9hd
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/priv%C3%A9hd
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movies",&PRIVE HD
 https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&PRIVE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4f/Logo_of_%26_Priv%C3%A9_HD.jpg" group-title="English Movies",&PRIVE HD
@@ -474,7 +474,7 @@ http://nwbz1u.ecm.tm/806B6CF/89181e/SM_FHD_ENG_ANDFLIX/tracks-v1a1/index.m3u8?to
 #EXTINF:-1 tvg-id="" tvg-name="AND Flix Hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="English Movies",AND Flix Hd
 https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AND Flix Hd" tvg-logo="https://akamaividz.zee5.com/resources/0-9-channel_2105335046/list/270x152/09channel_2105335046flix.jpg" group-title="English Movies",AND Flix Hd
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=channel_2105335046
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/channel_2105335046
 #EXTINF:-1 tvg-id="SonyPIX.in" tvg-name="SONY PIX" tvg-logo="https://1.bp.blogspot.com/-aWIKEawflVY/YTiqztLVcUI/AAAAAAAABIo/3fVag2zUjLImrLIG0jj_tchyvSuklPxpQCLcBGAsYHQ/s200/images%2B%25284%2529%25285%2529.png" group-title="English Movies",SONY PIX
 https://snehott.in1.bitmana.io/jiotv/snehjioxox.php?c=Sony_Pix_HD&q=1200&e=.m3u8
 #EXTINF:-1 tvg-id="SonyPIX.in" tvg-name="SONY PIX" tvg-logo="https://1.bp.blogspot.com/-aWIKEawflVY/YTiqztLVcUI/AAAAAAAABIo/3fVag2zUjLImrLIG0jj_tchyvSuklPxpQCLcBGAsYHQ/s200/images%2B%25284%2529%25285%2529.png" group-title="English Movies",SONY PIX
@@ -899,11 +899,11 @@ http://pyramidsiptv.com:8080/mohamed/mohamed123/91690
 #Music
 
 #EXTINF:-1 tvg-id="" tvg-name="ZEE5 MUSIC" tvg-logo="https://1.bp.blogspot.com/-nD9u2qNibps/YReloVq6yJI/AAAAAAAAA3w/3xPIEyUiZQgYGtAGfoYOCskxg6673C05QCLcBGAsYHQ/s200/images.png" group-title="Music",ZEE5 MUSIC
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=301
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/301
 #EXTINF:-1 tvg-id="" tvg-name="ZEE5 ORIGINALS" tvg-logo="https://1.bp.blogspot.com/-a4COK1uG1kw/YKMSlMYXckI/AAAAAAAAA3E/HSxxtAKew_IxmNw62gxA01Y9B1Tvw2LVACLcBGAsYHQ/w200-h117/images%252811%2529.jpeg" group-title="Music",ZEE5 ORIGINALS
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=299
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/299
 #EXTINF:-1 tvg-id="" tvg-name="ZEE5 PUNJABI BEATS" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-300/channel_web/1170x658withlog_1014754213.png" group-title="Music",ZEE5 PUNJABI BEATS
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=300
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/300
 #EXTINF: -1 tvg-id="" tvg-name="MTV BEATS HD" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music",MTV BEATS HD
 https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 tvg-id="" tvg-name="MTV HD Plus" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD Plus
@@ -941,7 +941,7 @@ http://14.199.164.20:4001/play/a0mt/index.m3u8
 #EXTINF:-1 tvg-id="Mtunes.in" tvg-name="MTUNES" tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Music",MTUNES
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 #EXTINF:-1 tvg-id="Mtunes.in" tvg-name="BOOGLE BOLLYWOOD" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732.png" group-title="Music",BOOGLE BOLLYWOOD
-https://snehapi.in1.bitmana.io/z5api/snehz5api.php?c=165
+https://snehapi-march.in1.bitmana.io/z5api/snehz5api/165
 
 #Bhakti/devotional
 
