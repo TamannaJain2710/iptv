@@ -93,7 +93,7 @@ https://idvd.multitvsolution.com:443/idvo/bansalnews_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IBC 24" tvg-logo="" group-title="News",IBC 24
 https://idvd.multitvsolution.com:443/idvo/ibc24_540p/index.m3u8
 #EXTINF:0 tvg-id="DWEnglish.de" tvg-name="DW NEWS" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW NEWS
-https://m-c010-j2apps.s.llnwi.net/hls/8023.DWEnglish.in.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:0 tvg-id="DWEnglish.de" tvg-name="DW NEWS" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="AL JAZEERA" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",AL JAZEERA
@@ -123,7 +123,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="CBCNewsXUMO.us" tvg-name="CBC News (XUMO) (720p)" tvg-logo="https://i.imgur.com/6TmWzvk.jpg" group-title="News",CBC News (XUMO) (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.in" tvg-name="BBC WORLD NEWS" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png" group-title="News",BBC WORLD NEWS
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-6/index.m3u8
+https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.in" tvg-name="BBC WORLD NEWS" tvg-logo="https://1.bp.blogspot.com/-3jjDd1KH1wA/YOrFXkOTL7I/AAAAAAAAAQY/wGnEqEGr5y4q1k3oqhVWraZiCH01-2B8wCLcBGAsYHQ/s200/PicsArt_07-11-03.47.50.png" group-title="News",BBC WORLD NEWS
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.in" tvg-name="BBC WORLD NEWS" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png" group-title="News",BBC WORLD NEWS
