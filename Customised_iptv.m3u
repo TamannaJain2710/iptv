@@ -29,7 +29,7 @@ https://pl-indiatvnews.akamaized.net/out/v1/8fe71f599a3a4092970bf21a66e770d8/ind
 #EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS" tvg-logo="https://j2apps.s.llnwi.net/pic/0442.IndiaNews.in/en/1x1/208x208/test_pic1552315699798.jpg" group-title="News", INDIA NEWS
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 18 INDIA" tvg-logo="https://1.bp.blogspot.com/-3Uciudd_7c4/YOrMDu0b_FI/AAAAAAAAAS0/iCm5y2aHGaU7rvEsvK333J9fTQ2FvxkXQCLcBGAsYHQ/s200/images%2B%252811%2529.jpeg" group-title="News",NEWS 18 INDIA
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=2600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 24" tvg-logo="https://media.news24online.com/static_dev/static_root/images/logo.jpg" group-title="News",NEWS 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://akm-img-a-in.tosshub.com/lingo/gnt/resources/img/GNT-Share.png" group-title="News",GNT
