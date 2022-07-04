@@ -55,21 +55,17 @@ https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SUDARSHAN NEWS" tvg-logo="https://1.bp.blogspot.com/-7Cr-WpFKZnU/YOrHE-ER4cI/AAAAAAAAARE/0INNILkwzVowli8W4AfxveqfPoiKCxRqwCLcBGAsYHQ/s200/images%2B%25282%2529%25281%2529.jpeg" group-title="News",SUDARSHAN NEWS
 https://stream.imagetv.in/hls6/sudarshantv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnibYv_8eCCk7bXO-BxT6sH6dK-2ZsmZQUVObcLd=s900-c-k-c0x00ffffff-no-rj" group-title="News",CNBC AWAAZ
-https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CNBC AWAAZ" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnibYv_8eCCk7bXO-BxT6sH6dK-2ZsmZQUVObcLd=s900-c-k-c0x00ffffff-no-rj" group-title="News",CNBC AWAAZ
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8?sd=10&rebase=on
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/CNBC_Awaaz_NW18_MOB-audio_97234_eng=97200-video=1290000.m3u8
 #EXTINF:-1 tvg-id="CNBCTV18.in" tvg-name="CNBC TV 18" tvg-logo="https://images.assettype.com/afaqs%2F2019-11%2F3d64fc8b-ce7c-4df5-80a5-ffffd46f8bfb%2FCNBC_TV18_Logo.jpg" group-title="News",CNBC TV 18
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18.in" tvg-name="CNBC TV 18" tvg-logo="https://images.assettype.com/afaqs%2F2019-11%2F3d64fc8b-ce7c-4df5-80a5-ffffd46f8bfb%2FCNBC_TV18_Logo.jpg" group-title="News",CNBC TV 18
-https://ch.iptvmate.net/ea6f7b1281c52c9b7b199e1fe73cbf5c.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_MOB-audio_98835_eng=98800-video=2600000.m3u8
 #EXTINF:-1 tvg-id="CNN-IBN.in" tvg-name="CNN-NEWS18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/CNN-News18_logo.png" group-title="News",CNN-NEWS18
-https://cnnnews18-lh.akamaihd.net/i/cnnnews18_1@174950/index_5_av-p.m3u8
+https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_98835_eng=98800-video=2600000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TIMES NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News" ,TIMES NOW
 https://timesnowhls.akamaized.net/hls/live/2033769/TNmainMSL4/chunklist_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",MIRROR NOW
 https://mrnhlslive.akamaized.net/hls/live/2034712/MIRRORNOW4MSL/chunklist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",MIRROR NOW
-http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+https://mrnhlslive.akamaized.net/hls/live/2034712/MIRRORNOW4MSL/chunklist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV 24x7" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png" group-title="News",NDTV 24x7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV PROFIT" tvg-logo="https://www.ndtv.com/business/content/images/profit_logo2017.png" group-title="News",NDTV PROFIT
@@ -83,7 +79,7 @@ https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w997952832_b
 #EXTINF:-1 tvg-id="" tvg-name="SADHNA PLUS" tvg-logo="https://1.bp.blogspot.com/-KxwvvnxlrbE/YOrLf5eRyBI/AAAAAAAAASo/GWl9NDMfMnwcWJNzSJLtJXm4iEvIKT0ogCLcBGAsYHQ/s200/images%2B%25287%2529.jpeg" group-title="News",SADHNA PLUS
 https://m-c03-j2apps.s.llnwi.net/hls/4380.SadhnaPlus.in.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HINDI KHABAR" tvg-logo="" group-title="News",HINDI KHABAR
-https://idvd.multitvsolution.com/idvo/hindikhabhar_540p/index.m3u8
+https://m-c07-j2apps.s.llnwi.net/hls/5208.HindiKhabar.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOTAL TV" tvg-logo="" group-title="News",TOTAL TV
 https://m-c049-j2apps.s.llnwi.net/hls/0131.TotalTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="INDIA VOICE" tvg-name="" tvg-logo="" group-title="News",INDIA VOICE
