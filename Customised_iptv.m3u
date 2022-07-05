@@ -87,7 +87,7 @@ https://idvd.multitvsolution.com:443/idvo/indiavoice_540p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BANSAL NEWS" tvg-logo="" group-title="News",BANSAL NEWS
 https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IBC 24" tvg-logo="" group-title="News",IBC 24
-https://livetv.ibc24.in/livestream.m3u8
+https://livetv.ibc24.in/livestream-3301238.ts
 #EXTINF:0 tvg-id="DWEnglish.de" tvg-name="DW NEWS" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW NEWS
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:0 tvg-id="DWEnglish.de" tvg-name="DW NEWS" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW NEWS
