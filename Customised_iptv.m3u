@@ -25,7 +25,7 @@ https://snehapi-march.in1.bitmana.io/z5api/snehz5api/zeehindustan
 #EXTINF:-1 tvg-id="ZeeBusiness.in" tvg-name="ZEE BUSINESS" tvg-logo="https://www.pikpng.com/pngl/b/30-303835_zee-business-zee-business-channel-logo-png-clipart.png" group-title="News",ZEE BUSINESS
 https://d8gy12azhr71i.cloudfront.net/out/v1/45be109c5b4f44319e882da947377364/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhhVdd9KCZkn39j5bd_cfAPPOFxAxSq2939Sb8HTw=s900-c-k-c0x00ffffff-no-rj" group-title="News",INDIA TV
-https://m-c02-j2apps.s.llnwi.net/hls/0091.IndiaTV.in_480p/index.m3u8
+https://d1ribbj7ls43cr.cloudfront.net/hls/0091.IndiaTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS" tvg-logo="https://j2apps.s.llnwi.net/pic/0442.IndiaNews.in/en/1x1/208x208/test_pic1552315699798.jpg" group-title="News", INDIA NEWS
 https://itvoign.multitvsolution.com/hls/inkhabar_itv_720_900k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 18 INDIA" tvg-logo="https://1.bp.blogspot.com/-3Uciudd_7c4/YOrMDu0b_FI/AAAAAAAAAS0/iCm5y2aHGaU7rvEsvK333J9fTQ2FvxkXQCLcBGAsYHQ/s200/images%2B%252811%2529.jpeg" group-title="News",NEWS 18 INDIA
@@ -33,7 +33,7 @@ https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 24" tvg-logo="https://media.news24online.com/static_dev/static_root/images/logo.jpg" group-title="News",NEWS 24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://akm-img-a-in.tosshub.com/lingo/gnt/resources/img/GNT-Share.png" group-title="News",GNT
-https://tezlive-amd.akamaized.net/hls/live/2016145/tez/tezlive/tez_5/chunklist.m3u8
+https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News",NEWS NATION
 https://m-c02-j2apps.s.llnwi.net/hls/1062.NewsNation.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News",NEWS NATION
