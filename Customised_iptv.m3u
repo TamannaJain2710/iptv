@@ -109,7 +109,7 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 #EXTINF:-1 tvg-id="CNA.sg" tvg-name="CNA (ASIA)" tvg-logo="https://1.bp.blogspot.com/-L6JBEL4I4jE/YL8j5M9SAqI/AAAAAAAABEU/c6soWjIk-lwQXdN_cYaV4h85H2jmHoh6wCLcBGAsYHQ/w320-h109/images%2838%29.jpeg" group-title="News",CNA (ASIA)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CBCNews.us" tvg-name="CBC News (720p)" tvg-logo="https://i.imgur.com/6TmWzvk.jpg" group-title="News",CBC News (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+https://cbcrclive-tor.akamaized.net/hls/live/2040317/geo_allow_global/ES_REGIONS_5/master_3000.m3u8
 #EXTINF:-1 tvg-id="CBCNewsXUMO.us" tvg-name="CBC News (XUMO) (720p)" tvg-logo="https://i.imgur.com/6TmWzvk.jpg" group-title="News",CBC News (XUMO) (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
 #EXTINF:-1 tvg-id="BBCWorldNews.in" tvg-name="BBC WORLD NEWS" tvg-logo="https://1.bp.blogspot.com/-RLGv2Qe4_os/YOwtXc8uXzI/AAAAAAAAAak/eI9M8-afHyUi8RxOm0u015PuzlsKSH3xwCLcBGAsYHQ/s200/PicsArt_07-12-05.23.40.png" group-title="News",BBC WORLD NEWS
