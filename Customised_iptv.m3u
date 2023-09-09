@@ -75,7 +75,7 @@ https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,5
 #EXTINF: -1 tvg-id="" tvg-name="NDTV INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="News",NDTV INDIA
 https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ET NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/ET_Now.png" group-title="News",ET NOW
-https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/7075de58-4e41-4e4b-af02-bb8868d45d97:TPE/variant/27e73521d36119371052e31d1c6a01dc/bandwidth/5002800.m3u8
+https://dai.google.com/linear/hls/pb/event/ZBBu7nCkQE2fNkDxXdWwIA/stream/27f8e648-f2f6-43d2-9142-30bd27bee910:SIN/variant/c085b2f1e6cc1a7ba665dfde9971b504/bandwidth/5054132.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ET_Now_Swadesh_Slogan.jpg" group-title="News",ET NOW SWADESH
 https://dai.google.com/linear/hls/pb/event/ESxxqb1yQ66F014Xpmeylw/stream/c78ba733-00fc-43aa-b870-6bc1a92eb3f2:SIN/variant/de26034a216eeb21bc616a5344a6cfa2/bandwidth/1592800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTC NEWS" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTCNews.png" group-title="News",PTC NEWS
