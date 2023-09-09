@@ -62,10 +62,10 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_M
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_131636_eng=131600-video=1680400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TIMES NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News" ,TIMES NOW
 https://dai.google.com/linear/hls/pb/event/XTQ4rIr5TVu0SPEcG24tTQ/stream/30687c05-818c-4bf1-9013-de3f3b5df1b8:TPE2/variant/b468c5c16d1bb7216a2ee729397d6f3b/bandwidth/1592800.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIMES NOW NAVBHARAT" tvg-logo="https://www.timesnowhindi.com/assets/icons/svg/logo-large.svg" group-title="News" ,TIMES NOW NAVBHARAT
+#EXTINF:-1 tvg-id="" tvg-name="TIMES NOW NAVBHARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Times_Now_Navbharat_Logo.jpg?20221220075651" group-title="News" ,TIMES NOW NAVBHARAT
 https://dai.google.com/linear/hls/pb/event/RDtRdeJUTfuRKDtZcZfZew/stream/a7f73e2a-9dd7-4826-b3a4-dd814fbafaac:TPE2/variant/9ea09de9f1c09fc5967ee82cab7ef7e4/bandwidth/2736800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",MIRROR NOW
-https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/aa5a1967-0992-4e16-a2c6-aa08d0045fb4:TPE2/variant/27e73521d36119371052e31d1c6a01dc/bandwidth/5002800.m3u8
+https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/7075de58-4e41-4e4b-af02-bb8868d45d97:TPE/variant/27e73521d36119371052e31d1c6a01dc/bandwidth/5002800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",MIRROR NOW
 https://mrnhlslive.akamaized.net/hls/live/2034712/MIRRORNOW4MSL/chunklist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV 24x7" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png" group-title="News",NDTV 24x7
