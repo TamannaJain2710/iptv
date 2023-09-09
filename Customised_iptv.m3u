@@ -42,6 +42,8 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://ythls.onrender.com/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8
 #EXTINF:0 tvg-id="DDNews.in" tvg-name="DD NEWS" tvg-country="IN" tvg-logo="https://j2apps.s.llnwi.net/pic/0182.DDNews.in/en/1x1/208x208/test_pic1552315684641.jpg" group-title="News",DD NEWS
 https://ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
+#EXTINF:0 tvg-id="" tvg-name="DD INDIA" tvg-country="IN" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="News",DD INDIA
+https://ythls.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DD NATIONAL" tvg-country="IN" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="News",DD NATIONAL
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index_dvr.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD RAJYA SABHA" tvg-logo="https://rstv.nic.in/wp-content/uploads/2016/12/rstv-logo.jpg" group-title="News",DD RAJYA SABHA
@@ -59,9 +61,9 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_M
 #EXTINF:-1 tvg-id="CNN-IBN.in" tvg-name="CNN-NEWS18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/CNN-News18_logo.png" group-title="News",CNN-NEWS18
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_131636_eng=131600-video=1680400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TIMES NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News" ,TIMES NOW
-https://pubads.g.doubleclick.net/ssai/event/1mR1QUQ3Tg-VuKfiyjwNuA/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TIMES NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News" ,TIMES NOW
-https://dai.google.com/linear/hls/pb/event/XTQ4rIr5TVu0SPEcG24tTQ/stream/8a2cfc96-b1cc-4315-a342-eee786e55b27:SIN/variant/b468c5c16d1bb7216a2ee729397d6f3b/bandwidth/1592800.m3u8
+https://dai.google.com/linear/hls/pb/event/XTQ4rIr5TVu0SPEcG24tTQ/stream/30687c05-818c-4bf1-9013-de3f3b5df1b8:TPE2/variant/b468c5c16d1bb7216a2ee729397d6f3b/bandwidth/1592800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIMES NOW NAVBHARAT" tvg-logo="https://www.timesnowhindi.com/assets/icons/svg/logo-large.svg" group-title="News" ,TIMES NOW NAVBHARAT
+https://dai.google.com/linear/hls/pb/event/RDtRdeJUTfuRKDtZcZfZew/stream/a7f73e2a-9dd7-4826-b3a4-dd814fbafaac:TPE2/variant/9ea09de9f1c09fc5967ee82cab7ef7e4/bandwidth/2736800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",MIRROR NOW
 https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/aa5a1967-0992-4e16-a2c6-aa08d0045fb4:TPE2/variant/27e73521d36119371052e31d1c6a01dc/bandwidth/5002800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",MIRROR NOW
