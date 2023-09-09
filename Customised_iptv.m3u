@@ -42,7 +42,7 @@ https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/
 https://ythls.onrender.com/channel/UCytSP0M0Jdnw6qIy3Y-nTig.m3u8
 #EXTINF:0 tvg-id="DDNews.in" tvg-name="DD NEWS" tvg-country="IN" tvg-logo="https://j2apps.s.llnwi.net/pic/0182.DDNews.in/en/1x1/208x208/test_pic1552315684641.jpg" group-title="News",DD NEWS
 https://ythls.onrender.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g.m3u8
-#EXTINF:0 tvg-id="" tvg-name="DD INDIA" tvg-country="IN" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="News",DD INDIA
+#EXTINF:0 tvg-id="" tvg-name="DD INDIA" tvg-country="IN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/DD_India_2019.jpg" group-title="News",DD INDIA
 https://ythls.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
 #EXTINF:0 tvg-id="" tvg-name="DD NATIONAL" tvg-country="IN" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="News",DD NATIONAL
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_480p/index_dvr.m3u8
