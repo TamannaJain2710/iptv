@@ -61,11 +61,11 @@ https://nw18live.cdn.jio.com/bpk-tv/CNBC_TV18_NW18_MOB/output01/CNBC_TV18_NW18_M
 #EXTINF:-1 tvg-id="CNN-IBN.in" tvg-name="CNN-NEWS18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/CNN-News18_logo.png" group-title="News",CNN-NEWS18
 https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18_MOB-audio_131636_eng=131600-video=1680400.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TIMES NOW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News" ,TIMES NOW
-https://dai.google.com/linear/hls/pb/event/XTQ4rIr5TVu0SPEcG24tTQ/stream/30687c05-818c-4bf1-9013-de3f3b5df1b8:TPE2/variant/b468c5c16d1bb7216a2ee729397d6f3b/bandwidth/1592800.m3u8
+http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/277534
 #EXTINF:-1 tvg-id="" tvg-name="TIMES NOW NAVBHARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Times_Now_Navbharat_Logo.jpg?20221220075651" group-title="News" ,TIMES NOW NAVBHARAT
 https://dai.google.com/linear/hls/pb/event/RDtRdeJUTfuRKDtZcZfZew/stream/a7f73e2a-9dd7-4826-b3a4-dd814fbafaac:TPE2/variant/9ea09de9f1c09fc5967ee82cab7ef7e4/bandwidth/2736800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ET NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/ET_Now.png" group-title="News",ET NOW
-https://dai.google.com/linear/hls/pb/event/ZBBu7nCkQE2fNkDxXdWwIA/stream/27f8e648-f2f6-43d2-9142-30bd27bee910:SIN/variant/c085b2f1e6cc1a7ba665dfde9971b504/bandwidth/5054132.m3u8
+http://pro.ipcover.tv:8080/PeNFSkD8Ax4v/QdADmX5mf2bB/277341
 #EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ET_Now_Swadesh_Slogan.jpg" group-title="News",ET NOW SWADESH
 https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",MIRROR NOW
@@ -164,6 +164,8 @@ http://210.210.155.37/uq2663/h/h91/index.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS N9INE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/News9live-logo_1_300x.png" group-title="News",NEWS N9INE
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/news9live/6d199974-2b90-4ed5-9a11-c51a35ecc849/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" group-title="News",BLOOMBERG
+https://dai.google.com/linear/hls/pb/event/BVlOmFGaTi6NpchccR14yA/stream/d4d8c8ae-fa60-46c5-8e1e-3805bd2bfd40:SIN2/variant/2669df91676be1a76e52d4de25e4f1a5/bandwidth/2400000.m3u8
 
 #Entertainment
 
@@ -353,17 +355,11 @@ https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/Color_Cineplex_HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="COLORS CINEPLEX HD" tvg-logo="https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_10000000050850000/LANDSCAPE_43/hLnucnRV.png" group-title="Hindi Movies",COLORS CINEPLEX HD
 https://feed.play.mv/live/10005200/ABTuyrBr22/master.m3u8
 #EXTINF:-1 tvg-id="SonyMAX.in" tvg-name="SONY MAX Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",SONY MAX Hd
-https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/Sony_Max_HD.m3u8
+http://208.86.19.13:81/7066.stream/index.m3u8
 #EXTINF:-1 tvg-id="SonyMAX.in" tvg-name="SONY MAX Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",SONY MAX Hd
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SonyMAX.in" tvg-name="SONY MAX Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",SONY MAX Hd
-http://221.120.204.4/SONY-MAX-LOCKLE/playlist.m3u8
-#EXTINF:-1 tvg-id="SonyMAX.in" tvg-name="SONY MAX Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",SONY MAX Hd
-http://dtv21.org:2082/Red123_394985/sikXriN2I7/49379
-#EXTINF:-1 tvg-id="SonyMAX.in" tvg-name="SONY MAX Hd" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/4867313348001.png" group-title="Hindi Movies",SONY MAX Hd
-http://tv.zaintv.net:80/1AqGRsGPM6/GTVjbO8ece/56273
 #EXTINF:-1 tvg-id="SonyMax2.in" tvg-name="SONY MAX 2" https://1.bp.blogspot.com/-Fzjw1hyvdDk/YP_2qIDD4pI/AAAAAAAAAsw/kwg4p6INXm8v-rI7sCVgvGL3GECNX4zIwCLcBGAsYHQ/s200/images.jpeg" group-title="Hindi Movies",SONY MAX 2
-https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/Sony_MAX2.m3u8
+http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY WAH" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Hindi Movies",SONY WAH
 https://snehapi-march.in1.bitmana.io/jioapi/tsjio1200/Sony_Wah.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="UTV IN" tvg-logo="https://picon-13398.kxcdn.com/utv.jpg" group-title="Hindi Movies",UTV IN
@@ -379,7 +375,7 @@ https://feed.play.mv/live/1009/h8ICfEsHxv/master.m3u8
 #EXTINF:-1 tvg-id="UTVMovies.in" tvg-name="UTV MOVIES" group-title="Hindi Movies",UTV MOVIES
 http://103.153.39.36:8000/play/a01o
 #EXTINF:-1 tvg-id="MBCBollywood.net" tvg-name="MBC BOLLYWOOD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="Hindi Movies",MBC BOLLYWOOD HD
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+https://shls-mbcdramaksa-ak.akamaized.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MINIPLEX"group-title="Hindi Movies",MINIPLEX
 http://sonyiptv.net:8080/asim/asim/199256
 #EXTINF:-1 tvg-id="" tvg-name="DISNEY+HOTSTAR"group-title="Hindi Movies",DISNEY+HOTSTAR
