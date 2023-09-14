@@ -64,6 +64,10 @@ https://nw18live.cdn.jio.com/bpk-tv/CNN_News18_NW18_MOB/output01/CNN_News18_NW18
 https://dai.google.com/linear/hls/pb/event/XTQ4rIr5TVu0SPEcG24tTQ/stream/30687c05-818c-4bf1-9013-de3f3b5df1b8:TPE2/variant/b468c5c16d1bb7216a2ee729397d6f3b/bandwidth/1592800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TIMES NOW NAVBHARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Times_Now_Navbharat_Logo.jpg?20221220075651" group-title="News" ,TIMES NOW NAVBHARAT
 https://dai.google.com/linear/hls/pb/event/RDtRdeJUTfuRKDtZcZfZew/stream/a7f73e2a-9dd7-4826-b3a4-dd814fbafaac:TPE2/variant/9ea09de9f1c09fc5967ee82cab7ef7e4/bandwidth/2736800.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ET NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/ET_Now.png" group-title="News",ET NOW
+https://dai.google.com/linear/hls/pb/event/ZBBu7nCkQE2fNkDxXdWwIA/stream/27f8e648-f2f6-43d2-9142-30bd27bee910:SIN/variant/c085b2f1e6cc1a7ba665dfde9971b504/bandwidth/5054132.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ET_Now_Swadesh_Slogan.jpg" group-title="News",ET NOW SWADESH
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",MIRROR NOW
 https://dai.google.com/linear/hls/pb/event/ClPOullTQky5vGPf7fMZ8g/stream/7075de58-4e41-4e4b-af02-bb8868d45d97:TPE/variant/27e73521d36119371052e31d1c6a01dc/bandwidth/5002800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",MIRROR NOW
@@ -74,10 +78,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="NDTV INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="News",NDTV INDIA
 https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ET NOW" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bf/ET_Now.png" group-title="News",ET NOW
-https://dai.google.com/linear/hls/pb/event/ZBBu7nCkQE2fNkDxXdWwIA/stream/27f8e648-f2f6-43d2-9142-30bd27bee910:SIN/variant/c085b2f1e6cc1a7ba665dfde9971b504/bandwidth/5054132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ET NOW SWADESH" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ET_Now_Swadesh_Slogan.jpg" group-title="News",ET NOW SWADESH
-https://dai.google.com/linear/hls/pb/event/ESxxqb1yQ66F014Xpmeylw/stream/c78ba733-00fc-43aa-b870-6bc1a92eb3f2:SIN/variant/de26034a216eeb21bc616a5344a6cfa2/bandwidth/1592800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PTC NEWS" tvg-logo="https://www.ptcnetwork.com/wp-content/uploads/2019/03/PTCNews.png" group-title="News",PTC NEWS
 https://streaming.ptcplay.com/PTCNEWSINONE/smil:Live.smil/chunklist_w875475711_b364000_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SADHNA PLUS" tvg-logo="https://1.bp.blogspot.com/-KxwvvnxlrbE/YOrLf5eRyBI/AAAAAAAAASo/GWl9NDMfMnwcWJNzSJLtJXm4iEvIKT0ogCLcBGAsYHQ/s200/images%2B%25287%2529.jpeg" group-title="News",SADHNA PLUS
