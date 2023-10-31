@@ -165,8 +165,9 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS N9INE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/News9live-logo_1_300x.png" group-title="News",NEWS N9INE
 https://vg-tv9live.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-573213/52436676-95aa-4ea7-8c0a-1f765e6211f2/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" group-title="News",BLOOMBERG
-https://dai.google.com/linear/hls/pb/event/BVlOmFGaTi6NpchccR14yA/stream/4372f24e-2e77-4590-8228-5eb3cfba5e6a:TPE/variant/2669df91676be1a76e52d4de25e4f1a5/bandwidth/2400000.m3u8
-
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" group-title="News",BLOOMBERG
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
 
 #Entertainment
 
