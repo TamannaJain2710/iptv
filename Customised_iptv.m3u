@@ -4,11 +4,11 @@
 
 #NEWS
 
-#EXTINF: -1 tvg-id="AajTak.in" tvg-name="AAJ TAK HD" tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="News",AAJ TAK HD
+#EXTINF: -1 tvg-id="AajTak.in" tvg-name="AAJ TAK HD" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/aajtak-logo-153X116-v2.png" group-title="News",AAJ TAK HD
 https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
-#EXTINF:-1 tvg-id="AajTak.in" tvg-name="AAJ TAK" tvg-logo="https://i.imgur.com/8UG9dAT.png" group-title="News",AAJ TAK
+#EXTINF:-1 tvg-id="AajTak.in" tvg-name="AAJ TAK" tvg-logo="https://akm-img-a-in.tosshub.com/aajtak/resource/img/aajtak-logo-153X116-v2.png" group-title="News",AAJ TAK
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ABP NEWS" tvg-logo="https://i.imgur.com/rOrQj07.png" group-title="News",ABP NEWS
+#EXTINF:-1 tvg-id="" tvg-name="ABP NEWS" tvg-logo="https://static.abplive.com/wp-content/uploads/sites/2/2020/12/18161030/ABP-News.jpg" group-title="News",ABP NEWS
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
 #EXTINF:-1 tvg-id="TV9BHARAT.IN" tvg-name="TV9 BHARATVARSH" tvg-logo="https://1.bp.blogspot.com/-DqMHYvLWcDU/YOrHVkxBjmI/AAAAAAAAARQ/eOh7fcrIHeA7j0MvLE9MPjQ6J2r42JmCQCLcBGAsYHQ/s204/images%2B%25283%2529%25284%2529.jpeg" group-title="News",TV9 BHARATVARSH
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_720p/chunks.m3u8
