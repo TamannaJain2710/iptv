@@ -16,8 +16,12 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="R BHARAT" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",R BHARAT
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/2e543408-490c-4d0d-996f-32a8a04668ac/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="R BHARAT" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",R BHARAT
+https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-561573/f6a430c7-ed61-4748-a063-3d386ee6fcbb/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REPUBLIC TV" tvg-logo="https://bharat.republicworld.com/assets/images/favicons/ms-icon-144x144.png" group-title="News",REPUBLIC TV
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/d4ac8cac-c809-4529-b6fc-a2c1807ba7c9/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="REPUBLIC TV" tvg-logo="https://bharat.republicworld.com/assets/images/favicons/ms-icon-144x144.png" group-title="News",REPUBLIC TV
+https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-952092/c2b5b673-5f1f-4952-83dc-a0a0627c97e1/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BHARAT SAMACHAR" tvg-logo="https://j2apps.s.llnwi.net/pic/7060.BharatSamachar.in/en/1x1/208x208/test_pic1591601853502.jpg" group-title="News",BHARAT SAMACHAR
 https://idvd.multitvsolution.com/idvo/bharatsamachar_360p.m3u8
 #EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-name="ZEE HINDUSTAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Zee_Hindustan_Logo.png" group-title="News",ZEE HINDUSTAN
@@ -163,7 +167,7 @@ http://210.210.155.37/uq2663/h/h91/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="WION" tvg-logo="https://akamaividz.zee5.com/resources/0-9-wion/list/386x386/09wionwion.png" group-title="News",WION
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS N9INE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ae/News9live-logo_1_300x.png" group-title="News",NEWS N9INE
-https://vg-tv9live.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-573213/52436676-95aa-4ea7-8c0a-1f765e6211f2/3.m3u8
+https://vg-tv9yupp.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-237347/56a078d7-2f25-4543-88f6-3b2558646c47/3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" group-title="News",BLOOMBERG
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-04-jZwxsD5tnuA_live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" group-title="News",BLOOMBERG
