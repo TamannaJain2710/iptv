@@ -27,7 +27,7 @@ https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhhVdd9KCZkn39j5bd_cfAPPOFxAxSq2939Sb8HTw=s900-c-k-c0x00ffffff-no-rj" group-title="News",INDIA TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS" tvg-logo="https://j2apps.s.llnwi.net/pic/0442.IndiaNews.in/en/1x1/208x208/test_pic1552315699798.jpg" group-title="News", INDIA NEWS
-https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
+https://newsxott.in/hls/indianewsnational.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 18 INDIA" tvg-logo="https://1.bp.blogspot.com/-3Uciudd_7c4/YOrMDu0b_FI/AAAAAAAAAS0/iCm5y2aHGaU7rvEsvK333J9fTQ2FvxkXQCLcBGAsYHQ/s200/images%2B%252811%2529.jpeg" group-title="News",NEWS 18 INDIA
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_131636_eng=131600-video=3110800.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 24" tvg-logo="https://media.news24online.com/static_dev/static_root/images/logo.jpg" group-title="News",NEWS 24
@@ -1071,5 +1071,6 @@ http://103.16.47.70:9666/
 http://peridot.streamguys.com:7150/Mirchi
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo Bhakti Radio online" tvg-logo="" group-title="RADIO FM",Shemaroo Bhakti Radio online
 https://radiobhaktishopping.shemaroo.com/hariomradio/Stream1_aac/chunklist_w1854039901.m3u8
+
 
 
