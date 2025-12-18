@@ -26,7 +26,7 @@ https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 https://dwby15d04agvq.cloudfront.net/index_5.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TV" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhhVdd9KCZkn39j5bd_cfAPPOFxAxSq2939Sb8HTw=s900-c-k-c0x00ffffff-no-rj" group-title="News",INDIA TV
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS" tvg-logo="https://j2apps.s.llnwi.net/pic/0442.IndiaNews.in/en/1x1/208x208/test_pic1552315699798.jpg" group-title="News", INDIA NEWS
+#EXTINF:-1 tvg-id="" tvg-name="INDIA NEWS" tvg-logo="https://j2apps.s.llnwi.net/pic/0442.IndiaNews.in/en/1x1/208x208/test_pic1552315699798.jpg" group-title="News",INDIA NEWS
 https://newsxott.in/hls/indianewsnational.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS 18 INDIA" tvg-logo="https://1.bp.blogspot.com/-3Uciudd_7c4/YOrMDu0b_FI/AAAAAAAAAS0/iCm5y2aHGaU7rvEsvK333J9fTQ2FvxkXQCLcBGAsYHQ/s200/images%2B%252811%2529.jpeg" group-title="News",NEWS 18 INDIA
 https://nw18live.cdn.jio.com/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_131636_eng=131600-video=3110800.m3u8
@@ -35,7 +35,7 @@ https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="https://akm-img-a-in.tosshub.com/lingo/gnt/resources/img/GNT-Share.png" group-title="News",GNT
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS NATION" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_Nation.png" group-title="News",NEWS NATION
-https://livetv-channels.b-cdn.net/8006/playlist.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="INDIA TODAY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Living_Media_logo.png" group-title="News",INDIA TODAY
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NEWS X" tvg-logo="https://1.bp.blogspot.com/-0IxLqpt1Ngw/YOv4JNIWNbI/AAAAAAAAAW4/rUxiYo50ne8OJRHXkVdX4hXuDuCMd6VqACLcBGAsYHQ/s200/images%2B%252811%2529%25281%2529.jpeg" group-title="News",NEWS X
@@ -49,7 +49,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 #EXTINF:-1 tvg-id="" tvg-name="DD RAJYA SABHA" tvg-logo="https://rstv.nic.in/wp-content/uploads/2016/12/rstv-logo.jpg" group-title="News",DD RAJYA SABHA
 https://m-c16-j2apps.s.llnwi.net/hls/0285.RSTV.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DD LOK SABHA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Lok_Sabha_TV_logo.jpg" group-title="News",DD LOK SABHA
-https://livectv.phando.com/8018/chunklist0.m3u8
+https://playhls.media.nic.in/hls/live/lstv/lstv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SAHARA SAMAY" tvg-logo="https://j2apps.s.llnwi.net/pic/0184.Samay.in/en/1x1/208x208/test_pic1556288457224.jpg"group-title="News",SAHARA SAMAY
 https://m-c03-j2apps.s.llnwi.net/hls/0184.Samay.in_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SUDARSHAN NEWS" tvg-logo="https://1.bp.blogspot.com/-7Cr-WpFKZnU/YOrHE-ER4cI/AAAAAAAAARE/0INNILkwzVowli8W4AfxveqfPoiKCxRqwCLcBGAsYHQ/s200/images%2B%25282%2529%25281%2529.jpeg" group-title="News",SUDARSHAN NEWS
@@ -73,7 +73,7 @@ https://yupptvcatchupire.yuppcdn.net/mirrornow/14Sep2023/2500/1694687456029_4000
 #EXTINF:-1 tvg-id="" tvg-name="MIRROR NOW" group-title="News" tvg-logo="https://yt3.ggpht.com/-XmvqPl571Ak/AAAAAAAAAAI/AAAAAAAAAAA/mMm0Tpd90kU/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",MIRROR NOW
 https://mrnhlslive.akamaized.net/hls/live/2034712/MIRRORNOW4MSL/chunklist_3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV 24x7" tvg-logo="https://cdn.ndtv.com/static/images/ndtv_default_image_livetv.png" group-title="News",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="NDTV PROFIT" tvg-logo="https://www.ndtv.com/business/content/images/profit_logo2017.png" group-title="News",NDTV PROFIT
 https://ndtv.pc.cdn.bitgravity.com/ndtv/live/amlst:ndtv_profit_,48,128,256,382,512,.smil/chunklist_b512000.m3u8
 #EXTINF: -1 tvg-id="" tvg-name="NDTV INDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ed/NDTV_India.png" group-title="News",NDTV INDIA
@@ -1071,6 +1071,7 @@ http://103.16.47.70:9666/
 http://peridot.streamguys.com:7150/Mirchi
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo Bhakti Radio online" tvg-logo="" group-title="RADIO FM",Shemaroo Bhakti Radio online
 https://radiobhaktishopping.shemaroo.com/hariomradio/Stream1_aac/chunklist_w1854039901.m3u8
+
 
 
 
