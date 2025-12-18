@@ -15,9 +15,9 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 #EXTINF:-1 tvg-id="" tvg-name="ZEE NEWS" tvg-logo="https://1.bp.blogspot.com/-WU5YfY3WEZo/YMdDmOYuJoI/AAAAAAAABL4/s3WLrJ8Um7MsZUIYzn5DM63pB5Yh2YmggCLcBGAsYHQ/s320/images%252822%2529.jpeg" group-title="News",ZEE NEWS
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="R BHARAT" tvg-logo="https://i.imgur.com/BG1aZ6V.jpg" group-title="News",R BHARAT
-https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/706db668-3e75-4272-84e5-6c10ecd93327/3.m3u8
+https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="REPUBLIC TV" tvg-logo="https://bharat.republicworld.com/assets/images/favicons/ms-icon-144x144.png" group-title="News",REPUBLIC TV
-https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/f00d1f67-5cfd-4285-8935-711080a4b7ec/0.m3u8
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BHARAT SAMACHAR" tvg-logo="https://j2apps.s.llnwi.net/pic/7060.BharatSamachar.in/en/1x1/208x208/test_pic1591601853502.jpg" group-title="News",BHARAT SAMACHAR
 https://idvd.multitvsolution.com/idvo/bharatsamachar_360p.m3u8
 #EXTINF:-1 tvg-id="ZeeHindustan.in" tvg-name="ZEE HINDUSTAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Zee_Hindustan_Logo.png" group-title="News",ZEE HINDUSTAN
@@ -1071,6 +1071,7 @@ http://103.16.47.70:9666/
 http://peridot.streamguys.com:7150/Mirchi
 #EXTINF:-1 tvg-id="" tvg-name="Shemaroo Bhakti Radio online" tvg-logo="" group-title="RADIO FM",Shemaroo Bhakti Radio online
 https://radiobhaktishopping.shemaroo.com/hariomradio/Stream1_aac/chunklist_w1854039901.m3u8
+
 
 
 
